@@ -10449,6 +10449,11 @@ h3 {
   border-radius: 20px;
 }
 
+hr,
+.dropdown-divider {
+  border-top: 1px solid #613318;
+}
+
 @media (max-width: 768px) {
   h1 {
     font-size: 3.5rem;
@@ -10659,23 +10664,20 @@ h3 {
 .centerPages h1,
 .centerPages h2,
 .centerPages p,
-.centerPages .lead {
+.centerPages .lead,
+#blogPage h1,
+#blogPage h2,
+#blogPage p,
+#blogPage .lead {
   color: #613318;
-}
-
-#catoPage hr,
-#rolesPage hr,
-#usersPage hr,
-#galleriesPage hr,
-.centerPages hr {
-  border-top: 1px solid #613318;
 }
 
 #catoPage img,
 #rolesPage img,
 #usersPage img,
 #galleriesPage img,
-.centerPages img {
+.centerPages img,
+#blogPage img {
   border-radius: 15px;
 }
 

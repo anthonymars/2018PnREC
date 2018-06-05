@@ -61,6 +61,10 @@ h3 {
   border-radius:20px;
 }
 
+hr, .dropdown-divider {
+  border-top: 1px solid $brown;
+}
+
 
 @media(max-width:768px) {
   h1 {
@@ -269,14 +273,11 @@ h3 {
 #rolesPage,
 #usersPage,
 #galleriesPage,
-.centerPages {
+.centerPages,
+#blogPage{
 
   h1, h2, p, .lead {
     color:$brown;
-  }
-
-  hr {
-    border-top: 1px solid $brown;
   }
 
   img {

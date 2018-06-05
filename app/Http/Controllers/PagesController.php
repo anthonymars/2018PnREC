@@ -24,7 +24,7 @@ class PagesController extends Controller
 
     public function mlk() {
         $photobook = Photobook::whereTitle('Martin Luther King Jr.')->first();
-        return view('pages.mlk-jr', compact('photobook'));
+        return view('pages.mkl-jr', compact('photobook'));
     }
 
     public function northCharleston() {

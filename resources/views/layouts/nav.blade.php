@@ -22,11 +22,14 @@
                         <a class="dropdown-item" href="/cato"><strong>Cato</strong></a>
                         <a class="dropdown-item" href="/kanawha-city"><strong>Kanawha City</strong></a>
                         <a class="dropdown-item" href="/mlk-jr"><strong>Martin Luther King Jr.</strong></a>
+                        <a class="dropdown-item" href="/north-charleston"><strong>North Charleston</strong></a>
                         <a class="dropdown-item" href="/roosevelt"><strong>Roosevelt</strong></a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="/galleries"><strong>Gallery</strong></a>
                     </div>
                 </li>
                 <a id="nav-link" class="nav-item nav-link" href="/2018-sponsors"><strong>Things To Do</strong></a>
-                <a id="nav-link" class="nav-item nav-link" href="/faq"><strong>Our Stories</strong></a>
+                <a id="nav-link" class="nav-item nav-link" href="/blogs"><strong>Our Stories</strong></a>
                 <a id="nav-link" class="nav-item nav-link" href="/charities"><strong>Get In Touch</strong></a>
                 <!-- Authentication Links -->
             @guest

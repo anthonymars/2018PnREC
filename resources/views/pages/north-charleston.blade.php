@@ -8,12 +8,14 @@
 @section('content')
     <?php
     $countStuff = 0;
-    $itemCount = count($photobook->pics) - 1;
+    if($photobook) {
+        $itemCount = count($photobook->pics) - 1;
+    }
     ?>
 
     <section class="pt-5 centerPages">
         <div class="container py-5">
-            <h1>Cato Park</h1>
+            <h1>North Charleston</h1>
             <hr>
             <div class="col-md-12">
                 <p>In 1970, Charleston attorney, Henry S. Cato, created the 'Cato Park Foundation' with the heart of a true Charlestonian: develop a park for the people. Almost 50 years later, we hope we are making Cato proud!</p>
@@ -55,22 +57,22 @@
                 </div>
                 <hr>
                 <h2>Photos</h2>
-
-                @foreach($photobook->pics as $p)
-                    @if($countStuff == 0)
-                        <div class="row">
-                            @endif
-                            <div class="col-md-3">
-                                <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
-                                <p class="text-center"><small>{{ $p->title }}</small></p>
+                @if($photobook)
+                    @foreach($photobook->pics as $p)
+                        @if($countStuff == 0)
+                            <div class="row">
+                                @endif
+                                <div class="col-md-3">
+                                    <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
+                                    <p class="text-center"><small>{{ $p->title }}</small></p>
+                                </div>
+                                @if($countStuff == 4 or $countStuff == $itemCount)
                             </div>
-                            @if($countStuff == 4 or $countStuff == $itemCount)
-                        </div>
-                        <?php $countStuff = 0 ?>
-                    @endif
-                    <?php $countStuff = $countStuff + 1; ?>
-
-                @endforeach
+                            <?php $countStuff = 0 ?>
+                        @endif
+                        <?php $countStuff = $countStuff + 1; ?>
+                    @endforeach
+                @endif
                 <a href="/gallery/cato" class="btn btn-main">See More</a>
                 <hr>
                 <p class="text-center">We hope you'll recreate with us and think of Cato Park as fondly as we do.</p>

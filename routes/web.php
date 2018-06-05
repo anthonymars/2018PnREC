@@ -19,9 +19,13 @@ Auth::routes();
 Route::get('/', 'PagesController@index');
 Route::get('/cato', 'PagesController@cato');
 Route::get('/kanawha-city', 'PagesController@kanawha');
-Route::get('/mlk', 'PagesController@mlk');
-Route::get('/north-charleston', 'PagesController@north-charleston');
+Route::get('/mlk-jr', 'PagesController@mlk');
+Route::get('/north-charleston', 'PagesController@northCharleston');
 Route::get('/roosevelt', 'PagesController@roosevelt');
+
+
+
+
 
 
 
@@ -46,3 +50,11 @@ Route::post('/admin/users/{id}/update', 'AdminsController@userUpdate');
 Route::get('/admin/gallery/create', 'PhotobooksController@create');
 Route::post('/admin/gallery', 'PhotobooksController@store');
 Route::post('/admin/pics', 'PicsController@store');
+
+Route::get('/blogs/create', 'BlogsController@create');
+Route::post('/blogs', 'BlogsController@store');
+
+
+/* -------------- Blogs */
+Route::get('/blogs', 'BlogsController@index');
+Route::get('/blogs/{slug}', 'BlogsController@show' );
