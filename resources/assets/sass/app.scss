@@ -1,0 +1,294 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900|Teko:300,400,500,600,700');
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+$orange: #d57500;
+$green: #404F24;
+$lightGreen: #668d3c;
+$brown: #613318;
+$yellow: #dbca69;
+$blue: #4e6172;
+$offWhite: #f8f8f8;
+
+$lightBrown: lighten($brown, 20);
+$lightGreen: lighten($green, 20);
+$lightOrange: lighten($orange,20);
+$lightYellow: lighten($yellow, 20);
+$darkYellow: darken($yellow,20);
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-weight:300;
+  font-size:1.6rem;
+}
+
+h1 {
+  font-size:5.5rem;
+  font-family: 'Teko', sans-serif;
+  font-weight:700;
+  text-shadow:1px 1px 1px black;
+}
+
+h2 {
+  font-size:3.5rem;
+  font-family: 'Teko', sans-serif;
+  font-weight:700;
+}
+
+h3 {
+  font-size:2.7rem;
+  font-family: 'Teko', sans-serif;
+  font-weight:700;
+}
+
+.thick500 {
+  font-weight:500;
+}
+
+.diffText {
+  background-color:$lightYellow;
+  padding:20px;
+  border-radius:20px;
+}
+
+
+@media(max-width:768px) {
+  h1 {
+    font-size:3.5rem;
+  }
+
+  h2 {
+    font-size:2.7rem;
+  }
+
+  h3 {
+    font-size:1.8rem;
+  }
+
+  p {
+    font-size: 1.2rem;
+  }
+}
+
+.btn-main {
+  color: #fff;
+  background-color: $orange;
+  border-color: $lightOrange;
+}
+
+.btn-main:hover {
+  color: #fff;
+  background-color: $lightOrange;
+}
+
+/* ---------------- NAV */
+
+.navbar {
+  border-bottom: 1px solid $orange;
+  background-color:$green;
+}
+
+.navbar-brand img {
+  max-width:250px;
+}
+
+
+.navbar-light .navbar-nav .nav-link,
+.dropdown-toggle {
+  color:$offWhite;
+  font-weight:400;
+  font-size:1.3rem;
+  border-left: 3px solid transparent;
+}
+
+.dropdown-item {
+  color:$green;
+  font-weight:400;
+  font-size:1.1rem;
+}
+
+.dropdown-menu {
+  background-color:$lightYellow;
+  color:$green;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color:$orange;
+  border-left: 3px solid $orange;
+}
+
+
+@media(max-width:768px) {
+  .navbar .nav-link {
+    padding-left:10px;
+  }
+
+  .navbar-brand img {
+    max-height: 50px;
+  }
+}
+
+
+
+/* ---------------- SLIDER */
+
+.carousel h4 {
+  color: $yellow;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.carousel-image-1 {
+  background: url('/images/slider/catoSlider.jpg') no-repeat center left;
+  background-size:cover;
+}
+
+.carousel-image-2 {
+  background: url('/images/slider/waterfall.jpg') no-repeat top center;
+  background-size:cover;
+}
+
+.carousel-item {
+  height:600px;
+}
+
+@media(max-width: 768px) {
+  .carousel-item {
+    height:400px;
+  }
+}
+
+
+
+/* ---------------- INFO */
+
+#info {
+  color:$brown;
+}
+
+.infoText {
+  font-family: 'Montserrat', sans-serif;
+  font-weight:300;
+  font-size:2.1rem;
+}
+
+#partOf {
+  color:$brown;
+  background-color:$lightYellow;
+
+  i {
+    color:$offWhite;
+    padding:20px;
+    background-color: $orange;
+    border-radius:50%;
+    margin-top:35px;
+  }
+}
+
+#homeBlocks {
+
+  h2 {
+    color:$offWhite;
+  }
+
+  p {
+    color:$offWhite;
+  }
+
+  .blockHeight {
+    height: 300px;
+  }
+
+  .card {
+    border: none;
+    background:transparent;
+  }
+
+  .card-body {
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border:none;
+  }
+
+  .block1 {
+    background-color:$brown;
+  }
+
+  .block2 {
+    background-color:$green;
+  }
+
+  .block3 {
+    background-color:$orange;
+  }
+
+  .block4 {
+    background-color:$darkYellow;
+  }
+
+  i {
+    color:$offWhite;
+    padding:20px;
+    background-color: $blue;
+    border-radius:50%;
+    margin-top:35px;
+  }
+
+  @media(max-width:991px) {
+    .card {
+      margin-bottom: 25px;
+    }
+
+  }
+
+  @media(max-width:768px) {
+    .blockHeight {
+      height: 250px;
+    }
+
+    .card {
+      margin-bottom:15px;
+    }
+
+  }
+
+}
+
+/* ---------------- Pages */
+
+#catoPage,
+#rolesPage,
+#usersPage,
+#galleriesPage,
+.centerPages {
+
+  h1, h2, p, .lead {
+    color:$brown;
+  }
+
+  hr {
+    border-top: 1px solid $brown;
+  }
+
+  img {
+    border-radius: 15px;
+  }
+}
+
+#footer {
+  background-color:$green;
+
+  .addy {
+    font-size:.9rem;
+    color: $offWhite;
+  }
+}
