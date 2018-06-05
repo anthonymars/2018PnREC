@@ -15,7 +15,9 @@
                 @foreach($photobooks as $p)
                     <div class="row">
                         <div class="col-md-3">
-                            <img style="max-height:200px" src="/images/pics/sm/sm-{{ $p->pics[0]->image }}" alt="" class="img-fluid">
+                            @if(count($p->pics) > 0)
+                                <img style="max-height:200px" src="/images/pics/sm/sm-{{ $p->pics[0]->image }}" alt="" class="img-fluid">
+                            @endif
                         </div>
                         <div class="col-md-9">
                             <h2><a href="/gallery/{{ $p->slug }}">{{$p->title}}</a></h2>
