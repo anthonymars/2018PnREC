@@ -8,7 +8,9 @@
 @section('content')
 <?php
 $countStuff = 0;
-$itemCount = count($photobook->pics) - 1;
+if($photobook) {
+    $itemCount = count($photobook->pics) - 1;
+}
 ?>
 
 <section id="catoPage" class="pt-5">
@@ -55,41 +57,42 @@ $itemCount = count($photobook->pics) - 1;
             </div>
             <hr>
             <h2>Photos</h2>
+            @if($photobook)
+                @foreach($photobook->pics as $p)
+                    @if($countStuff == 0)
+                        <div class="row">
+                            @endif
+                            <div class="col-md-3">
+                                <a href="#" data-toggle="modal" data-target="#cato2Modal{{ $p->id }}">
+                                    <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
+                                </a>
+                                <div class="modal fade" id="cato2Modal{{$p->id}}" tabindex="-1" role="dialog" aria-labelledby="cato2ModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h5 class="modal-title" id="exampleModalLabel">{{ $p->title }}</h5>
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <img src="{{ asset('/images/pics/lg/lg-' . $p->image) }}" alt="{{ $p->title  }}" class="img-fluid">
+                                            </div>
 
-            @foreach($photobook->pics as $p)
-                @if($countStuff == 0)
-                    <div class="row">
-                @endif
-                    <div class="col-md-3">
-                        <a href="#" data-toggle="modal" data-target="#cato2Modal{{ $p->id }}">
-                        <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
-                        </a>
-                        <div class="modal fade" id="cato2Modal{{$p->id}}" tabindex="-1" role="dialog" aria-labelledby="cato2ModalLabel" aria-hidden="true">
-                            <div class="modal-dialog" role="document">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLabel">{{ $p->title }}</h5>
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                            <span aria-hidden="true">&times;</span>
-                                        </button>
+                                        </div>
                                     </div>
-                                    <div class="modal-body">
-                                        <img src="{{ asset('/images/pics/lg/lg-' . $p->image) }}" alt="{{ $p->title  }}" class="img-fluid">
-                                    </div>
-
                                 </div>
+
+                                <p class="text-center"><small>{{ $p->title }}</small></p>
                             </div>
+                            @if($countStuff == 4 or $countStuff == $itemCount)
                         </div>
+                        <?php $countStuff = 0 ?>
+                    @endif
+                    <?php $countStuff = $countStuff + 1; ?>
 
-                        <p class="text-center"><small>{{ $p->title }}</small></p>
-                    </div>
-                @if($countStuff == 4 or $countStuff == $itemCount)
-                    </div>
-                    <?php $countStuff = 0 ?>
-                @endif
-                <?php $countStuff = $countStuff + 1; ?>
-
-            @endforeach
+                @endforeach
+            @endif
             <a href="/gallery/cato" class="btn btn-main">See More</a>
             <hr>
             <p class="text-center">We hope you'll recreate with us and think of Cato Park as fondly as we do.</p>
