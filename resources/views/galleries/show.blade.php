@@ -20,7 +20,26 @@
                 <div class="row">
                 @endif
                     <div class="col-md-3">
+                        <a href="#" data-toggle="modal" data-target="#{{$pb->slug}}Modal{{ $pb->id }}">
                         <img src="{{ asset('/images/pics/sm/sm-' . $pb->image) }}" alt="{{ $pb->title }}" class="img-fluid">
+                        </a>
+                        <div class="modal fade" id="{{ $pb->slug }}Modal{{$pb->id}}" tabindex="-1" role="dialog" aria-labelledby="ncModalLabel" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">{{ $pb->title }}</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <img src="{{ asset('/images/pics/lg/lg-' . $pb->image) }}" alt="{{ $pb->title  }}" class="img-fluid">
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Modal -->
                         <p class="text-center"><small>{{ $pb->title }}</small></p>
                     </div>
                 @if($countStuff == 4 or $countStuff == $itemCount)

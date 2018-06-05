@@ -57,9 +57,8 @@
                                 <div class="dropdown-divider"></div>
                             @endif
                             @if(Auth::user()->hasRole('SuperFly'))
-                                <a class="dropdown-item" href="/pics/create">Add A Front Row Picture</a>
-                                <a href="/2018-events/create" class="dropdown-item">Add A New Event</a>
-                                <a class="dropdown-item" href="/2018-sponsors/create">Add A New Sponsor</a>
+                                <a class="dropdown-item" href="/blogs/create">Add A New Blog</a>
+
                             @endif
 
                             <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">

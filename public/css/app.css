@@ -10584,7 +10584,8 @@ hr,
   color: #f8f8f8;
 }
 
-#homeBlocks p {
+#homeBlocks p,
+#homeBlocks a {
   color: #f8f8f8;
 }
 

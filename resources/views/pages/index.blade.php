@@ -18,7 +18,7 @@
                         <div class="container">
                             <div class="carousel-caption text-right mb-2">
                                 <h1 class="">Check Out Cato!</h1>
-                                <a href="/2018-events" class="btn btn-main btn-lg">Learn More</a>
+                                <a href="/cato" class="btn btn-main btn-lg">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                         <img src="{{ asset('/images/mids/waterfallBlock.jpg') }}" alt="Waterfall" class="card-img-top">
                         <div class="card-body blockHeight block4">
                             <h2 class="card-text text-center">
-                                Pics We Like
+                                Pics Of Us
                             </h2>
                             <p class="card-text text-center">All Galleries</p>
                             <p class="card-text text-center">Cato Pics</p>
