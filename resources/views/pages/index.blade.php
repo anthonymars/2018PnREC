@@ -72,9 +72,9 @@
                             <h2 class="card-text text-center">
                                 Find A Center
                             </h2>
-                            <p class="card-text text-center">Contact Info</p>
+                            <a href="/get-in-touch"><p class="card-text text-center">Contact Info</p></a>
                             <p class="card-text text-center">Something Else</p>
-                            <p class="text-center"><a href="#"><i class="fa fa-envelope fa-2x"></i></a></p>
+                            <p class="text-center"><a href="/get-in-touch"><i class="fa fa-envelope fa-2x"></i></a></p>
                         </div>
                     </div>
                 </div>
@@ -100,9 +100,9 @@
                             <h2 class="card-text text-center">
                                 About Us
                             </h2>
-                            <p class="card-text text-center">Our Stories</p>
-                            <p class="card-text text-center">Our History</p>
-                            <p class="text-center"><a href="#"><i class="fa fa-leaf fa-2x"></i></a></p>
+                            <a href="/blogs"><p class="card-text text-center">Our Stories</p></a>
+                            <a href="/cato"><p class="card-text text-center">Our History</p></a>
+                            <p class="text-center"><a href="/cato"><i class="fa fa-leaf fa-2x"></i></a></p>
                         </div>
                     </div>
                 </div>
@@ -113,9 +113,9 @@
                             <h2 class="card-text text-center">
                                 Pics Of Us
                             </h2>
-                            <p class="card-text text-center">All Galleries</p>
-                            <p class="card-text text-center">Cato Pics</p>
-                            <p class="text-center roundButton"><a href="#"><i class="fa fa-camera-retro fa-2x"></i></a></p>
+                            <a href="/galleries"><p class="card-text text-center">All Galleries</p></a>
+                            <a href="/gallery/cato"><p class="card-text text-center">Cato Pics</p></a>
+                            <p class="text-center roundButton"><a href="/galleries"><i class="fa fa-camera-retro fa-2x"></i></a></p>
                         </div>
                     </div>
                 </div>

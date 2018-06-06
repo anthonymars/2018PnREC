@@ -22,6 +22,7 @@ $lightOrange: lighten($orange,20);
 $lightYellow: lighten($yellow, 20);
 $darkYellow: darken($yellow,20);
 $darkOrange: darken($orange, 20);
+$darkBlue: darken($blue, 20);
 
 
 body {
@@ -114,6 +115,11 @@ hr, .dropdown-divider {
   font-weight:400;
   font-size:1.3rem;
   border-left: 3px solid transparent;
+  -webkit-transition: all .25s ease-in;
+  -moz-transition: all .25s ease-in;
+  -o-transition: all .25s ease-in;
+  -ms-transition: all .25s ease-in;
+  transition: all .25s ease-in;
 }
 
 .dropdown-item {
@@ -130,6 +136,11 @@ hr, .dropdown-divider {
 .navbar-light .navbar-nav .nav-link:hover {
   color:$orange;
   border-left: 3px solid $orange;
+  -webkit-transition: all .25s ease-in;
+  -moz-transition: all .25s ease-in;
+  -o-transition: all .25s ease-in;
+  -ms-transition: all .25s ease-in;
+  transition: all .25s ease-in;
 }
 
 
@@ -209,6 +220,10 @@ hr, .dropdown-divider {
     color:$offWhite;
   }
 
+  a p {
+    margin-bottom: 1rem;
+  }
+
   .blockHeight {
     height: 300px;
   }
@@ -246,6 +261,20 @@ hr, .dropdown-divider {
     background-color: $blue;
     border-radius:50%;
     margin-top:35px;
+    -webkit-transition: all .25s ease-in;
+    -moz-transition: all .25s ease-in;
+    -o-transition: all .25s ease-in;
+    -ms-transition: all .25s ease-in;
+    transition: all .25s ease-in;
+  }
+
+  i:hover {
+    background-color: $darkBlue;
+    -webkit-transition: all .25s ease-in;
+    -moz-transition: all .25s ease-in;
+    -o-transition: all .25s ease-in;
+    -ms-transition: all .25s ease-in;
+    transition: all .25s ease-in;
   }
 
   @media(max-width:991px) {

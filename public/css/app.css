@@ -10500,6 +10500,8 @@ hr,
   font-weight: 400;
   font-size: 1.3rem;
   border-left: 3px solid transparent;
+  -webkit-transition: all .25s ease-in;
+  transition: all .25s ease-in;
 }
 
 .dropdown-item {
@@ -10516,6 +10518,8 @@ hr,
 .navbar-light .navbar-nav .nav-link:hover {
   color: #d57500;
   border-left: 3px solid #d57500;
+  -webkit-transition: all .25s ease-in;
+  transition: all .25s ease-in;
 }
 
 @media (max-width: 768px) {
@@ -10589,6 +10593,10 @@ hr,
   color: #f8f8f8;
 }
 
+#homeBlocks a p {
+  margin-bottom: 1rem;
+}
+
 #homeBlocks .blockHeight {
   height: 300px;
 }
@@ -10626,6 +10634,14 @@ hr,
   background-color: #4e6172;
   border-radius: 50%;
   margin-top: 35px;
+  -webkit-transition: all .25s ease-in;
+  transition: all .25s ease-in;
+}
+
+#homeBlocks i:hover {
+  background-color: #252d35;
+  -webkit-transition: all .25s ease-in;
+  transition: all .25s ease-in;
 }
 
 @media (max-width: 991px) {
