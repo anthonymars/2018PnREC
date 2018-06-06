@@ -36,4 +36,8 @@ class PagesController extends Controller
         $photobook = Photobook::whereTitle('Roosevelt')->first();
         return view('pages.roosevelt', compact('photobook'));
     }
+
+    public function contact() {
+        return view('pages.contact');
+    }
 }

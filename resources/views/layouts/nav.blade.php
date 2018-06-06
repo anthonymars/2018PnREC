@@ -28,9 +28,9 @@
                         <a class="dropdown-item" href="/galleries"><strong>Gallery</strong></a>
                     </div>
                 </li>
-                <a id="nav-link" class="nav-item nav-link" href="/2018-sponsors"><strong>Things To Do</strong></a>
+                <a id="nav-link" class="nav-item nav-link" href="#"><strong>Things To Do</strong></a>
                 <a id="nav-link" class="nav-item nav-link" href="/blogs"><strong>Our Stories</strong></a>
-                <a id="nav-link" class="nav-item nav-link" href="/charities"><strong>Get In Touch</strong></a>
+                <a id="nav-link" class="nav-item nav-link" href="/get-in-touch"><strong>Get In Touch</strong></a>
                 <!-- Authentication Links -->
             @guest
             <!--

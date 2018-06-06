@@ -22,13 +22,7 @@ Route::get('/kanawha-city', 'PagesController@kanawha');
 Route::get('/mlk-jr', 'PagesController@mlk');
 Route::get('/north-charleston', 'PagesController@northCharleston');
 Route::get('/roosevelt', 'PagesController@roosevelt');
-
-
-
-
-
-
-
+Route::get('/get-in-touch', 'PagesController@contact');
 /* ------------- End Pages */
 
 Route::get('/home', 'HomeController@index')->name('home');

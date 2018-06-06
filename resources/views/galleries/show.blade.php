@@ -8,7 +8,7 @@
 @section('content')
     <?php
         $countStuff = 0;
-        if(count($p->pics) > 0) {
+         if(count($p->pics) > 0) {
         $itemCount = count($p->pics) - 1;
         }
     ?>
