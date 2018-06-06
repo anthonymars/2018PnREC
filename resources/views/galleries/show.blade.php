@@ -8,46 +8,52 @@
 @section('content')
     <?php
         $countStuff = 0;
+        if(count($p->pics) > 0) {
         $itemCount = count($p->pics) - 1;
+        }
     ?>
 
     <section id="galleriesPage" class="py-5">
         <div class="container py-5">
             <h1>{{ $p->title }} Gallery</h1>
             <hr>
-            @foreach($p->pics as $pb)
-                @if($countStuff == 0)
-                <div class="row">
-                @endif
-                    <div class="col-md-3">
-                        <a href="#" data-toggle="modal" data-target="#{{$pb->slug}}Modal{{ $pb->id }}">
-                        <img src="{{ asset('/images/pics/sm/sm-' . $pb->image) }}" alt="{{ $pb->title }}" class="img-fluid">
-                        </a>
-                        <div class="modal fade" id="{{ $pb->slug }}Modal{{$pb->id}}" tabindex="-1" role="dialog" aria-labelledby="ncModalLabel" aria-hidden="true">
-                            <div class="modal-dialog" role="document">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLabel">{{ $pb->title }}</h5>
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                            <span aria-hidden="true">&times;</span>
-                                        </button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <img src="{{ asset('/images/pics/lg/lg-' . $pb->image) }}" alt="{{ $pb->title  }}" class="img-fluid">
-                                    </div>
+            @if(count($p->pics) > 0)
+                @foreach($p->pics as $pb)
+                    @if($countStuff == 0)
+                        <div class="row">
+                            @endif
+                            <div class="col-md-3">
+                                <a href="#" data-toggle="modal" data-target="#{{$pb->slug}}Modal{{ $pb->id }}">
+                                    <img src="{{ asset('/images/pics/sm/sm-' . $pb->image) }}" alt="{{ $pb->title }}" class="img-fluid">
+                                </a>
+                                <div class="modal fade" id="{{ $pb->slug }}Modal{{$pb->id}}" tabindex="-1" role="dialog" aria-labelledby="ncModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h5 class="modal-title" id="exampleModalLabel">{{ $pb->title }}</h5>
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <img src="{{ asset('/images/pics/lg/lg-' . $pb->image) }}" alt="{{ $pb->title  }}" class="img-fluid">
+                                            </div>
 
+                                        </div>
+                                    </div>
                                 </div>
+                                <!-- End Modal -->
+                                <p class="text-center"><small>{{ $pb->title }}</small></p>
                             </div>
+                            @if($countStuff == 4 or $countStuff == $itemCount)
                         </div>
-                        <!-- End Modal -->
-                        <p class="text-center"><small>{{ $pb->title }}</small></p>
-                    </div>
-                @if($countStuff == 4 or $countStuff == $itemCount)
-                    </div>
-                    <?php $countStuff = 0 ?>
-                @endif
-                <?php $countStuff = $countStuff + 1; ?>
-            @endforeach
+                        <?php $countStuff = 0 ?>
+                    @endif
+                    <?php $countStuff = $countStuff + 1; ?>
+                @endforeach
+            @else
+                <h2>No Pictures Yet</h2>
+            @endif
             <hr>
             @if(Auth::check() and Auth::user()->hasRole('SuperFly'))
                 <div class="row">
