@@ -10682,6 +10682,10 @@ hr,
   border-radius: 15px;
 }
 
+#blogPage a {
+  color: #d57500;
+}
+
 #footer {
   background-color: #404F24;
 }

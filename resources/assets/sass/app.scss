@@ -21,6 +21,7 @@ $lightGreen: lighten($green, 20);
 $lightOrange: lighten($orange,20);
 $lightYellow: lighten($yellow, 20);
 $darkYellow: darken($yellow,20);
+$darkOrange: darken($orange, 20);
 
 
 body {
@@ -283,6 +284,10 @@ hr, .dropdown-divider {
   img {
     border-radius: 15px;
   }
+}
+
+#blogPage a {
+  color: $orange;
 }
 
 #footer {
