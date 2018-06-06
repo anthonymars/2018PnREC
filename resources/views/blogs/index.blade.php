@@ -7,7 +7,7 @@
 @stop
 @section('content')
 
-    <section id="blogPage" class="py-5">
+    <section id="blogPage" class="py-5 blogStyle">
         <div class="container py-5">
             <h1>Our Stories</h1>
             <hr>

@@ -31,6 +31,8 @@
                     </div>
 
             @endif
+                <hr>
+                <a href="/blogs" class="btn btn-main">Back</a>
         </div>
     </section>
     <div class="modal fade" id="blogModal{{$b->id}}" tabindex="-1" role="dialog" aria-labelledby="blogModalLabel" aria-hidden="true">
