@@ -281,10 +281,12 @@ hr, .dropdown-divider {
     color:$brown;
   }
 
-  img {
+  img,
+  a img {
     border-radius: 15px;
   }
 }
+
 
 .blogStyle a {
   color: $orange;

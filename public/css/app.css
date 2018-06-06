@@ -10680,11 +10680,17 @@ hr,
 }
 
 #catoPage img,
+#catoPage a img,
 #rolesPage img,
+#rolesPage a img,
 #usersPage img,
+#usersPage a img,
 #galleriesPage img,
+#galleriesPage a img,
 .centerPages img,
-#blogPage img {
+.centerPages a img,
+#blogPage img,
+#blogPage a img {
   border-radius: 15px;
 }
 

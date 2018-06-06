@@ -19,13 +19,17 @@
                         </div>
                         <div class="col-md-4 py-3">
                             @if($b->video)
+                                <p><small>Check Out Our Video!</small></p>
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ $b->video }}"></iframe>
                                 </div>
+
                             @endif
-                            <a href="#" data-toggle="modal" data-target="#blogModal{{ $b->id }}">
-                                <img src="/images/blogs/lg/lg-{{ $b->image }}" alt="" class="img-fluid py-5">
-                            </a>
+                            <div class="py-5">
+                                <a href="#" data-toggle="modal" data-target="#blogModal{{ $b->id }}">
+                                    <img src="/images/blogs/lg/lg-{{ $b->image }}" alt="" class="img-fluid">
+                                </a>
+                            </div>
 
                         </div>
                     </div>
