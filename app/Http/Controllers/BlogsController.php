@@ -53,11 +53,11 @@ class BlogsController extends Controller
         $filenameSm = 'sm-' . $filename;
         $filenameLg = 'lg-' . $filename;
 
-        Image::make($image)->resize(800, 800, function($constraint) {
+        Image::make($image)->resize(600, 600, function($constraint) {
             $constraint->aspectRatio();
         })->save( public_path('/images/blogs/lg/' . $filenameLg));
 
-        Image::make($image)->resize(500, 500, function($constraint) {
+        Image::make($image)->resize(400, 400, function($constraint) {
             $constraint->aspectRatio();
         })->save( public_path('/images/blogs/sm/' . $filenameSm));
         $b->image = $filename;
