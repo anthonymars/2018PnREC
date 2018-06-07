@@ -18,14 +18,42 @@
             <hr>
             <div class="row">
                 <div class="col-md-8">
-                    <p>The North Charleston Community Center located at 2009 7th Avenue in Charleston has plenty of outdoor space to be active. With multiple softball fields (also home to The Western Generals, Charleston’s youth football league), 2 outdoor play areas, an outdoor basketball court, and the only center with a dog park, the whole family has a chance to be active.</p>
+                    <h2>About Us</h2>
+                    <p>Established in 1978, KCCC is the third community center brought in by Charleston Parks and Recreation (and at that time Public Grounds). This center is a multifaceted facility that is free to our community members. With 17,000 square feet, this center boasts plenty of activities, recreational space, and amenities available for public use. Majority of our amenities are on a first come, first served basis. If you have questions, please ask Center staff.</p>
                     <div class="diffText my-3">
-                        <p>The indoor basketball court at North Charleston is the only gymnasium complete with basketball, volleyball and pickleball lines. The center offers an adequate size weight room that offers free weights, as well as machines and a large cardio room with treadmills, ellipticals and exercise bikes.</p>
-                    </div>
-                    <p>The outdoor space offers a softball field, an outdoor seasonal swimming pool, an outdoor play area and an “outdoor classroom” Natural Playground. The Natural Playground offers youth open spaces, climbing and crawling spaces, nature art areas, gardens and more. MLKJ also offers 4 outdoor tennis courts and a tennis practice wall for those times you need to get in a little solo practice. Use of the center and the center’s outdoor areas are free for community use.</p>
+                        <h3>Indoor Amenities</h3>
+                       <ul>
+                           <li><strong>Gymnasium</strong> with a regulation size, indoor basketball court (completely redone 2017)</li>
+                           <li><strong>Game Room</strong> that includes table tennis, a pool table, corn hole boads, and a foosball table</li>
+                           <li><strong>Weight Room</strong> complete with individual free weights, standard barbells, and numerous cable machines</li>
+                           <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes.
+                               While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings and more.</li>
+                       </ul>
+                        <h3>Outdoor Amenities</h3>
+                        <ul>
+                            <li>8 outdoor <strong>tennis courts</strong></li>
+                            <li>Outdoor, <strong>seasonal pool</strong> that's 25 meters in length</li>
+                            <li>Outdoor <strong>basketball court</strong> </li>
+                            <li>A large <strong>play area/playground</strong> for children</li>
+                            <li>Little League <strong>baseball field</strong> (by schedule only).</li>
+                        </ul>
 
+                    </div>
+                    <p>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
+                        </p>
                 </div>
                 <div class="col-md-4">
+                    <h2>Get In Touch</h2>
+                    <p><small>3511 Venable Ave
+                            <br />Charleston, WV 25301
+                            <br />(304)348-6484
+                            <br />Recreation Center Manager:
+                            <br /><a href="mailto:dax.miller@cityofcharleston.org"><i class="fa fa-envelope"></i> Dax Miller</a>
+                            <br />Program Coordinator:
+                            <br /><a href="mailto:erika.crump@cityofcharleston.org"><i class="fa fa-envelope"></i> Erika Crump</a></small></p>
+
+
+                    <hr>
                     <h2>Photos</h2>
                     @if($photobook)
                         @foreach($photobook->pics as $p)

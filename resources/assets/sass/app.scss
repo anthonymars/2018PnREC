@@ -71,6 +71,10 @@ hr, .dropdown-divider {
   margin:0 auto;
 }
 
+li, address {
+  color: $brown;
+}
+
 
 @media(max-width:768px) {
   h1 {

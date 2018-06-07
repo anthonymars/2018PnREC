@@ -18,14 +18,44 @@
             <hr>
             <div class="row">
                 <div class="col-md-8">
-                    <p>The North Charleston Community Center located at 2009 7th Avenue in Charleston has plenty of outdoor space to be active. With multiple softball fields (also home to The Western Generals, Charleston’s youth football league), 2 outdoor play areas, an outdoor basketball court, and the only center with a dog park, the whole family has a chance to be active.</p>
+                    <h2>About Us</h2>
+                    <p>Established in 1978, the “King Center” is conveniently located near the Charleston Town Center Mall. This 21,000 square foot facility was brought into the City of Charleston around the same time as the Kanawha City Community Center. Patrons are welcome to use our Center’s amenities free of charge. The Majority of our spaces are first come, first served.
+                        If you have questions, please contact Center staff.
+                        Indoor amenities</p>
                     <div class="diffText my-3">
-                        <p>The indoor basketball court at North Charleston is the only gymnasium complete with basketball, volleyball and pickleball lines. The center offers an adequate size weight room that offers free weights, as well as machines and a large cardio room with treadmills, ellipticals and exercise bikes.</p>
-                    </div>
-                    <p>The outdoor space offers a softball field, an outdoor seasonal swimming pool, an outdoor play area and an “outdoor classroom” Natural Playground. The Natural Playground offers youth open spaces, climbing and crawling spaces, nature art areas, gardens and more. MLKJ also offers 4 outdoor tennis courts and a tennis practice wall for those times you need to get in a little solo practice. Use of the center and the center’s outdoor areas are free for community use.</p>
+                        <h3>Indoor Amenities</h3>
+                        <ul>
+                            <li><strong>Boxing Room</strong> complete with speedbags, heavy bags and a downsized boxing ring</li>
+                            <li><strong>Gynmasium</strong> with full size, indoor basketball court, which has been recently refurbished</li>
+                            <li><strong>Weight Room</strong> with free weights and machines</li>
+                            <li><strong>Cardio Room</strong> with treadmills, elliptical, and an exercise bike</li>
+                            <li><strong>Game Room</strong> with a pool table, air hockey table, and a foosball table</li>
+                        </ul>
+                        <h3>Outdoor Amenities</h3>
+                        <ul>
+                            <li><strong>Softball field</strong></li>
+                            <li>Outdoor seasonal <strong>swimming pool</strong></li>
+                            <li>Outdoor <strong>play area/playground</strong></li>
+                            <li>“Outdoor classroom”-- <strong>Natural Playground</strong> that offers youth open spaces, climbing and crawling spaces, nature art areas, gardens and more</li>
+                            <li>4 Outdoor <strong>tennis courts</strong> and a tennis practice wall</li>
+                        </ul>
 
+                    </div>
+                    <h3>Weekly Activities</h3>
+                    <ul>
+                        <li>Mondays - Adult, Full-Court Basketball - 6:30pm - 8:30pm</li>
+                        <li>Saturdays - Adult, Full-Court Basketball - 12:30pm - 2:30pm</li>
+                    </ul>
                 </div>
                 <div class="col-md-4">
+                    <h2>Get In Touch</h2>
+                    <p><small>314 Donnally St.
+                            <br />Charleston, WV 25301
+                            <br />(304)348-6404
+                            <br />Recreation Center Manager:
+                            <br /><a href="mailto:jennifer.holley@cityofcharleston.org"><i class="fa fa-envelope"></i> Jennifer Holley</a></small>
+                    </p>
+                    <hr>
                     <h2>Photos</h2>
                     @if($photobook)
                         @foreach($photobook->pics as $p)

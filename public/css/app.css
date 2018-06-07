@@ -10458,6 +10458,11 @@ hr,
   margin: 0 auto;
 }
 
+li,
+address {
+  color: #613318;
+}
+
 @media (max-width: 768px) {
   h1 {
     font-size: 3.5rem;
