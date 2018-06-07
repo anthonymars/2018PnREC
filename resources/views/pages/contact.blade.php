@@ -27,7 +27,7 @@
             <hr>
             <div class="row">
                 <div class="col-md-4 pb-5">
-                    <img src="https://placehold.it/400x400" alt="center" class="img-fluid">
+                    <img src="{{asset('/images/centers/kcbuilding.jpg')}}" alt="center" class="img-fluid">
                 </div>
                 <div class="col-md-8">
                     <h3>Kanawha City Community Center:</h3>
@@ -71,7 +71,7 @@
             <hr>
             <div class="row">
                 <div class="col-md-4 pb-5">
-                    <img src="https://placehold.it/400x400" alt="center" class="img-fluid">
+                    <img src="{{asset('/images/centers/catobuilding.jpg')}}" alt="center" class="img-fluid">
                 </div>
                 <div class="col-md-8">
                     <h3>Cato Park:</h3>
