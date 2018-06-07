@@ -20,7 +20,7 @@ class YoungFly
             return redirect('/login');
         } else {
             $user = Auth::user();
-            if ($user->hasRole('YoungGun')) {
+            if ($user->hasRole('YoungFly')) {
                 return $next($request);
             } else {
                 return redirect('/not-authorized');
