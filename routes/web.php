@@ -35,18 +35,25 @@ Route::get('/gallery/{title}','PhotobooksController@show');
 
 /* ------------- Admin Pages */
 
-Route::get('/admin/roles', 'RolesController@index');
-Route::get('/admin/users', 'AdminsController@userIndex');
-Route::post('/admin/roles', 'RolesController@store');
-Route::get('/admin/roles/create', 'RolesController@create');
-Route::get('/admin/users/{id}/edit', 'AdminsController@userEdit');
-Route::post('/admin/users/{id}/update', 'AdminsController@userUpdate');
-Route::get('/admin/gallery/create', 'PhotobooksController@create');
-Route::post('/admin/gallery', 'PhotobooksController@store');
-Route::post('/admin/pics', 'PicsController@store');
+Route::group(['middleware' => 'superfly'], function() {
+    Route::get('/admin/roles', 'RolesController@index');
+    Route::get('/admin/users', 'AdminsController@userIndex');
+    Route::post('/admin/roles', 'RolesController@store');
+    Route::get('/admin/roles/create', 'RolesController@create');
+    Route::get('/admin/users/{id}/edit', 'AdminsController@userEdit');
+    Route::post('/admin/users/{id}/update', 'AdminsController@userUpdate');
+});
 
-Route::get('/blogs/create', 'BlogsController@create');
-Route::post('/blogs', 'BlogsController@store');
+Route::group(['middleware' => 'youngfly'], function() {
+    Route::get('/admin/gallery/create', 'PhotobooksController@create');
+    Route::post('/admin/gallery', 'PhotobooksController@store');
+    Route::post('/admin/pics', 'PicsController@store');
+    Route::get('/blogs/{slug}/edit', 'BlogsController@edit');
+    Route::get('/blogs/create', 'BlogsController@create');
+    Route::post('/blogs', 'BlogsController@store');
+    Route::post('/blogs/{slug}/update', 'BlogsController@update');
+    Route::get('/blogs/{slug}/delete', 'BlogsController@destroy');
+});
 
 
 /* -------------- Blogs */

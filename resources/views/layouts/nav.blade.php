@@ -56,8 +56,9 @@
                                 <a class="dropdown-item" href="/admin/roles/create">Create A New Role</a>
                                 <div class="dropdown-divider"></div>
                             @endif
-                            @if(Auth::user()->hasRole('SuperFly'))
+                            @if(Auth::user()->hasRole('YoungFly'))
                                 <a class="dropdown-item" href="/blogs/create">Add A New Blog</a>
+                                <a class="dropdown-item" href="/admin/gallery/create">Add A New Gallery</a>
 
                             @endif
 

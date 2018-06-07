@@ -9,30 +9,24 @@
 
     <section id="blogPage" class="py-5">
         <div class="container py-5">
-            <h1>Create A Blog</h1>
+            <h1>Edit {{ $b->title }}</h1>
+            @if(Auth::check() and Auth::user()->hasRole('SuperFly'))
+                <a href="/blogs/{{ $b->slug }}/delete" class="btn btn-danger"><i class="fa fa-trash"></i> Delete</a>
+            @endif
             <hr>
             <div class="row">
                 <div class="col-md-6">
-                    @if (count($errors) > 0)
-                        <div class="alert alert-danger">
-                            <ul>
-                                @foreach ($errors->all() as $error)
-                                    <li>{{ $error }}</li>
-                                @endforeach
-                            </ul>
-                        </div>
-                    @endif
-                    <form enctype="multipart/form-data" action="/blogs" method="POST">
+                    <form enctype="multipart/form-data" action="/blogs/{{ $b->slug }}/update" method="POST">
 
                         {{ csrf_field() }}
                         <div class="form-group">
                             <label for="name">Blog Name</label>
-                            <input type="text" name="title" class="form-control">
+                            <input type="text" name="title" class="form-control" value="{{ $b->title }}">
                         </div>
 
                         <div class="form-group">
                             <label for="description">Story</label>
-                            <textarea name="body" cols="30" rows="10" class="form-control summernote"></textarea>
+                            <textarea name="body" cols="30" rows="10" class="form-control summernote"> {{ $b->body }}</textarea>
                         </div>
 
                         <div class="form-group">
@@ -44,12 +38,16 @@
                                 Copy the characters after the 'https://youtu.be/'<br>
                                 Example: https://youtu.be/V2oW8TbVpzA<br>
                                 Copy and Paste the 'V2oW8TbVpzA'</label>
-                            <input type="text" name="video" class="form-control">
+                            <input type="text" name="video" class="form-control" value="{{ $b->video }}">
                         </div>
                         <div class="form-group">
-                            <button class="btn btn-main" type="submit">Add Blog</button>
+                            <button class="btn btn-main" type="submit">Edit Blog</button>
                         </div>
                     </form>
+                </div>
+                <div class="col-md-6">
+                    <h3>Current Picture</h3>
+                    <img src="/images/blogs/sm/sm-{{ $b->image }}" alt="" class="img-fluid">
                 </div>
             </div>
 

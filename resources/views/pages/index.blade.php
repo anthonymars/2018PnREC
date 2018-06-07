@@ -22,7 +22,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="carousel-item carousel-image-1">
+                    <div class="carousel-item carousel-image-2">
                         <div class="container">
                             <div class="carousel-caption text-center mb-2">
                                 <h1 class="">Camp Something, June 15!</h1>
@@ -56,7 +56,7 @@
                 Charleston Parks and Recreation
             </h2>
 
-            <p class="text-center">As a department we are committed to bringing fun and enjoyable events and activities to the community. Our main goal is for a happy, healthy, active Charleston. We are dedicated to making our city a better place to live.
+            <p class="text-center">As a department we are committed to bringing fun and enjoyable events and activities to the community. Our main goal is for a happy, healthy, and active Charleston. We are dedicated to making our city a better place to live.
             </p>
             <p class="text-center"><strong><span class="thick500">GET ACTIVE WITH US CHARLESTON WEST VIRGINIA!</span></strong></p>
             <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">

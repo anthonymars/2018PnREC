@@ -90,5 +90,18 @@
             </div>
         </div>
     </section>
+    <section id="partOf">
+        <div class="container py-5">
+            <p class="text-center infoText">
+                Keep In Touch
+            </p>
+            <h2 class="text-center">
+                Share Your Experience
+            </h2>
+            <p class="text-center"><span class="thick500">Follow us</span> on Facebook, Instagram, and Twitter! Use the hashtag <strong>#getactivecwv</strong> to share your experiences.</p>
+            <p class="text-center"><i class="fa fa-facebook-square fa-2x"></i> <i class="fa fa-instagram fa-2x"></i> <i class="fa fa-twitter fa-2x"></i></p>
+        </div>
+
+    </section>
 
 @stop

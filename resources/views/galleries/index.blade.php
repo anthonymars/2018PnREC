@@ -7,7 +7,7 @@
 @stop
 @section('content')
 
-    <section id="galleriesPage" class="py-5">
+    <section id="galleriesPage" class="py-5 galleryStyle">
         <div class="container py-5">
             <h1>Galleries</h1>
             <hr>

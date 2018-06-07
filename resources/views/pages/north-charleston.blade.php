@@ -63,7 +63,7 @@
                         @endforeach
                     @endif
                     <hr>
-                    <a href="/galleries" class="btn btn-main">Gallery</a>
+                    <a href="/gallery/north-charleston" class="btn btn-main">North Charleston Gallery</a>
                 </div>
             </div>
             <div class="col-md-12">

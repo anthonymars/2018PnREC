@@ -63,7 +63,7 @@
                         @endforeach
                     @endif
                     <hr>
-                    <a href="/galleries" class="btn btn-main">Gallery</a>
+                    <a href="/gallery/kanawha-city" class="btn btn-main">Kanawha City Gallery</a>
                 </div>
             </div>
             <div class="col-md-12">

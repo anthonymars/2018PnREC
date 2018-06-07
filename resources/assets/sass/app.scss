@@ -169,7 +169,7 @@ hr, .dropdown-divider {
 }
 
 .carousel-image-2 {
-  background: url('/images/slider/waterfall.jpg') no-repeat top center;
+  background: url('/images/slider/treeSlider.jpg') no-repeat top left;
   background-size:cover;
 }
 
@@ -317,9 +317,11 @@ hr, .dropdown-divider {
 }
 
 
-.blogStyle a {
+.blogStyle a,
+.galleryStyle a {
   color: $orange;
 }
+
 
 #footer {
   background-color:$green;

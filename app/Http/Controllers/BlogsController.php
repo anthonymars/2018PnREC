@@ -4,9 +4,10 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Blog;
+use App\Http\Requests\BlogRequest;
 use Auth;
 use Image;
-use Carbon\Carbon;
+use Alert;
 
 class BlogsController extends Controller
 {
@@ -37,7 +38,7 @@ class BlogsController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(BlogRequest $request)
     {
         $b = new Blog;
         $b->user_id = Auth::id();
@@ -62,7 +63,7 @@ class BlogsController extends Controller
         })->save( public_path('/images/blogs/sm/' . $filenameSm));
         $b->image = $filename;
         $b->save();
-
+        //Alert::success('OMG!!! You Created A New Blog!!!');
         return redirect('/blogs');
     }
 
@@ -84,9 +85,10 @@ class BlogsController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit($slug)
     {
-        //
+        $b = Blog::whereSlug($slug)->first();
+        return view('blogs.edit', compact('b'));
     }
 
     /**
@@ -96,9 +98,40 @@ class BlogsController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
+    public function update(Request $request, $slug)
     {
-        //
+        $b = Blog::whereSlug($slug)->first();
+        $b->user_id = Auth::id();
+        $b->title = $request->title;
+        $slug = str_slug($request->title);
+        $b->slug = $slug;
+        $b->body = $request->body;
+        $b->video = $request->video;
+
+        if($request->hasFile('image')) {
+            $image = $request->image;
+            $time = time();
+            $filename = 'blog-' . $time . '.' . $image->getClientOriginalExtension();
+            $filenameSm = 'sm-' . $filename;
+            $filenameLg = 'lg-' . $filename;
+
+            Image::make($image)->resize(600, 600, function($constraint) {
+                $constraint->aspectRatio();
+            })->save( public_path('/images/blogs/lg/' . $filenameLg));
+
+            Image::make($image)->resize(400, 400, function($constraint) {
+                $constraint->aspectRatio();
+            })->save( public_path('/images/blogs/sm/' . $filenameSm));
+            $b->image = $filename;
+        } else {
+            $oldImage = $b->image;
+            $b->image = $oldImage;
+        }
+
+
+        $b->save();
+        //Alert::success('You Edited The Blog!!!', 'Nothing Can Stop You!!!');
+        return redirect('/blogs/' . $b->slug);
     }
 
     /**
@@ -107,8 +140,11 @@ class BlogsController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy($slug)
     {
-        //
+        $b = Blog::whereSlug($slug)->first();
+        $b->delete();
+
+        return redirect('/blogs');
     }
 }

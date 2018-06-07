@@ -11,6 +11,9 @@
         <div class="container py-5">
             @if($b)
             <h1>{{ $b->title }}</h1>
+            @if(Auth::check() and Auth::user()->hasRole('SuperFly'))
+                    <a href="/blogs/{{$b->slug}}/edit" class="btn btn-main"><i class="fa fa-pencil"></i> Edit</a>
+            @endif
             <hr>
                     <div class="row">
                         <div class="col-md-8 py-3">
