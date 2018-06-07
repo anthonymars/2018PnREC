@@ -10454,6 +10454,10 @@ hr,
   border-top: 1px solid #613318;
 }
 
+.paggy ul {
+  margin: 0 auto;
+}
+
 @media (max-width: 768px) {
   h1 {
     font-size: 3.5rem;
