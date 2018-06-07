@@ -12,7 +12,7 @@
             <hr>
             <div class="row">
                 <div class="col-md-4 pb-5">
-                    <img src="https://placehold.it/400x400" alt="center" class="img-fluid">
+                    <a href="/north-charleston"><img src="{{ asset('/images/centers/nc_site.jpg') }}" alt="center" class="img-fluid"></a>
                 </div>
                 <div class="col-md-8">
                     <h3>North Charleston Community Center:</h3>
@@ -27,7 +27,7 @@
             <hr>
             <div class="row">
                 <div class="col-md-4 pb-5">
-                    <img src="{{asset('/images/centers/kcbuilding.jpg')}}" alt="center" class="img-fluid">
+                    <a href="/kanawha-city"><img src="{{asset('/images/centers/kcbuilding.jpg')}}" alt="center" class="img-fluid"></a>
                 </div>
                 <div class="col-md-8">
                     <h3>Kanawha City Community Center:</h3>
@@ -42,7 +42,7 @@
             <hr>
             <div class="row">
                 <div class="col-md-4 pb-5">
-                    <img src="https://placehold.it/400x400" alt="center" class="img-fluid">
+                    <a href="/mlk-jr"><img src="{{ asset('/images/centers/mlk_site.jpg') }}" alt="center" class="img-fluid"></a>
                 </div>
                 <div class="col-md-8">
                     <h3>Martin Luther King Jr. Community Center:</h3>
@@ -56,7 +56,9 @@
             <hr>
             <div class="row">
                 <div class="col-md-4 pb-5">
-                    <img src="https://placehold.it/400x400" alt="center" class="img-fluid">
+                    <a href="/roosevelt">
+                        <img src="{{ asset('/images/centers/roosevelt_site.jpg') }}" alt="center" class="img-fluid">
+                    </a>
                 </div>
                 <div class="col-md-8">
                     <h3>Roosevelt Neighborhood Center:</h3>
@@ -71,7 +73,7 @@
             <hr>
             <div class="row">
                 <div class="col-md-4 pb-5">
-                    <img src="{{asset('/images/centers/catobuilding.jpg')}}" alt="center" class="img-fluid">
+                    <a href="/cato"><img src="{{asset('/images/centers/catobuilding.jpg')}}" alt="center" class="img-fluid"></a>
                 </div>
                 <div class="col-md-8">
                     <h3>Cato Park:</h3>

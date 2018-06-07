@@ -10503,6 +10503,7 @@ hr,
   color: #f8f8f8;
   font-weight: 400;
   font-size: 1.3rem;
+  margin-right: 10px;
   border-left: 3px solid transparent;
   -webkit-transition: all .25s ease-in;
   transition: all .25s ease-in;
