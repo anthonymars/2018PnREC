@@ -25,6 +25,7 @@
                     <hr>
                 @endforeach
             @endif
+            <p class="text-center">{{ $blogs->links() }}</p>
         </div>
     </section>
 @stop
