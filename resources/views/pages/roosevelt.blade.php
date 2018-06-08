@@ -18,14 +18,31 @@
             <hr>
             <div class="row">
                 <div class="col-md-8">
-                    <p>The North Charleston Community Center located at 2009 7th Avenue in Charleston has plenty of outdoor space to be active. With multiple softball fields (also home to The Western Generals, Charleston’s youth football league), 2 outdoor play areas, an outdoor basketball court, and the only center with a dog park, the whole family has a chance to be active.</p>
+                    <h2>About Us</h2>
+                    <p>Roosevelt’s history on the East End as a high school is quite evident when you visit this center. Roosevelt High School was bought for $10 by the City with plans to transform this facility into Charleston’s newest neighborhood center. While the Charleston Family Resource Center hosts their afterschool program and the Charleston Police Department operates multiple divisions in Roosevelt, other spaces are available to the public free of charge. These spaces are first come, first served. If you have questions, please contact Center staff.</p>
                     <div class="diffText my-3">
-                        <p>The indoor basketball court at North Charleston is the only gymnasium complete with basketball, volleyball and pickleball lines. The center offers an adequate size weight room that offers free weights, as well as machines and a large cardio room with treadmills, ellipticals and exercise bikes.</p>
+                        <h3>Indoor Amenities</h3>
+                        <ul>
+                            <li><strong>Gymnasium</strong> with an indoor basketball court and kid-friendly rock wall</li>
+                            <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes
+                            </li>
+                            <li><strong>Weight Room</strong> with free weights and cable machines</li>
+                            <li><strong>Game Room</strong> with a pool table and table tennis</li>
+                        </ul>
+                        <p>Roosevelt also has an <strong>outdoor</strong> play area/playground for children to enjoy.
+                        </p>
                     </div>
-                    <p>The outdoor space offers a softball field, an outdoor seasonal swimming pool, an outdoor play area and an “outdoor classroom” Natural Playground. The Natural Playground offers youth open spaces, climbing and crawling spaces, nature art areas, gardens and more. MLKJ also offers 4 outdoor tennis courts and a tennis practice wall for those times you need to get in a little solo practice. Use of the center and the center’s outdoor areas are free for community use.</p>
 
                 </div>
                 <div class="col-md-4">
+                    <h2>Get In Touch</h2>
+                    <p><small>502 Ruffner Ave.
+                            <br />Charleston, WV 25301
+                            <br />(304)348-0529
+                            <br />Neighborhood Center Manager:
+                            <br /><a href="mailto:tonay.cummings@cityofcharleston.org"><i class="fa fa-envelope"></i> Tonya Cummings</a></small>
+                    </p>
+                    <hr>
                     <h2>Photos</h2>
                     @if($photobook)
                         @foreach($photobook->pics as $p)

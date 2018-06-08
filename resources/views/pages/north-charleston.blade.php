@@ -18,14 +18,52 @@
             <hr>
             <div class="row">
                 <div class="col-md-8">
-                    <p>The North Charleston Community Center located at 2009 7th Avenue in Charleston has plenty of outdoor space to be active. With multiple softball fields (also home to The Western Generals, Charleston’s youth football league), 2 outdoor play areas, an outdoor basketball court, and the only center with a dog park, the whole family has a chance to be active.</p>
+                   <p>While the NCCC has been a long standing center in the community, estimated back to the 1950s, North Charleston’s Community Center was re-established in 1988. Our largest center sitting at 24,000 square feet, “North” is an ample center for activities, events, and general recreation. While many of our outdoor fields require scheduling in advance, you may still enjoy our facility free of charge—on a first come, first served basis. If you have questions, please contact Center staff.</p>
                     <div class="diffText my-3">
-                        <p>The indoor basketball court at North Charleston is the only gymnasium complete with basketball, volleyball and pickleball lines. The center offers an adequate size weight room that offers free weights, as well as machines and a large cardio room with treadmills, ellipticals and exercise bikes.</p>
+                        <h3>Indoor Amenities</h3>
+                        <ul>
+                            <li><strong>Gymnasium</strong> with indoor, basketball court is the only court complete with basketball, volleyball and pickleball lines
+                            </li>
+                            <li><strong>Weight Room</strong> that offers free weights, as well as cable machines
+                            </li>
+                            <li><strong>Cardio Room</strong> with treadmills, ellipticals and exercise bikes (the largest of our Center’s)</li>
+                            <li><strong>Women's Fitness Room</strong> with weights, a cable-styled machine, and cardio equipment for the ladies who want to workout in a more controlled space (no men!)</li>
+                            <li><strong>Game Room</strong> that includes a pool table and a ping pong table</li>
+                        </ul>
+                        <p><small>North also has one of the larger <strong>Meeting Rooms</strong> available to the public to rent at a reasonable rate.
+                            </small>
+                        </p>
+                        <h3>Outdoor Amenities</h3>
+                        <ul>
+                            <li>Multiple <strong>Softball Fields</strong></li>
+                            <li>2 outdoor <strong>play areas/playgrounds</strong></li>
+                            <li>Outdoor <strong>basketball Court</strong></li>
+                            <li>the only center with a <strong>dog park</strong></li>
+                            <li>Outdoor, seasonal <strong>pool</strong></li>
+                        </ul>
+                        <p>North is also home to The Western Generals- Charleston’s youth football league.</p>
                     </div>
-                    <p>The outdoor space offers a softball field, an outdoor seasonal swimming pool, an outdoor play area and an “outdoor classroom” Natural Playground. The Natural Playground offers youth open spaces, climbing and crawling spaces, nature art areas, gardens and more. MLKJ also offers 4 outdoor tennis courts and a tennis practice wall for those times you need to get in a little solo practice. Use of the center and the center’s outdoor areas are free for community use.</p>
-
+                    <h3>Weekly Activities</h3>
+                    <ul>
+                        <li>Mondays - Pickleball/Volley Split Court - 6:00pm - 8:30pm</li>
+                        <li>Tuesdays - Pickleball - 9:00am - 12:30pm</li>
+                        <li>Wednesdays - Men's Full Court Basketball - 6:00pm - 8:30pm</li>
+                        <li>Thursdays - Pickleball - 9am - 12:30pm</li>
+                        <li>Fridays - Pickleball - 9:00am - 12:30pm</li>
+                    </ul>
                 </div>
                 <div class="col-md-4">
+                    <h2>Get In Touch</h2>
+                    <p><small>2009 7th Ave
+                            <br />Charleston, WV 25301
+                            <br />(304)348-6484
+                            <br />Recreation Center Manager:
+                            <br /><a href="mailto:billy.wright@cityofcharleston.org"><i class="fa fa-envelope"></i> Billy Wright</a>
+                            <br />Program Coordinator:
+                            <br /><a href="mailto:richard.clendenin@cityofcharleston.org"><i class="fa fa-envelope"></i> Richard Clendenin</a></small></p>
+
+
+                    <hr>
                     <h2>Photos</h2>
                     @if($photobook)
                         @foreach($photobook->pics as $p)
