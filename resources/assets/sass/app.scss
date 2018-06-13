@@ -313,7 +313,8 @@ li, address {
 #usersPage,
 #galleriesPage,
 .centerPages,
-#blogPage{
+#blogPage,
+#eventsPage {
 
   h1, h2, h3, p, .lead {
     color:$brown;
@@ -327,7 +328,8 @@ li, address {
 
 
 .blogStyle a,
-.galleryStyle a {
+.galleryStyle a,
+.eventsStyle a {
   color: $orange;
 }
 
@@ -339,4 +341,10 @@ li, address {
     font-size:.9rem;
     color: $offWhite;
   }
+}
+
+#eventsPage .dateDisplay {
+  padding:15px;
+  background-color:$orange;
+  margin:10px;
 }

@@ -23,6 +23,7 @@ Route::get('/mlk-jr', 'PagesController@mlk');
 Route::get('/north-charleston', 'PagesController@northCharleston');
 Route::get('/roosevelt', 'PagesController@roosevelt');
 Route::get('/get-in-touch', 'PagesController@contact');
+Route::get('/coming-soon', 'PagesController@soon');
 /* ------------- End Pages */
 
 Route::get('/home', 'HomeController@index')->name('home');
@@ -53,9 +54,24 @@ Route::group(['middleware' => 'youngfly'], function() {
     Route::post('/blogs', 'BlogsController@store');
     Route::post('/blogs/{slug}/update', 'BlogsController@update');
     Route::get('/blogs/{slug}/delete', 'BlogsController@destroy');
+    Route::get('/events/create', 'EventsController@create');
+    Route::post('/events/create', 'EventsController@store');
+    Route::get('/events/{slug}/edit','EventsController@edit');
+    Route::post('events/{slug}/update', 'EventsController@update');
+    Route::get('/events/{slug}/delete', 'EventsController@destroy');
 });
 
 
 /* -------------- Blogs */
 Route::get('/blogs', 'BlogsController@index');
 Route::get('/blogs/{slug}', 'BlogsController@show' );
+
+/* -------------- Events */
+Route::get('/events', 'EventsController@index');
+Route::post('/events', 'EventsController@location');
+
+
+Route::get('/events/{slug}', 'EventsController@show');
+
+
+

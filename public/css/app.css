@@ -10701,7 +10701,12 @@ address {
 #blogPage h2,
 #blogPage h3,
 #blogPage p,
-#blogPage .lead {
+#blogPage .lead,
+#eventsPage h1,
+#eventsPage h2,
+#eventsPage h3,
+#eventsPage p,
+#eventsPage .lead {
   color: #613318;
 }
 
@@ -10716,12 +10721,15 @@ address {
 .centerPages img,
 .centerPages a img,
 #blogPage img,
-#blogPage a img {
+#blogPage a img,
+#eventsPage img,
+#eventsPage a img {
   border-radius: 15px;
 }
 
 .blogStyle a,
-.galleryStyle a {
+.galleryStyle a,
+.eventsStyle a {
   color: #d57500;
 }
 
@@ -10732,5 +10740,11 @@ address {
 #footer .addy {
   font-size: .9rem;
   color: #f8f8f8;
+}
+
+#eventsPage .dateDisplay {
+  padding: 15px;
+  background-color: #d57500;
+  margin: 10px;
 }
 

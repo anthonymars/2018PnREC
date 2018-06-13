@@ -28,7 +28,7 @@
                         <a class="dropdown-item" href="/galleries"><strong>Gallery</strong></a>
                     </div>
                 </li>
-                <a id="nav-link" class="nav-item nav-link" href="#"><strong>Things To Do</strong></a>
+                <a id="nav-link" class="nav-item nav-link" href="/events"><strong>Things To Do</strong></a>
                 <a id="nav-link" class="nav-item nav-link" href="/blogs"><strong>Our Stories</strong></a>
                 <a id="nav-link" class="nav-item nav-link" href="/get-in-touch"><strong>Get In Touch</strong></a>
                 <!-- Authentication Links -->
@@ -58,6 +58,7 @@
                             @endif
                             @if(Auth::user()->hasRole('YoungFly'))
                                 <a class="dropdown-item" href="/blogs/create">Add A New Blog</a>
+                                <a class="dropdown-item" href="/events/create">Add A New Event</a>
                                 <a class="dropdown-item" href="/admin/gallery/create">Add A New Gallery</a>
 
                             @endif

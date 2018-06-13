@@ -32,4 +32,8 @@ class User extends Authenticatable
     public function blogs() {
         return $this->hasMany('App\Blog');
     }
+
+    public function events() {
+        return $this->hasMany('App\Event');
+    }
 }

@@ -6,59 +6,16 @@
     Charleston WV's Parks and Rec Department
 @stop
 @section('content')
-    <section id="carousel">
-        <section id="myCarousel">
-            <div id="carouselMain" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li class="active" data-target="#carouselMain" data-slide-to="0"></li>
-                    <li data-target="#carouselMain" data-slide-to="1"></li>
-                </ol>
-                <div class="carousel-inner">
-                    <div class="carousel-item carousel-image-1 active">
-                        <div class="container">
-                            <div class="carousel-caption text-right mb-2">
-                                <h1 class="">Check Out Cato!</h1>
-                                <a href="/cato" class="btn btn-main btn-lg">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item carousel-image-2">
-                        <div class="container">
-                            <div class="carousel-caption text-center mb-2">
-                                <h1 class="">Camp Something, June 15!</h1>
-                                <a href="/2018-events" class="btn btn-main btn-lg">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--
-                    <div class="carousel-item carousel-image-2">
-                        <div class="container">
-                            <div class="carousel-caption text-right mb-5">
-                                <h1 class="display-4">Music Every Friday</h1>
-                                <a href="/2018-events" class="btn btn-outline-yellow btn-lg">2018 Events</a>
-                            </div>
-                        </div>
-                    </div>
-                    -->
-                </div>
-            </div>
-        </section>
-
-
-        </div>
-    </section>
-    <section id="info" class="pt-5">
-        <div class="container">
-            <p class="text-center infoText">
-                Get to Know
-            </p>
+    <section id="info" class="py-5">
+        <div class="container py-5">
+            <h1 class="text-center">
+                Coming Soon!
+            </h1>
             <h2 class="text-center">
                 Charleston Parks and Recreation
             </h2>
 
-            <p class="text-center">As a department we are committed to bringing fun and enjoyable events and activities to the community. Our main goal is for a happy, healthy, and active Charleston. We are dedicated to making our city a better place to live.
-            </p>
-            <p class="text-center"><strong><span class="thick500">GET ACTIVE WITH US CHARLESTON WEST VIRGINIA!</span></strong></p>
+
             <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">
         </div>
     </section>
@@ -102,7 +59,7 @@
                             </h2>
                             <a href="/blogs"><p class="card-text text-center">Our Stories</p></a>
                             <a href="/cato"><p class="card-text text-center">Our History</p></a>
-                            <p class="text-center"><a href="/blogs"><i class="fa fa-leaf fa-2x"></i></a></p>
+                            <p class="text-center"><a href="/cato"><i class="fa fa-leaf fa-2x"></i></a></p>
                         </div>
                     </div>
                 </div>
