@@ -86,8 +86,8 @@
                                 Things To Do
                             </h2>
                             <a href="/events"><p class="card-text text-center">Our Events</p></a>
-                            <p class="card-text text-center">Center Classes</p>
-                            <p class="text-center"><a href="#"><i class="fa fa-group fa-2x"></i></a></p>
+                            <a href="/coming-soon"><p class="card-text text-center">Our Classes</p></a>
+                            <p class="text-center"><a href="/events"><i class="fa fa-group fa-2x"></i></a></p>
                         </div>
                     </div>
                 </div>
