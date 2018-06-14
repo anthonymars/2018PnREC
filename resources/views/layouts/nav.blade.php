@@ -59,7 +59,7 @@
                             @if(Auth::user()->hasRole('YoungFly'))
                                 <a class="dropdown-item" href="/blogs/create">Add A New Blog</a>
                                 <a class="dropdown-item" href="/events/create">Add A New Event</a>
-                                <a class="dropdown-item" href="/admin/gallery/create">Add A New Gallery</a>
+                                <a class="dropdown-item" href="/gallery/create">Add A New Gallery</a>
 
                             @endif
 

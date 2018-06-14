@@ -28,9 +28,7 @@ Route::get('/coming-soon', 'PagesController@soon');
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-/* Gallery */
-Route::get('/galleries', 'PhotobooksController@index');
-Route::get('/gallery/{title}','PhotobooksController@show');
+
 
 
 
@@ -46,9 +44,12 @@ Route::group(['middleware' => 'superfly'], function() {
 });
 
 Route::group(['middleware' => 'youngfly'], function() {
-    Route::get('/admin/gallery/create', 'PhotobooksController@create');
-    Route::post('/admin/gallery', 'PhotobooksController@store');
-    Route::post('/admin/pics', 'PicsController@store');
+    Route::get('/gallery/create', 'PhotobooksController@create');
+    Route::get('/gallery/{slug}/edit', 'PhotobooksController@edit');
+    Route::post('/gallery', 'PhotobooksController@store');
+    Route::post('/gallery/{slug}/update', 'PhotobooksController@update');
+    Route::get('gallery/{slug}/delete', 'PhotobooksController@destroy');
+    Route::post('/pics', 'PicsController@store');
     Route::get('/blogs/{slug}/edit', 'BlogsController@edit');
     Route::get('/blogs/create', 'BlogsController@create');
     Route::post('/blogs', 'BlogsController@store');
@@ -61,6 +62,9 @@ Route::group(['middleware' => 'youngfly'], function() {
     Route::get('/events/{slug}/delete', 'EventsController@destroy');
 });
 
+/* Gallery */
+Route::get('/galleries', 'PhotobooksController@index');
+Route::get('/gallery/{title}','PhotobooksController@show');
 
 /* -------------- Blogs */
 Route::get('/blogs', 'BlogsController@index');

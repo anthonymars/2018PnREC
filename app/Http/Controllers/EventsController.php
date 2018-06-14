@@ -11,6 +11,8 @@ use App\Date;
 use Image;
 use Auth;
 use Carbon\Carbon;
+use App\Http\Requests\EventRequest;
+use Alert;
 
 class EventsController extends Controller
 {
@@ -105,7 +107,7 @@ class EventsController extends Controller
             $date->event_location = $event->event_location;
             $date->save();
         }
-
+        Alert::success('OMG!!! You Created A New Event!!!');
         return redirect('/events/' . $slug);
     }
 
@@ -209,7 +211,7 @@ class EventsController extends Controller
             $date->event_location = $event->event_location;
             $date->save();
         }
-
+        Alert::success('OMG!!! You Edited The Event!!!');
         return redirect('/events/' . $slug);
     }
 
@@ -227,6 +229,7 @@ class EventsController extends Controller
             $d->delete();
         }
         $e->delete();
+        Alert::warning('Oh No You Didn\'t!!! You Blew It UP!!!');
         return redirect('/events');
     }
 }

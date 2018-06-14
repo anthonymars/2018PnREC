@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Photobook;
 use App\Pic;
+use Alert;
 
 class PhotobooksController extends Controller
 {
@@ -15,7 +16,7 @@ class PhotobooksController extends Controller
      */
     public function index()
     {
-        $photobooks = Photobook::all();
+        $photobooks = Photobook::orderBy('title', 'asc')->get();
         return view('galleries.index', compact('photobooks'));
     }
 
@@ -43,7 +44,7 @@ class PhotobooksController extends Controller
         $g->description = $request->description;
         $g->slug = $slug;
         $g->save();
-
+        Alert::success('You Created a Super Gallery!');
         return redirect('/galleries');
     }
 
@@ -65,9 +66,10 @@ class PhotobooksController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit($slug)
     {
-        //
+        $g = Photobook::whereSlug($slug)->first();
+        return view('galleries.edit', compact('g'));
     }
 
     /**
@@ -77,9 +79,16 @@ class PhotobooksController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
+    public function update(Request $request, $slug)
     {
-        //
+        $g = Photobook::whereSlug($slug)->first();
+        $g->title = $request->title;
+        $slug = str_slug($request->title);
+        $g->description = $request->description;
+        $g->slug = $slug;
+        $g->save();
+        Alert::success('You Edited ' . $request->title . '!!!');
+        return redirect('/galleries');
     }
 
     /**
@@ -88,8 +97,15 @@ class PhotobooksController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy($slug)
     {
-        //
+        $g = Photobook::whereSlug($slug)->first();
+        $pics = Pic::wherePhotobookId($g->id)->get();
+        foreach($pics as $p) {
+            $p->delete();
+        }
+        $g->delete();
+        alert::warning('It is no longer with us...');
+        return redirect('/galleries');
     }
 }

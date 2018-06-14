@@ -9,24 +9,24 @@
 
     <section id="galleriesPage" class="py-5">
         <div class="container py-5">
-            <h1>Create A Gallery</h1>
+            <h1>Edit {{ $g->title }}</h1>
             <hr>
             <div class="row">
                 <div class="col-md-6">
-                    <form action="/gallery" method="POST">
+                    <form action="/gallery/{{ $g->slug }}/update" method="POST">
 
                         {{ csrf_field() }}
                         <div class="form-group">
                             <label for="name">Gallery Name</label>
-                            <input type="text" name="title" class="form-control">
+                            <input type="text" name="title" class="form-control" value="{{ $g->title }}">
                         </div>
 
                         <div class="form-group">
                             <label for="description">Description of Gallery</label>
-                            <textarea name="description" id="" cols="30" rows="10" class="form-control"></textarea>
+                            <textarea name="description" id="" cols="30" rows="10" class="form-control">{{ $g->description }}</textarea>
                         </div>
                         <div class="form-group">
-                            <button class="btn btn-main" type="submit">Add Gallery</button>
+                            <button class="btn btn-main" type="submit"><i class="fa fa-pencil"></i> Edit Gallery</button>
                         </div>
                     </form>
                 </div>

@@ -16,6 +16,10 @@
     <section id="galleriesPage" class="py-5">
         <div class="container py-5">
             <h1>{{ $p->title }} Gallery</h1>
+            @if(Auth::check() and Auth::user()->hasRole('SuperFly'))
+                <a href="/gallery/{{$p->slug}}/edit" class="btn btn-main"><i class="fa fa-pencil"></i> Edit</a>
+                <a href="/gallery/{{$p->slug}}/delete" class="btn btn-danger"><i class="fa fa-pencil"></i> Delete</a>
+            @endif
             <hr>
             @if(count($p->pics) > 0)
                 @foreach($p->pics as $pb)
@@ -59,7 +63,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <h2>Add Picture</h2>
-                        <form enctype="multipart/form-data" action="/admin/pics" method="POST">
+                        <form enctype="multipart/form-data" action="/pics" method="POST">
                             {{ csrf_field() }}
                             <div class="form-group">
                                 <label for="title">Title</label>

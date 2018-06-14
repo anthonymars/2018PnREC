@@ -63,7 +63,7 @@ class BlogsController extends Controller
         })->save( public_path('/images/blogs/sm/' . $filenameSm));
         $b->image = $filename;
         $b->save();
-        //Alert::success('OMG!!! You Created A New Blog!!!');
+        Alert::success('OMG!!! You Created A New Blog!!!');
         return redirect('/blogs');
     }
 
@@ -130,7 +130,7 @@ class BlogsController extends Controller
 
 
         $b->save();
-        //Alert::success('You Edited The Blog!!!', 'Nothing Can Stop You!!!');
+        Alert::success('You Edited The Blog!!!', 'Nothing Can Stop You!!!');
         return redirect('/blogs/' . $b->slug);
     }
 
@@ -144,7 +144,7 @@ class BlogsController extends Controller
     {
         $b = Blog::whereSlug($slug)->first();
         $b->delete();
-
+        Alert::warning('You Deleted the Blog!!!');
         return redirect('/blogs');
     }
 }

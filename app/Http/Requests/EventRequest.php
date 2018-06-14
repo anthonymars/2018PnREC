@@ -25,7 +25,7 @@ class EventRequest extends FormRequest
     {
         return [
             'event_name' => 'required',
-            'slug' => 'required|unique:events',
+            'slug' => 'unique:events',
             'event_description' => 'required',
             'contact' => 'required',
             'email' => 'required',
