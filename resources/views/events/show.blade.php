@@ -16,9 +16,10 @@
                 <hr>
                 <div class="row">
                     <div class="col-md-8 py-3">
-                        <p><small>by: {{ $e->user->name }} {{ $e->created_at->diffForHumans() }}</small></p>
+                        <p><small>posted {{ $e->created_at->diffForHumans() }}</small></p>
                         <p>{!! $e->event_description !!}</p>
-                        <p><small>{{$e->contact}} @ {{$e->email}}</small></p>
+                        <p><small>{{$e->contact}}</small></p>
+                        <p><small>{{$e->email}}</small></p>
                         <p>{{$e->event_name}} Dates:</p>
                         <ul>
                             @foreach($dates as $d)
