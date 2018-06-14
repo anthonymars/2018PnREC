@@ -53,7 +53,7 @@ class EventsController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(EventRequest $request)
     {
         $event = new Event;
         $dateSlug = str_slug(date('M-d-Y', strtotime(Carbon::now())));
