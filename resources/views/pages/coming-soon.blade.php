@@ -88,8 +88,8 @@
             <h2 class="text-center">
                 Share Your Experience
             </h2>
-            <p class="text-center"><span class="thick500">Follow us</span> on Facebook, Instagram, and Twitter! Use the hashtag <strong>#getactivecwv</strong> to share your experiences.</p>
-            <p class="text-center"><i class="fa fa-facebook-square fa-2x"></i> <i class="fa fa-instagram fa-2x"></i> <i class="fa fa-twitter fa-2x"></i></p>
+            <p class="text-center"><span class="thick500">Follow us</span> on Facebook, Instagram, Pinterest and Twitter! Use the hashtag <strong>#getactivecwv</strong> to share your experiences.</p>
+            <p class="text-center"><a href="https://www.facebook.com/cwvparksandrecreation"><i class="fa fa-facebook-square fa-2x"></i></a> <a href="https://www.instagram.com/cwvparksandrecreation/"><i class="fa fa-instagram fa-2x"></i></a> <a href="https://www.pinterest.com/cwvparks/"><i class="fa fa-pinterest fa-2x"></i></a> <a href="https://twitter.com/cwvparks"><i class="fa fa-twitter fa-2x"></i></a></p>
         </div>
 
     </section>
