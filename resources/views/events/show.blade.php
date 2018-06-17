@@ -1,9 +1,9 @@
 @extends('layouts.app')
 @section('title')
-    Charleston, WV Parks and Rec
+    {{ $e->event_name }}Charleston, WV Parks and Rec
 @stop
 @section('description')
-    Charleston WV's Parks and Rec Department
+    Info on {{ $e->event_name }} | Charleston WV's Parks and Rec Department
 @stop
 @section('content')
 

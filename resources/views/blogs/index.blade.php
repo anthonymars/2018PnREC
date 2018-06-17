@@ -1,9 +1,9 @@
 @extends('layouts.app')
 @section('title')
-    Charleston, WV Parks and Rec
+    Our Stories |Charleston, WV Parks and Rec
 @stop
 @section('description')
-    Charleston WV's Parks and Rec Department
+    Check out our employee blogs!
 @stop
 @section('content')
 

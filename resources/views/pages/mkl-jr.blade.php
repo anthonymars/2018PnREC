@@ -3,7 +3,7 @@
     Martin Luther King Jr. Community Center
 @stop
 @section('description')
-    Charleston WV's Parks and Rec Department
+    Martin Luther King Jr. Community Center | Charleston WV's Parks and Rec Department
 @stop
 @section('content')
     <?php

@@ -3,7 +3,7 @@
     Roosevelt Community Center
 @stop
 @section('description')
-    Charleston WV's Parks and Rec Department
+    Roosevelt Community Center | Charleston WV's Parks and Rec Department
 @stop
 @section('content')
     <?php

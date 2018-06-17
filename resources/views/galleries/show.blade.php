@@ -1,9 +1,9 @@
 @extends('layouts.app')
 @section('title')
-    Charleston, WV Parks and Rec
+    {{ $p->title }} Gallery | Charleston, WV Parks and Rec
 @stop
 @section('description')
-    Charleston WV's Parks and Rec Department
+    {{ $p->title }} Pics! Charleston WV's Parks and Rec Department
 @stop
 @section('content')
     <?php

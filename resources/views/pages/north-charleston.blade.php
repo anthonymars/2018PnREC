@@ -3,7 +3,7 @@
     North Charleston Community Center
 @stop
 @section('description')
-    Charleston WV's Parks and Rec Department
+    North Charleston Community Center | Charleston WV's Parks and Rec Department
 @stop
 @section('content')
     <?php

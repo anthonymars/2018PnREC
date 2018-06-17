@@ -3,7 +3,7 @@
     Get In Touch
 @stop
 @section('description')
-    Charleston WV's Parks and Rec Department
+    Get In Touch With The Charleston WV's Parks and Rec Department
 @stop
 @section('content')
     <section class="pt-5 centerPages">

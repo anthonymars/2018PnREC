@@ -3,7 +3,7 @@
     Kanawha City Community Center
 @stop
 @section('description')
-    Charleston WV's Parks and Rec Department
+    Kanawha City Community Center | Charleston WV's Parks and Rec Department
 @stop
 @section('content')
     <?php

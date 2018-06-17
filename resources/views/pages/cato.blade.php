@@ -3,7 +3,7 @@
     Cato Park
 @stop
 @section('description')
-    Charleston WV's Parks and Rec Department
+    Cato Park | Charleston WV's Parks and Rec Department
 @stop
 @section('content')
 <?php
