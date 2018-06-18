@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Auth;
 use App\Pic;
 use Image;
+use Alert;
 
 class PicsController extends Controller
 {
@@ -106,7 +107,7 @@ class PicsController extends Controller
     {
         $p = Pic::whereId($id)->first();
         $p->delete();
-
+        Alert::warning('Oh No You Didn\'t!!! You Blew It UP!!!');
         return back();
     }
 }
