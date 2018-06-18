@@ -20,8 +20,7 @@
                 <div class="col-md-8">
                     <h2>About Us</h2>
                     <p>Established in 1978, the “King Center” is conveniently located near the Charleston Town Center Mall. This 21,000 square foot facility was brought into the City of Charleston around the same time as the Kanawha City Community Center. Patrons are welcome to use our Center’s amenities free of charge. The Majority of our spaces are first come, first served.
-                        If you have questions, please contact Center staff.
-                        Indoor amenities</p>
+                        If you have questions, please contact Center staff.</p>
                     <div class="diffText my-3">
                         <h3>Indoor Amenities</h3>
                         <ul>
