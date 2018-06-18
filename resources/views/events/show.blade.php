@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('title')
-    {{ $e->event_name }}Charleston, WV Parks and Rec
+    {{ $e->event_name }} Charleston, WV Parks and Rec
 @stop
 @section('description')
     Info on {{ $e->event_name }} | Charleston WV's Parks and Rec Department

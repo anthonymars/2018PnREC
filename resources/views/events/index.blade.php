@@ -1,9 +1,9 @@
 @extends('layouts.app')
 @section('title')
-    Stuff To Do | Charleston, WV Parks and Rec
+    Things To Do | Charleston, WV Parks and Rec
 @stop
 @section('description')
-    Stuff You Can Do! Charleston WV's Parks and Rec Department
+    Things You Can Do! Charleston WV's Parks and Rec Department
 @stop
 @section('content')
 
