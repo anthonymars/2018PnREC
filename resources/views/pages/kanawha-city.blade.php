@@ -27,8 +27,9 @@
                            <li><strong>Game Room</strong> that includes table tennis, a pool table, corn hole boads, and a foosball table</li>
                            <li><strong>Weight Room</strong> complete with individual free weights, standard barbells, and numerous cable machines</li>
                            <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes.
-                               While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings and more.</li>
+                           </li>
                        </ul>
+                        <p>While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings and more.</p>
                         <h3>Outdoor Amenities</h3>
                         <ul>
                             <li>8 outdoor <strong>tennis courts</strong></li>

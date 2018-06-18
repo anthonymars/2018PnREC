@@ -26,7 +26,7 @@
                         <div class="container">
                             <div class="carousel-caption text-center mb-2">
                                 <h1 class="">Hikes, Camps, Fun!</h1>
-                                <a href="/2018-events" class="btn btn-main btn-lg">Find an Event</a>
+                                <a href="/events" class="btn btn-main btn-lg">Find an Event</a>
                             </div>
                         </div>
                     </div>
