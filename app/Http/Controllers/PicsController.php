@@ -104,6 +104,9 @@ class PicsController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $p = Pic::whereId($id)->first();
+        $p->delete();
+
+        return back();
     }
 }

@@ -60,6 +60,7 @@ Route::group(['middleware' => 'youngfly'], function() {
     Route::get('/events/{slug}/edit','EventsController@edit');
     Route::post('events/{slug}/update', 'EventsController@update');
     Route::get('/events/{slug}/delete', 'EventsController@destroy');
+    Route::get('/pics/{id}/delete', 'PicsController@destroy');
 });
 
 /* Gallery */

@@ -30,6 +30,9 @@
                                 <a href="#" data-toggle="modal" data-target="#{{$pb->slug}}Modal{{ $pb->id }}">
                                     <img src="{{ asset('/images/pics/sm/sm-' . $pb->image) }}" alt="{{ $pb->title }}" class="img-fluid">
                                 </a>
+                                @if(Auth::check() and Auth::user()->hasRole('SuperFly'))
+                                    <a href="/pics/{{$pb->id}}/delete" class="btn btn-danger"><i class="fa fa-trash"></i> Delete</a>
+                                @endif
                                 <div class="modal fade" id="{{ $pb->slug }}Modal{{$pb->id}}" tabindex="-1" role="dialog" aria-labelledby="ncModalLabel" aria-hidden="true">
                                     <div class="modal-dialog" role="document">
                                         <div class="modal-content">
