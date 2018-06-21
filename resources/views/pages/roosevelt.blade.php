@@ -50,7 +50,7 @@
                             @if($countStuff == 0)
                                 <div class="row py-3">
                                     @endif
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 py-3">
                                         <a href="#" data-toggle="modal" data-target="#ncModal{{ $p->id }}">
                                             <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
                                         </a>
