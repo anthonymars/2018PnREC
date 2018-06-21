@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 use App\Photobook;
 use App\Pic;
 
@@ -21,7 +22,8 @@ class PagesController extends Controller
 
     public function kanawha() {
         $photobook = Photobook::whereTitle('Kanawha City')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->take(4)->get();
+        //$pics = Pic::wherePhotobookId($photobook->id)->take(4)->get();
+        $pics = DB::table('pics')->where('photobook_id', '=', $photobook->id)->take(4)->latest();
         return view('pages.kanawha-city', compact('photobook', 'pics'));
     }
 
