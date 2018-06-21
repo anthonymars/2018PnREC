@@ -83,7 +83,9 @@
                                             </div>
                                         </div>
                                         <!-- End Modal -->
+                                        <!-- title
                                         <p class="text-center"><small>{{ $p->title }}</small></p>
+                                        -->
                                     </div>
                                     @if($countStuff == 1 or $counter == $itemCount)
                                 </div>
