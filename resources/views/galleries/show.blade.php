@@ -22,8 +22,9 @@
             @endif
             <hr>
             @if(count($p->pics) > 0)
+                <?php  $counter =  0 ?>
                 @foreach($p->pics as $pb)
-                    @if($countStuff == 0)
+                    @if($countStuff === 0)
                         <div class="row">
                             @endif
                             <div class="col-md-3">
@@ -54,11 +55,16 @@
                                     @endif
                                 </p>
                             </div>
-                            @if($countStuff == 4 or $countStuff == $itemCount)
+                            @if($countStuff === 3 or $itemCount === $counter)
                         </div>
-                        <?php $countStuff = 0 ?>
                     @endif
-                    <?php $countStuff = $countStuff + 1; ?>
+                    <?php
+                        $countStuff++;
+                        $counter++;
+                        if ($countStuff === 4) {
+                            $countStuff = 0;
+                        }
+                    ?>
                 @endforeach
             @else
                 <h2>No Pictures Yet</h2>
