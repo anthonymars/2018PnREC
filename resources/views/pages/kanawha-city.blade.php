@@ -85,14 +85,14 @@
                                         <!-- End Modal -->
                                         <p class="text-center"><small>{{ $p->title }}</small></p>
                                     </div>
-                                    @if($countStuff == 2 or $counter == $itemCount)
+                                    @if($countStuff == 1 or $counter == $itemCount)
                                 </div>
 
                             @endif
                                 <?php
                                 $countStuff++;
                                 $counter++;
-                                if ($countStuff === 3) {
+                                if ($countStuff === 2) {
                                     $countStuff = 0;
                                 }
                                 ?>
