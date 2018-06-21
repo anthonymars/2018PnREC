@@ -98,9 +98,10 @@ if($photobook) {
                     ?>
                 @endforeach
             @endif
-            <span class="py-3">
+
+            <p class="py-3">
                 <a href="/gallery/cato" class="btn btn-main">See More</a>
-            </span>
+            </p>
             <hr>
             <p class="text-center">We hope you'll recreate with us and think of Cato Park as fondly as we do.</p>
         </div>
