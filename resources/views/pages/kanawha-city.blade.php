@@ -58,7 +58,7 @@
                     <h2>Photos</h2>
                     @if($photobook)
                         <?php  $counter =  0; ?>
-                        @foreach($photobook->pics as $p)
+                        @foreach($pics as $p)
                             @if($countStuff == 0)
                                 <div class="row">
                                     @endif
