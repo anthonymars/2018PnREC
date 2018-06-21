@@ -32,12 +32,95 @@ class EventsController extends Controller
     public function location(Request $request) {
         $dt = Carbon::now();
         $date = date('m/d/Y', strtotime($dt));
+
+        if ( $request->location !== 'all') {
+            /*
+            $dates = Date::where([
+                ['date', '>=', $date],
+                ['event_location', '=', $request->location]
+            ])->orderBy('date', 'asc')->paginate(10);
+            return view('events.index', compact('dates'));
+            */
+            if ($request->location == 'cato') {
+                return redirect('/events/cato-park');
+            } else if ($request->location == 'kc') {
+                return redirect('/events/kanawha-city');
+            } else if ($request->location == 'mi') {
+                return redirect('/events/magic-island');
+            } else if ($request->location == 'nc') {
+                return redirect('/events/north-charleston');
+            } else if ($request->location == 'roosevelt') {
+                return redirect('/events/roosevelt');
+            } else {
+                return redirect('/events');
+            }
+
+        } else {
+            return redirect('/events');
+        }
+    }
+
+    public function cato() {
+        $dt = Carbon::now();
+        $date = date('m/d/Y', strtotime($dt));
         $dates = Date::where([
             ['date', '>=', $date],
-            ['event_location', '=', $request->location]
+            ['event_location', '=', 'Cato Park']
         ])->orderBy('date', 'asc')->paginate(10);
         return view('events.index', compact('dates'));
     }
+
+    public function kc() {
+        $dt = Carbon::now();
+        $date = date('m/d/Y', strtotime($dt));
+        $dates = Date::where([
+            ['date', '>=', $date],
+            ['event_location', '=', 'Kanawha City Community Center']
+        ])->orderBy('date', 'asc')->paginate(10);
+        return view('events.index', compact('dates'));
+    }
+
+    public function magic() {
+        $dt = Carbon::now();
+        $date = date('m/d/Y', strtotime($dt));
+        $dates = Date::where([
+            ['date', '>=', $date],
+            ['event_location', '=', 'Magic Island']
+        ])->orderBy('date', 'asc')->paginate(10);
+        return view('events.index', compact('dates'));
+    }
+
+    public function mlk() {
+        $dt = Carbon::now();
+        $date = date('m/d/Y', strtotime($dt));
+        $dates = Date::where([
+            ['date', '>=', $date],
+            ['event_location', '=', 'Martin Luther King Jr. Community Center']
+        ])->orderBy('date', 'asc')->paginate(10);
+        return view('events.index', compact('dates'));
+    }
+
+    public function nc() {
+        $dt = Carbon::now();
+        $date = date('m/d/Y', strtotime($dt));
+        $dates = Date::where([
+            ['date', '>=', $date],
+            ['event_location', '=', 'North Charleston Community Center']
+        ])->orderBy('date', 'asc')->paginate(10);
+        return view('events.index', compact('dates'));
+    }
+
+    public function roosevelt() {
+        $dt = Carbon::now();
+        $date = date('m/d/Y', strtotime($dt));
+        $dates = Date::where([
+            ['date', '>=', $date],
+            ['event_location', '=', 'Roosevelt Neighborhood Center']
+        ])->orderBy('date', 'asc')->paginate(10);
+        return view('events.index', compact('dates'));
+    }
+
+
 
     /**
      * Show the form for creating a new resource.

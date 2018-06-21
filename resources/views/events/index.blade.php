@@ -12,50 +12,24 @@
             <h1>Our Events</h1>
             <p>Choose a center:</p>
 
-            <div class="row">
-                <div class="col-md-4 py-2">
-                    <a style="color:white;" href="/events" class="btn btn-main form-control">All Events</a>
-                </div>
-                <div class="col-md-4 py-2">
-                    <form method="post">
-                        {{ csrf_field() }}
-                        <input type="hidden" value="Cato Park">
-                        <button class="btn btn-main form-control" name="location" value="Cato Park" type="submit">Cato Park</button>
-                    </form>
-                </div>
-                <div class="col-md-4 py-2">
-                    <form method="post">
-                        {{ csrf_field() }}
-                        <input type="hidden" value="Kanawha City Community Center" name="location">
-                        <button class="btn btn-main form-control" type="submit">Kanawha City</button>
-                    </form>
-                </div>
 
-            </div>
-            <div class="row">
-                <div class="col-md-4 py-2">
-                    <form method="post">
-                        {{ csrf_field() }}
-                        <input type="hidden" value="Martin Luther King Jr. Community Center" name="location">
-                        <button class="btn btn-main form-control" type="submit">King Center</button>
-                    </form>
-                </div>
-                <div class="col-md-4 py-2">
-                    <form method="post">
-                        {{ csrf_field() }}
-                        <input type="hidden" value="North Charleston Community Center" name="location">
-                        <button class="btn btn-main form-control" type="submit">North Charleston</button>
-                    </form>
-                </div>
-                <div class="col-md-4 py-2">
-                    <form method="post">
-                        {{ csrf_field() }}
-                    <input type="hidden" value="Roosevelt Neighborhood Center" name="location">
-                    <button class="btn btn-main form-control" type="submit">Roosevelt</button>
-                    </form>
-                </div>
-
-            </div>
+                <form action="/events/location" method="post">
+                    {{ csrf_field() }}
+                    <div class="form-group">
+                        <select name="location" id=""class="form-control">
+                            <option value="all">All Events</option>
+                            <option value="cato">Cato Park</option>
+                            <option value="kc">Kanawha City Community Center</option>
+                            <option value="mi">Magic Island</option>
+                            <option value="mlk">Martin Luther King Jr. Community Center</option>
+                            <option value="nc">North Charleston Community Center</option>
+                            <option value="roosevelt">Roosevelt Neighborhood Center</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <button class="btn btn-main" type="submit">See Center Events</button>
+                    </div>
+                </form>
 
 
             <hr>
@@ -74,6 +48,9 @@
                     <hr>
                 @endforeach
                     {{ $dates->links() }}
+
+            @else
+                <h2>Sorry, No Events Yet</h2>
             @endif
 
         </div>

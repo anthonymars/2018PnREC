@@ -73,7 +73,13 @@ Route::get('/blogs/{slug}', 'BlogsController@show' );
 
 /* -------------- Events */
 Route::get('/events', 'EventsController@index');
-Route::post('/events', 'EventsController@location');
+Route::get('/events/cato-park', 'EventsController@cato');
+Route::get('/events/kanawha-city', 'EventsController@kc');
+Route::get('/events/magic-island', 'EventsController@magic');
+Route::get('/events/martin-luther-king', 'EventsController@mlk');
+Route::get('/events/north-charleston', 'EventsController@nc');
+Route::get('/events/roosevelt', 'EventsController@roosevelt');
+Route::post('/events/location', 'EventsController@location');
 
 
 Route::get('/events/{slug}', 'EventsController@show');
