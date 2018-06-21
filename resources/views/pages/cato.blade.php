@@ -59,9 +59,9 @@ if($photobook) {
             <h2>Photos</h2>
             @if($pics)
                 @foreach($pics as $p)
-                    @if($countStuff == 0)
+                    @if($countStuff === 0)
                         <div class="row">
-                            @endif
+                    @endif
                             <div class="col-md-3">
                                 <a href="#" data-toggle="modal" data-target="#cato2Modal{{ $p->id }}">
                                     <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
@@ -86,11 +86,14 @@ if($photobook) {
                                 <p class="text-center"><small>{{ $p->title }}</small></p>
                             </div>
                             @if($countStuff == 3 or $countStuff == $itemCount)
-                        </div>
-                        <?php $countStuff = 0 ?>
-                    @endif
-                    <?php $countStuff = $countStuff + 1; ?>
-
+                                </div>
+                            @endif
+                    <?php
+                        $countStuff++;
+                        if ($countStuff === 4) {
+                            $countStuff = 0;
+                        }
+                    ?>
                 @endforeach
             @endif
             <a href="/gallery/cato" class="btn btn-main">See More</a>
