@@ -22,26 +22,26 @@ class PagesController extends Controller
 
     public function kanawha() {
         $photobook = Photobook::whereTitle('Kanawha City')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->take(4)->get();
+        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'desc')->get();
         //$pics = DB::table('pics')->where('photobook_id', '=', $photobook->id)->take(4)->latest();
         return view('pages.kanawha-city', compact('photobook', 'pics'));
     }
 
     public function mlk() {
         $photobook = Photobook::whereTitle('Martin Luther King Jr.')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->get();
+        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'desc')->get();
         return view('pages.mkl-jr', compact('photobook', 'pics'));
     }
 
     public function northCharleston() {
         $photobook = Photobook::whereTitle('North Charleston')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->get();
+        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'desc')->get();
         return view('pages.north-charleston', compact('photobook', 'pics'));
     }
 
     public function roosevelt() {
         $photobook = Photobook::whereTitle('Roosevelt')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->get();
+        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'desc')->get();
         return view('pages.roosevelt', compact('photobook', 'pics'));
     }
 
