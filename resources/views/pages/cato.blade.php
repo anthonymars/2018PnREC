@@ -83,7 +83,7 @@ if($photobook) {
                                         </div>
                                     </div>
                                 </div>
-                                <p class="text-center"><small>{{ $p->title }}</small></p>
+                                
                             </div>
 
                             @if(($countStuff === 3) or ($itemCount === $counter))
