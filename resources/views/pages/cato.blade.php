@@ -58,6 +58,7 @@ if($photobook) {
             <hr>
             <h2>Photos</h2>
             @if($pics)
+                <?php  $counter =  0 ?>
                 @foreach($pics as $p)
                     @if($countStuff === 0)
                         <div class="row">
@@ -82,14 +83,15 @@ if($photobook) {
                                         </div>
                                     </div>
                                 </div>
-
                                 <p class="text-center"><small>{{ $p->title }}</small></p>
                             </div>
-                            @if($countStuff == 3)
+
+                            @if(($countStuff === 3) or ($itemCount === $counter))
                                 </div>
                             @endif
                     <?php
                         $countStuff++;
+                        $counter++;
                         if ($countStuff === 4) {
                             $countStuff = 0;
                         }
