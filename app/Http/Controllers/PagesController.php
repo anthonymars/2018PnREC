@@ -16,7 +16,7 @@ class PagesController extends Controller
 
     public function cato() {
         $photobook = Photobook::whereTitle('Cato')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->limit(8)->get();
+        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->latest();
         return view('pages.cato', compact('photobook', 'pics'));
     }
 
