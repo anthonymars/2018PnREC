@@ -22,7 +22,7 @@
             @endif
             <hr>
             @if(count($p->pics) > 0)
-                <?php  $counter =  0 ?>
+                <?php  $counter =  0; ?>
                 @foreach($p->pics as $pb)
                     @if($countStuff === 0)
                         <div class="row">
