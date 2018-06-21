@@ -100,7 +100,7 @@
                         @endforeach
                     @endif
                     <hr>
-                    <a href="/gallery/mlk-jr" class="btn btn-main">Martin Luther King Jr. Gallery</a>
+                    <a href="/gallery/martin-luther-king-jr" class="btn btn-main">Martin Luther King Jr. Gallery</a>
                 </div>
             </div>
             <div class="col-md-12">
