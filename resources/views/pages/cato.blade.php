@@ -83,7 +83,7 @@ if($photobook) {
                                         </div>
                                     </div>
                                 </div>
-                                
+
                             </div>
 
                             @if(($countStuff === 3) or ($itemCount === $counter))
@@ -98,7 +98,9 @@ if($photobook) {
                     ?>
                 @endforeach
             @endif
-            <a href="/gallery/cato" class="btn btn-main">See More</a>
+            <span class="py-3">
+                <a href="/gallery/cato" class="btn btn-main">See More</a>
+            </span>
             <hr>
             <p class="text-center">We hope you'll recreate with us and think of Cato Park as fondly as we do.</p>
         </div>
