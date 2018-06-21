@@ -58,7 +58,7 @@ if($photobook) {
             <hr>
             <h2>Photos</h2>
             @if($pics)
-                <?php  $counter =  0 ?>
+                <?php  $counter =  0; ?>
                 @foreach($pics as $p)
                     @if($countStuff === 0)
                         <div class="row">

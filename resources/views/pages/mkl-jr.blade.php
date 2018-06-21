@@ -57,6 +57,7 @@
                     <hr>
                     <h2>Photos</h2>
                     @if($photobook)
+                        <?php  $counter =  0; ?>
                         @foreach($photobook->pics as $p)
                             @if($countStuff == 0)
                                 <div class="row">
@@ -84,11 +85,16 @@
                                         <!-- End Modal -->
                                         <p class="text-center"><small>{{ $p->title }}</small></p>
                                     </div>
-                                    @if($countStuff == 2 or $countStuff == $itemCount)
+                                    @if($countStuff == 2 or $counter == $itemCount)
                                 </div>
-                                <?php $countStuff = 0 ?>
                             @endif
-                            <?php $countStuff = $countStuff + 1; ?>
+                                <?php
+                                $countStuff++;
+                                $counter++;
+                                if ($countStuff === 3) {
+                                    $countStuff = 0;
+                                }
+                                ?>
                         @endforeach
                     @endif
                     <hr>
