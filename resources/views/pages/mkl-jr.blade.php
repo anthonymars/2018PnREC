@@ -60,7 +60,7 @@
                         <?php  $counter =  0; ?>
                         @foreach($pics as $p)
                             @if($countStuff == 0)
-                                <div class="row">
+                                <div class="row py-3">
                                     @endif
                                     <div class="col-md-6">
                                         <a href="#" data-toggle="modal" data-target="#ncModal{{ $p->id }}">
