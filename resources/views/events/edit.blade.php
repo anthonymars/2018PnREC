@@ -22,6 +22,7 @@
                                 <option value="{{ $e->event_location }}">{{ $e->event_location }}</option>
                                 <option value="Cato Park">Cato Park</option>
                                 <option value="Kanawha City Community Center">Kanawha City Community Center</option>
+                                <option value="Magic Island">Magic Island</option>
                                 <option value="Martin Luther King Jr. Community Center">Martin Luther King Jr.</option>
                                 <option value="North Charleston Community Center">North Charleston Community Center</option>
                                 <option value="Roosevelt Neighborhood Center">Roosevelt Neighborhood Center</option>
