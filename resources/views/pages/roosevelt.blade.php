@@ -19,7 +19,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <h2>About Us</h2>
-                    <p>Roosevelt’s history on the East End as a high school is quite evident when you visit this center. Roosevelt High School was bought for $10 by the City with plans to transform this facility into Charleston’s newest neighborhood center. While the Charleston Family Resource Center hosts their afterschool program and the Charleston Police Department operates multiple divisions in Roosevelt, other spaces are available to the public free of charge. These spaces are first come, first served. If you have questions, please contact Center staff.</p>
+                    <p>Roosevelt’s history on the East End as a school is quite evident when you visit this center. Roosevelt School was bought for $10 by the City with plans to transform this facility into Charleston’s newest neighborhood center. While the Charleston Family Resource Center hosts their after-school program and the Charleston Police Department operates multiple divisions in Roosevelt, other spaces are available to the public free of charge. These spaces are first come, first served. If you have questions, please contact Center staff.</p>
                     <div class="diffText my-3">
                         <h3>Indoor Amenities</h3>
                         <ul>
