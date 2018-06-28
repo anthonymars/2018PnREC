@@ -69,7 +69,7 @@
                         </div>
                         <div class="form-group">
                             <label for="support_doc">Supporting Document</label>
-                            <input type="file" name="support_doc">
+                            <input type="file" name="support_doc" class="form-control">
                         </div>
                         <div class="form-group">
                             <button class="btn btn-main" type="submit">Add Event</button>

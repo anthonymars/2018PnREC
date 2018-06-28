@@ -55,7 +55,7 @@ return [
             'visibility' => 'public',
         ],
 
-        'public' => [
+        'public2' => [
             'driver' => 'local',
             'root' => public_path('docs'),
             'visibility' => 'public',

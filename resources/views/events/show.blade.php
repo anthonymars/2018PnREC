@@ -20,6 +20,9 @@
                         <p>{!! $e->event_description !!}</p>
                         <p><small>{{$e->contact}}</small></p>
                         <p><small>{{$e->email}}</small></p>
+                        @if($e->support_doc)
+                            <p><a class="btn btn-main" href="{{ asset('/docs/' . $e->support_doc) }}">Click Here To Download Document</a></p>
+                        @endif
                         <p>{{$e->event_name}} Dates:</p>
                         <ul>
                             @foreach($dates as $d)
