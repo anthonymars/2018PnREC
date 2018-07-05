@@ -49,6 +49,8 @@ class EventsController extends Controller
                 return redirect('/events/magic-island');
             } else if ($request->location == 'nc') {
                 return redirect('/events/north-charleston');
+            } else if ($request->location == 'mlk') {
+                return redirect('/events/martin-luther-king');
             } else if ($request->location == 'roosevelt') {
                 return redirect('/events/roosevelt');
             } else {
