@@ -18,11 +18,31 @@ if($photobook) {
         <h1>Cato Park</h1>
         <hr>
         <div class="col-md-12">
-            <p>In 1970, Charleston attorney, Henry S. Cato, created the 'Cato Park Foundation' with the heart of a true Charlestonian: develop a park for the people. Almost 50 years later, we hope we are making Cato proud!</p>
-            <div class="diffText my-3">
+            <div class="row">
+                <div class="col-md-8">
+                    <p>In 1970, Charleston attorney, Henry S. Cato, created the 'Cato Park Foundation' with the heart of a true Charlestonian: develop a park for the people. Almost 50 years later, we hope we are making Cato proud!</p>
+                    <div class="diffText my-3">
 
-                <p>Located on Baker Lane, in the hills of Charleston's West Side, lies our beautiful 90+ acre park. Cato Park encompasses the recreational and leisure amenities most communities sought-after. Picnic areas, ample parking, a playground, seasonal swimming pool, and more are just a few ways we have made Cato's aspirations to have a park- free of any charge whatsoever- for those of Charleston to benefit and enjoy themselves.</p>
+                        <p>Located on Baker Lane, in the hills of Charleston's West Side, lies our beautiful 90+ acre park. Cato Park encompasses the recreational and leisure amenities most communities sought-after. Picnic areas, ample parking, a playground, seasonal swimming pool, and more are just a few ways we have made Cato's aspirations to have a park- free of any charge whatsoever- for those of Charleston to benefit and enjoy themselves.</p>
 
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <h2>Get In Touch</h2>
+                    <p><small>200 Baker Lane
+                            <br />Charleston, WV 25301
+                            <br />(304)348-6860
+                            <br /><strong>Hours:</strong>
+                            <br />Monday - Friday 9am - 5pm
+                            <br />Saturday and Sunday Closed
+                            <br /><strong>Director of Parks and Recreation:</strong>
+                            <br /><a href="mailto:parksandrecreation@cityofcharleston.org"><i class="fa fa-envelope"></i> John Charnock</a>
+                            <br /><strong>Manager of Leisure Services:</strong>
+                            <br /><a href="mailto:lynn.watts@cityofcharleston.org"><i class="fa fa-envelope"></i> Lynn Watts</a></small></p>
+
+
+                    <hr>
+                </div>
             </div>
             <hr>
             <h2>Trail System</h2>
