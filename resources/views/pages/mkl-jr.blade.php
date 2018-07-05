@@ -51,6 +51,9 @@
                     <p><small>314 Donnally St.
                             <br />Charleston, WV 25301
                             <br />(304)348-6404
+                            <br />Monday - Friday 9am - 9pm
+                            <br />Saturday 9am - 5pm
+                            <br />Sunday Closed
                             <br />Recreation Center Manager:
                             <br /><a href="mailto:jennifer.holley@cityofcharleston.org"><i class="fa fa-envelope"></i> Jennifer Holley</a></small>
                     </p>

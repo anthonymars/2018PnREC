@@ -39,6 +39,9 @@
                     <p><small>502 Ruffner Ave.
                             <br />Charleston, WV 25301
                             <br />(304)348-0529
+                            <br />Monday - Friday 9am - 8pm
+                            <br />Children not allowed until 12pm
+                            <br />Saturday and Sunday Closed
                             <br />Neighborhood Center Manager:
                             <br /><a href="mailto:tonay.cummings@cityofcharleston.org"><i class="fa fa-envelope"></i> Tonya Cummings</a></small>
                     </p>
