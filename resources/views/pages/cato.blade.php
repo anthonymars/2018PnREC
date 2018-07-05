@@ -35,13 +35,13 @@ if($photobook) {
                             <br /><strong>Hours:</strong>
                             <br />Monday - Friday 9am - 5pm
                             <br />Saturday and Sunday Closed
+                            <br /><strong>Pool Hours:</strong>
+                            <br />Monday - Sunday 11am - 7pm
+                            <br />Lap Swimming 9am - 11am
                             <br /><strong>Director of Parks and Recreation:</strong>
                             <br /><a href="mailto:parksandrecreation@cityofcharleston.org"><i class="fa fa-envelope"></i> John Charnock</a>
                             <br /><strong>Manager of Leisure Services:</strong>
                             <br /><a href="mailto:lynn.watts@cityofcharleston.org"><i class="fa fa-envelope"></i> Lynn Watts</a></small></p>
-
-
-                    <hr>
                 </div>
             </div>
             <hr>

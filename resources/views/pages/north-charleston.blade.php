@@ -61,6 +61,8 @@
                             <br />Monday - Friday 9am - 9pm
                             <br />Saturday 9am - 5pm
                             <br />Sunday Closed
+                            <br /><strong>Pool Hours:</strong>
+                            <br />CLOSED for season
                             <br /><strong>Recreation Center Manager:</strong>
                             <br /><a href="mailto:billy.wright@cityofcharleston.org"><i class="fa fa-envelope"></i> Billy Wright</a>
                             <br /><strong>Program Coordinator:</strong>
