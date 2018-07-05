@@ -20,7 +20,14 @@
                     <br />Charleston, WV 25387
                     <br />(304)348-6884
                     <br />Recreation Center Manager: <a href="mailto:billy.wright@cityofcharleston.org">Billy Wright</a>
-                    <br />Program Coordinator: <a href="mailto:richard.clendenin@cityofcharleston.org">Richard Clendenin</a></small></p>
+                    <br />Program Coordinator: <a href="mailto:richard.clendenin@cityofcharleston.org">Richard Clendenin</a>
+                    <br /><strong>Hours:</strong>
+                    <br />Monday - Friday 9am - 9pm
+                    <br />Saturday 9am - 5pm
+                    <br />Sunday Closed
+                    <br /><strong>Pool Hours:</strong>
+                    <br />CLOSED Temporarily
+                    </small></p>
                 </div>
             </div>
 
@@ -35,7 +42,14 @@
                         <br />Charleston, WV 25301
                         <br />(304)348-6484
                         <br />Recreation Center Manager: <a href="mailto:dax.miller@cityofcharleston.org">Dax Miller</a>
-                            <br />Program Coordinator: <a href="mailto:erika.crump@cityofcharleston.org">Erika Crump</a></small></p>
+                        <br />Program Coordinator: <a href="mailto:erika.crump@cityofcharleston.org">Erika Crump</a>
+                        <br /><strong>Hours:</strong>
+                        <br />Monday - Friday 9am - 9pm
+                        <br />Saturday 9am - 5pm
+                        <br />Sunday Closed
+                        <br /><strong>Pool Hours:</strong>
+                        <br />Monday - Sunday 11am - 7pm
+                        </small></p>
                 </div>
             </div>
 
@@ -49,7 +63,14 @@
                     <p><small>314 Donnally St.
                         <br />Charleston, WV 25301
                         <br />(304)348-6404
-                            <br />Recreation Center Manager: <a href="mailto:jennifer.holley@cityofcharleston.org">Jennifer Holley</a></small>
+                        <br />Recreation Center Manager: <a href="mailto:jennifer.holley@cityofcharleston.org">Jennifer Holley</a>
+                        <br /><strong>Hours:</strong>
+                        <br />Monday - Friday 9am - 9pm
+                        <br />Saturday 9am - 5pm
+                        <br />Sunday Closed
+                        <br /><strong>Pool Hours:</strong>
+                        <br />Monday - Sunday 11am - 7pm
+                        </small>
                     </p>
                 </div>
             </div>
@@ -65,7 +86,12 @@
                     <p><small>502 Ruffner Ave.
                         <br />Charleston, WV 25301
                         <br />(304)348-0529
-                            <br />Neighborhood Center Manager: <a href="mailto:tonya.cummings@cityofcharleston.org">Tonya Cummings</a></small>
+                        <br />Neighborhood Center Manager: <a href="mailto:tonya.cummings@cityofcharleston.org">Tonya Cummings</a>
+                        <br /><strong>Hours:</strong>
+                        <br />Monday - Friday 9am - 8pm
+                        <br />Children not allowed until 12pm
+                        <br />Saturday and Sunday Closed
+                        </small>
                     </p>
                 </div>
             </div>
@@ -86,7 +112,14 @@
                         <br />Office Support Specialist: <a href="mailto:shawnee.dunlap@cityofcharleston.org" target="_blank">Shawnee Dunlap</a>
                         <br />Program Coordinator Citywide Events: <a href="mailto:kelsey.gilbert@cityofcharleston.org" target="_blank">Kelsey Gilbert</a>
                         <br />Senior Program Coordinator Citywide Events: <a href="mailto:julianne.yacovone@cityofcharleston.org" target="_blank">Julianne Yacovone</a>
-                            <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a></small>
+                        <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a>
+                        <br /><strong>Hours:</strong>
+                        <br />Monday - Friday 9am - 5pm
+                        <br />Saturday and Sunday Closed
+                        <br /><strong>Pool Hours:</strong>
+                        <br />Monday - Sunday 11am - 7pm
+                        <br />Lap Swimming 9am - 11am
+                        </small>
                     </p>
                 </div>
             </div>
