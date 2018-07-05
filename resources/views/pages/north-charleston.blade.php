@@ -57,12 +57,13 @@
                     <p><small>2009 7th Ave
                             <br />Charleston, WV 25301
                             <br />(304)348-6484
+                            <br /><strong>Hours:</strong>
                             <br />Monday - Friday 9am - 9pm
                             <br />Saturday 9am - 5pm
                             <br />Sunday Closed
-                            <br />Recreation Center Manager:
+                            <br /><strong>Recreation Center Manager:</strong>
                             <br /><a href="mailto:billy.wright@cityofcharleston.org"><i class="fa fa-envelope"></i> Billy Wright</a>
-                            <br />Program Coordinator:
+                            <br /><strong>Program Coordinator:</strong>
                             <br /><a href="mailto:richard.clendenin@cityofcharleston.org"><i class="fa fa-envelope"></i> Richard Clendenin</a></small></p>
 
                     <hr>

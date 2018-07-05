@@ -48,12 +48,13 @@
                     <p><small>3511 Venable Ave
                             <br />Charleston, WV 25301
                             <br />(304)348-6484
+                            <br /><strong>Hours:</strong>
                             <br />Monday - Friday 9am - 9pm
                             <br />Saturday 9am - 5pm
                             <br />Sunday Closed
-                            <br />Recreation Center Manager:
+                            <br /><strong>Recreation Center Manager:</strong>
                             <br /><a href="mailto:dax.miller@cityofcharleston.org"><i class="fa fa-envelope"></i> Dax Miller</a>
-                            <br />Program Coordinator:
+                            <br /><strong>Program Coordinator:</strong>
                             <br /><a href="mailto:erika.crump@cityofcharleston.org"><i class="fa fa-envelope"></i> Erika Crump</a></small></p>
 
 
