@@ -10,7 +10,7 @@
     <section id="eventsPage" class="py-5 eventsStyle">
         <div class="container py-5">
             <h1>Our Events</h1>
-            <p>Choose a center:</p>
+            <p>List Events By Center:</p>
 
 
                 <form action="/events/location" method="post">

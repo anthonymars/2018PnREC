@@ -49,6 +49,10 @@ class PagesController extends Controller
         return view('pages.contact');
     }
 
+    public function weekly() {
+        return view('pages.weekly-fun');
+    }
+
     public function soon() {
         return view('pages.coming-soon');
     }

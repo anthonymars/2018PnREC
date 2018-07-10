@@ -24,6 +24,7 @@ Route::get('/north-charleston', 'PagesController@northCharleston');
 Route::get('/roosevelt', 'PagesController@roosevelt');
 Route::get('/get-in-touch', 'PagesController@contact');
 Route::get('/coming-soon', 'PagesController@soon');
+Route::get('/weekly-fun', 'PagesController@weekly');
 /* ------------- End Pages */
 
 Route::get('/home', 'HomeController@index')->name('home');
