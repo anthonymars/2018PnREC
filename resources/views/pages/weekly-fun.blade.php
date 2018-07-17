@@ -61,8 +61,8 @@
                         <li>Thursdays - Pickleball - 9am - 12:30pm</li>
                         <li>Fridays - Pickleball - 9:00am - 12:30pm</li>
                     </ul>
-                    <p><small>502 Ruffner Ave.
-                            <br />Charleston, WV 25301
+                    <p><small>2009 7th Ave.
+                            <br />Charleston, WV 25387
                             <br />(304)348-0529
                         </small>
                     </p>
