@@ -19,6 +19,7 @@
 
                 </div>
             </div>
+            -->
             <hr>
             <div class="row">
                 <div class="col-md-4 pb-5">
@@ -26,10 +27,19 @@
                 </div>
                 <div class="col-md-8">
                     <h3>Kanawha City Community Center:</h3>
-
+                    <ul>
+                        <li>Tuesdays - Adult, Full-Court Basketball - 6:00pm</li>
+                        <li>Wednesdays - Teen Basketball - 6:00pm</li>
+                    </ul>
+                    <p><small>3511 Venable Ave
+                            <br />Charleston, WV 25301
+                            <br />(304)348-6484
+                        </small>
+                    </p>
                 </div>
             </div>
-            <hr> -->
+            <hr>
+
             <div class="row">
                 <div class="col-md-4 pb-5">
                     <a href="/mlk-jr"><img src="{{ asset('/images/centers/mlk_site.jpg') }}" alt="center" class="img-fluid"></a>
