@@ -56,7 +56,7 @@
                     <h2>Get In Touch</h2>
                     <p><small>2009 7th Ave
                             <br />Charleston, WV 25301
-                            <br />(304)348-6484
+                            <br />(304)348-6884
                             <br /><strong>Hours:</strong>
                             <br />Monday - Friday 9am - 9pm
                             <br />Saturday 9am - 5pm
