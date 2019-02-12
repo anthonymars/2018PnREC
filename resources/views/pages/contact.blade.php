@@ -106,12 +106,9 @@
                     <p><small>200 Baker Lane
                         <br />Charleston, WV 25301
                         <br />(304)348-6860
-                        <br />Director of Parks and Recreation: <a href="mailto:parksandrecreation@cityofcharleston.org" target="_blank">John Charnock</a>
-                        <br />Manager of Leisure Services: <a href="mailto:lynn.watts@cityofcharleston.org" target="_blank">Lynn Watts</a>
+                        <br />Director of Parks and Recreation: <a href="mailto:parksandrecreation@cityofcharleston.org" target="_blank">Rashaun Sayles</a>
                         <br />Office Support Specialist : <a href="mailto:leslee.myers@cityofcharleston.org" target="_blank">Leslee Myers</a>
                         <br />Office Support Specialist: <a href="mailto:shawnee.dunlap@cityofcharleston.org" target="_blank">Shawnee Dunlap</a>
-                        <br />Program Coordinator Citywide Events: <a href="mailto:kelsey.gilbert@cityofcharleston.org" target="_blank">Kelsey Gilbert</a>
-                        <br />Senior Program Coordinator Citywide Events: <a href="mailto:julianne.yacovone@cityofcharleston.org" target="_blank">Julianne Yacovone</a>
                         <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a>
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 9am - 5pm
