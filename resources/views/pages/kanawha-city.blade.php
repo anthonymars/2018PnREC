@@ -53,7 +53,8 @@
                             <br />Saturday 9am - 5pm
                             <br />Sunday Closed
                             <br /><strong>Pool Hours:</strong>
-                            <br />Monday - Sunday 11am - 7pm
+                            <br />Tuesday - Sunday 12pm - 6pm
+                            <br />Lap Swimming 9am - 11am
                             <br /><strong>Recreation Center Manager:</strong>
                             <br /><a href="mailto:dax.miller@cityofcharleston.org"><i class="fa fa-envelope"></i> Dax Miller</a>
                             <br /><strong>Program Coordinator:</strong>

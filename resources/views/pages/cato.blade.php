@@ -36,8 +36,7 @@ if($photobook) {
                             <br />Monday - Friday 9am - 5pm
                             <br />Saturday and Sunday Closed
                             <br /><strong>Pool Hours:</strong>
-                            <br />Monday - Sunday 11am - 7pm
-                            <br />Lap Swimming 9am - 11am
+                            <br />Tuesday - Sunday 12pm - 6pm
                             <br /><strong>Director of Parks and Recreation:</strong>
                             <br /><a href="mailto:parksandrecreation@cityofcharleston.org"><i class="fa fa-envelope"></i> Rashaun Sayles</a></p>
                 </div>

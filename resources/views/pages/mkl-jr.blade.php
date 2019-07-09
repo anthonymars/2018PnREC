@@ -56,7 +56,7 @@
                             <br />Saturday 9am - 5pm
                             <br />Sunday Closed
                             <br /><strong>Pool Hours:</strong>
-                            <br />Monday - Sunday 11am - 7pm
+                            <br />Tuesday - Sunday 12pm - 6pm
                             <br /><strong>Recreation Center Manager:</strong>
                             <br /><a href="mailto:jennifer.holley@cityofcharleston.org"><i class="fa fa-envelope"></i> Jennifer Holley</a></small>
                     </p>
