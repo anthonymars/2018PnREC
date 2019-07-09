@@ -48,7 +48,8 @@
                         <br />Saturday 9am - 5pm
                         <br />Sunday Closed
                         <br /><strong>Pool Hours:</strong>
-                        <br />Monday - Sunday 11am - 7pm
+                            <br />Tuesday - Sunday 12pm - 6pm
+                            <br />Lap Swimming 9am - 11am
                         </small></p>
                 </div>
             </div>
@@ -69,7 +70,7 @@
                         <br />Saturday 9am - 5pm
                         <br />Sunday Closed
                         <br /><strong>Pool Hours:</strong>
-                        <br />Monday - Sunday 11am - 7pm
+                            <br />Tuesday - Sunday 12pm - 6pm
                         </small>
                     </p>
                 </div>
@@ -114,8 +115,7 @@
                         <br />Monday - Friday 9am - 5pm
                         <br />Saturday and Sunday Closed
                         <br /><strong>Pool Hours:</strong>
-                        <br />Monday - Sunday 11am - 7pm
-                        <br />Lap Swimming 9am - 11am
+                            <br />Tuesday - Sunday 12pm - 6pm
                         </small>
                     </p>
                 </div>
