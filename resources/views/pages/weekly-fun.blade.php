@@ -28,9 +28,38 @@
                 <div class="col-md-8">
                     <h3>Kanawha City Community Center:</h3>
                     <ul>
-                        <li>Tuesdays - Adult, Full-Court Basketball - 6:00pm</li>
-                        <li>Wednesdays - Teen Basketball - 6:00pm</li>
-                    </ul>
+                        <li>Monday – Thursday 9:30 am – 3 pm - AARP Tax Aid- AARP representatives offer FREE tax aid to the public. Program ends April 15th.  </li>
+                        <li>Mondays, Wednesdays & Saturdays 9am-12pm (Mon. & Wed.); 9-11am (Sat.) - Pickleball </li>
+                        <li>Mondays and Thursdays 6pm – 9pm Church League Basketball </li> 
+                        <li>Every Mondays and Thursdays, 6-7pm  - Low Impact Aerobics - $20 per session </li>
+                        <li> Tuesdays 6-9 pm  -  Men’s Night </li>
+                        <li> Thursdays 6-9 pm  - Teen Night </li>
+                         <li> Fridays 6-7 pm   - Youth Soccer Night, Ages 4-9 </li>
+                         <li> Every 2nd Friday of the month 1-3 pm  - Senior Day </li>
+                         <li> Every 2nd Friday of the month 6-8pm   - Painting Party / $5 per session </li>
+                         <li> Saturdays 11am-1pm  - Striders Running Club </li>
+                         <li> Saturdays 11am-1pm  - Free Music Lessons Children ages 10-17 </li>
+                         <li> Future Events/Activities ---  </li>
+                          <li>  **** Rethink Your Drink - Days and Time TBD </li>
+                          <li> ****Every Monday, Wednesday, and Thursday 6:00-7:00pm / Ends April 2nd  </li>
+                          <li>  **** Tuesday, March 17 9am – 10 am / Music In Our Schools Concert </li>
+                          <li>  **** Thursday, April 9th- 8 AM to 4 PM  - 4-H Fun Day </li>
+                          <li>  **** Mountain East Conference Tennis Tournament April 23rd -26th  </li>
+                          <li>  **** WV HS Tennis Regionals May 4th-5th   </li>
+                          <li>  **** KCMS County Tennis Tournament May 11th-12th   </li>
+                          <li>  **** WVHS State Tournament May 13th-16th   </li>
+                         <li>     ---- Our Facility Offer :  ------ </li>
+                        <li>       *Gymnasium  </li>
+                        <li>       *Weight Room  </li>
+                        <li>       *Cardio Room   </li>
+                        <li>       *Homework/Tutoring Room  </li>
+                        <li>       *Outdoor Swimming Pool  </li>
+                        <li>       *Community Room (available for rentals)  </li>
+                        <li>       *Arts Room (available for rentals)  </li>
+                        <li>       *Playground  </li>
+                        <li>       *Outdoor Basketball Court  </li>
+                        <li>       *Outdoor Tennis Courts  </li>
+                   </ul>
                     <p><small>3511 Venable Ave
                             <br />Charleston, WV 25301
                             <br />(304)348-6484
@@ -56,6 +85,7 @@
                         <li>Thursday @ 12pm-2pm: Men’s Fitness & Fellowship Basketball  </li>
                         <li>Spring Biddy Basketball League Practice @ 6pm-8pm </li>
                         <li>Friday @ 6:00pm – 9:00pm   - Futsal</li>
+                        <li> After School Program - Monday - Friday from  2 pm - 5:30 pm
                         <li>Saturday @ 1pm-4pm</li>
                         <li>Saturday  @ 10am-1pm  - Spring Biddy Basketball League Games /March 7 - April 4  </li>
                         <li>Saturday  @ 11am-1pm  - Painting Party / First Saturday of every month</li>
