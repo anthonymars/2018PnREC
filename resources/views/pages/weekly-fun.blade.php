@@ -78,7 +78,9 @@
                         <li>Saturdays - Adult Volleyball   - 9am – noon</li>
                         <li>3rd Thursdays of each Month: - Bingo   - 1pm – 3:30pm </li>
                         <li> Game Room Daily:- This room houses a variety of games for youth, such as pool, air hockey, foosball, basketball shoot and table tennis and board games. </li>
-                    </ul>
+                        <li> Future Events/Activities : -  </li>
+                        <li> March 20th, 8pm-11pm. Teen Night, TikTok Teen Dance Class  :  </li>
+                   </ul>
                     <p><small>2009 7th Ave.
                             <br />Charleston, WV 25387
                             <br />(304)348-0529
