@@ -73,10 +73,10 @@
                             <br />Sunday Closed
                             <br /><strong>Pool Hours:</strong>
                             <br />CLOSED Temporarily
-                            <br /><strong>Recreation Center Manager:</strong>
-                            <br /><a href="mailto:billy.wright@cityofcharleston.org"><i class="fa fa-envelope"></i> Billy Wright</a>
-                            <br /><strong>Program Coordinator:</strong>
-                            <br /><a href="mailto:richard.clendenin@cityofcharleston.org"><i class="fa fa-envelope"></i> Richard Clendenin</a></small></p>
+                            <br /><strong>Program  Coordinator:</strong>
+                            <br /><a href="mailto:Corey.Lowery@cityofcharleston.org"><i class="fa fa-envelope"></i> Corey Lowery</a>
+                            <br /><strong>Office Support Specialist:</strong>
+                            <br /><a href="mailto:Linda.oldham@cityofcharleston.org"><i class="fa fa-envelope"></i> Linda Oldham</a></small></p>
 
                     <hr>
                     <h2>Photos</h2>
