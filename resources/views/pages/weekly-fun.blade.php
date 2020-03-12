@@ -47,8 +47,19 @@
                 <div class="col-md-8">
                     <h3>Martin Luther King Jr. Community Center:</h3>
                     <ul>
-                        <li>Mondays - Adult, Full-Court Basketball - 6:30pm - 8:30pm</li>
-                        <li>Saturdays - Adult, Full-Court Basketball - 12:30pm - 2:30pm</li>
+                        <li>Mondays @ 6pm - Close - Men’s Basketball Night </li>
+                        <li>Third Monday of every month - Bingo @  1:00 pm - 3:30 pm</li>
+                        <li>Tuesday @ 12pm-2pm - Men’s Fitness & Fellowship Basketball </li>
+                        <li>Senior Strength & Conditioning @ 12:30pm-2pm </li>
+                        <li>Spring Biddy Basketball League Practice @ 6pm-8pm </li>
+                        <li>Wednesday @ 6pm-Close: Teen Hoop Night </li>
+                        <li>Thursday @ 12pm-2pm: Men’s Fitness & Fellowship Basketball  </li>
+                        <li>Spring Biddy Basketball League Practice @ 6pm-8pm </li>
+                        <li>Friday @ 6:00pm – 9:00pm   - Futsal</li>
+                        <li>Saturday @ 1pm-4pm</li>
+                        <li>-----Spring Biddy Basketball League Games @ 10am-1pm / March 7 - April 4</li>
+                        <li> ----Painting Party @ 11am-1pm / First Saturday of every month</li>
+                        <li> ----Youth Basketball Practice  </li>
                     </ul>
                     <p><small>314 Donnally St.
                             <br />Charleston, WV 25301
