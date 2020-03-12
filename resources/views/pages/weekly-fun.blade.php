@@ -60,6 +60,12 @@
                         <li>Saturday  @ 10am-1pm  - Spring Biddy Basketball League Games /March 7 - April 4  </li>
                         <li>Saturday  @ 11am-1pm  - Painting Party / First Saturday of every month</li>
                         <li>Saturday - Youth Basketball Practice -Coaches must call to reserve court time  </li>
+                        <li>Future Events/Activities are listed down  </li>
+                        <li>Kid’s Night April 17th 6:00pm – 9:00pm Ages 5-12. </li>
+                        <li>Teen Night May 15th 8:00pm – 11:00pm ages 13-18. </li>
+                        <li>Free tutoring for Math, Science , ACT/SAT &  Reading. </li>
+                        <li>USA Boxing. Youth & Adults </li>
+                        <li>Spring Biddy Basketball League. Youth ages 5-7 yrs </li>
                     </ul>
                     <p><small>314 Donnally St.
                             <br />Charleston, WV 25301
