@@ -66,6 +66,8 @@
                         <li>Free tutoring for Math, Science , ACT/SAT &  Reading. </li>
                         <li>USA Boxing. Youth & Adults </li>
                         <li>Spring Biddy Basketball League. Youth ages 5-7 yrs </li>
+                        <li>     ---- Our Facility Offer :  ------ </li>
+                        <li>       * Gymnasium  </li>
                     </ul>
                     <p><small>314 Donnally St.
                             <br />Charleston, WV 25301
