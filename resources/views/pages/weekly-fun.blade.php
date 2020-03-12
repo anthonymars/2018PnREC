@@ -67,15 +67,15 @@
                         <li>USA Boxing. Youth & Adults </li>
                         <li>Spring Biddy Basketball League. Youth ages 5-7 yrs </li>
                         <li>     ---- Our Facility Offer :  ------ </li>
-                        <li>       * Gymnasium  </li>
-                        <li>       * Weight Room  </li>
-                        <li>       * 	Cardio Room / Boxing Room  </li>
-                        <li>       * 		Traditional Playground </li>
-                        <li>       * 	Kid’s Reading Room  </li>
-                        <li>       * 	Natural Playground  </li>
-                        <li>       * 		Softball Field  </li>
-                        <li>       * 	Tennis Courts  </li>
-                        <li>       * 		Outdoor Swimming Pool  </li>
+                        <li>       *Gymnasium  </li>
+                        <li>       *Weight Room  </li>
+                        <li>       *Cardio Room / Boxing Room  </li>
+                        <li>       *Traditional Playground </li>
+                        <li>       *Kid’s Reading Room  </li>
+                        <li>       *Natural Playground  </li>
+                        <li>       *Softball Field  </li>
+                        <li>       *Tennis Courts  </li>
+                        <li>       *Outdoor Swimming Pool  </li>
                     </ul>
                     <p><small>314 Donnally St.
                             <br />Charleston, WV 25301
