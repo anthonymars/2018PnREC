@@ -43,6 +43,7 @@
                     <p>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
                         </p>
                     </div>
+                    <h3>Weekly Activities</h3>
                     
              
                 <div class="col-md-4">
