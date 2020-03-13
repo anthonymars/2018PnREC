@@ -34,9 +34,19 @@
                         
                                  
                      </div>
-                    <p>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
-                        </p>
-                        <h3>Weekly Activities</h3>
+                   
+                         <h3>Weekly Activities</h3>
+                         <li>Monday  6:00-8:00pm: -  Men’s Basketball Night   </li>
+                         <li>Wednesday 9:00am-1:00pm: Senior Program </li>
+                         <li>Wednesday 6:00-8:00:  WV Roller Derby Practice </li> 
+                         <li>4th Wednesday of each month-5:30pm:  Open Art Studio-Art studio is available for a $5 fee.   </li>
+                         <li> Thursdays 3:00-4:00pm: Youth Intermurals - For grade school students.  </li>
+                         <li> Thursdays 5:00-6:00pm: Youth Intermurals  - For Middle School students </li>
+                         <li> Thursday 6:00-8:00pm:  AAU Practice & Biddy Basketball Practices </li>
+                         <li> Thursday 6:30-7:30pm:  Shotokan Karate/ FREE Classes  for Ages 10 and Up </li>
+                         <li> Monday-Friday 12:30-2:30pm: Pickleball </li>
+                         <li> Tuesday, Wednesday, Friday 2:30-6:00pm: - Open Gym</li>
+                         <li> Tuesday and Friday 6:00-8:00pm: 1/2 court open gym for everyone & 1/2 court pickleball (only 1 court available) </li>
                       
                          </ul>
                    
