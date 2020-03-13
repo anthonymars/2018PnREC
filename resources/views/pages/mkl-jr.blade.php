@@ -78,7 +78,8 @@
                             <br />Tuesday - Sunday 12pm - 6pm
                             <br /><strong>Recreation Center Manager:</strong>
                             <br /><a href="mailto:jennifer.holley@cityofcharleston.org"><i class="fa fa-envelope"></i> Dax Miller </a></small>
-                            <br />Program Coordinator: <a href="mailto:shannon.gerencir@cityofcharleston.org "> <i class="fa fa-envelope"></i>Shannon Gerencir</a></small>
+                            <br /><strong>Program Coordinator:</strong>
+                           <br /> <a href="mailto:shannon.gerencir@cityofcharleston.org "> <i class="fa fa-envelope"></i>Shannon Gerencir</a></small>
                             <br />Office Support Specialist: <a href="mailto:cindy.moss@cityofcharleston.org  "> <i class="fa fa-envelope"></i>Cindy Moss</a></small>
                    
                     </p>
