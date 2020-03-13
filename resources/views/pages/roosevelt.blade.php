@@ -47,7 +47,10 @@
                          <li> Monday-Friday 12:30-2:30pm: Pickleball </li>
                          <li> Tuesday, Wednesday, Friday 2:30-6:00pm: - Open Gym</li>
                          <li> Tuesday and Friday 6:00-8:00pm: 1/2 court open gym for everyone & 1/2 court pickleball  </li>
-                           <h3>SPECIAL EVENTS</h3>
+                           <h3>Special Events</h3>
+                         <li>March 29 - GlowBall (Glow in the dark basketball) 6:00-8:00pm  / Free Pick up games for Middle & High School students </li>
+                         <li>Wednesday 9:00am-1:00pm: Senior Program </li>
+                         <li>Wednesday 6:00-8:00:  WV Roller Derby Practice </li> 
                       
                          </ul>
                    
