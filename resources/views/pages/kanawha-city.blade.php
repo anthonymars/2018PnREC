@@ -42,8 +42,20 @@
                     </div>
                     <p>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
                         </p>
-                        
-                         <h3>Weekly Activities</h3>
+                        <h3>Weekly Activities</h3>
+                        <ul>
+                        <li>Monday – Thursday 9:30 am – 3 pm - AARP Tax Aid- AARP representatives offer FREE tax aid to the public. Program ends April 15th.  </li>
+                        <li>Mondays, Wednesdays & Saturdays 9am-12pm (Mon. & Wed.); 9-11am (Sat.) - Pickleball </li>
+                        <li>Mondays and Thursdays 6pm – 9pm Church League Basketball </li> 
+                        <li>Every Mondays and Thursdays, 6-7pm  - Low Impact Aerobics - $20 per session </li>
+                        <li> Tuesdays 6-9 pm  -  Men’s Night </li>
+                        <li> Thursdays 6-9 pm  - Teen Night </li>
+                         <li> Fridays 6-7 pm   - Youth Soccer Night, Ages 4-9 </li>
+                         <li> Every 2nd Friday of the month 1-3 pm  - Senior Day </li>
+                         <li> Every 2nd Friday of the month 6-8pm   - Painting Party / $5 per session </li>
+                         <li> Saturdays 11am-1pm  - Striders Running Club </li>
+                         <li> Saturdays 11am-1pm  - Free Music Lessons Children ages 10-17 </li>
+                         </ul>
                     </div>
                    
                     
