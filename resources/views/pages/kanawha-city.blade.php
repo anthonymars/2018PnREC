@@ -42,23 +42,7 @@
                     </div>
                     <p>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
                         </p>
-                         <h3>Weekly Activities</h3>
-                    <ul>
-                        <li>Mondays - The Charleston Table Tennis League  - 5:30pm - 8:45pm</li>
-                        <li>Tuesdays -  Students / Simply Fun Tutoring - 5:30pm - 7:00pm</li>
-                        <li>Tuesdays - Adult Volleyball  - 6pm – 8:45pm</li>
-                        <li>Wednesdays - Pickle Ball  - 6:00pm - 8:45pm</li>
-                        <li>Thursdays - Biddy Basketball  - 5:30pm - 8:45pm</li>
-                        <li>Fridays - Hip Hop Dance Classes  - 6:30pm - 8pm</li>
-                        <li>Fridays - Special Olympics Basketball   - 6:00pm - 8:30pm</li>
-                        <li>Mondays and Wednesdays -  Karate   - 6pm – 7:30pm</li>
-                        <li>Tuesdays, Thursdays and Fridays -  Pickle Ball    - 9:00am - 12noon</li>
-                        <li>Tuesdays and Thursdays  -  Zumba    - 5:30pm – 6:30pm</li>
-                        <li>Saturdays - Adult Volleyball   - 9am – noon</li>
-                        <li>3rd Thursdays of each Month: - Bingo   - 1pm – 3:30pm </li>
-                        <li> Game Room Daily:- This room houses a variety of games for youth, such as pool, air hockey, foosball, basketball shoot and table tennis and board games. </li>
-                        <li> Future Events/Activities : -  </li>
-                        <li> March 20th, 8pm-11pm. Teen Night, TikTok Teen Dance Class   </li>
+                        
                     </ul>
                 </div>
                 </div>
