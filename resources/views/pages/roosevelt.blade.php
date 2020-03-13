@@ -39,7 +39,7 @@
                         <h3>Weekly Activities</h3>
                       
                          </ul>
-                    </div>
+                   
 
                 </div>
                 <div class="col-md-4">
