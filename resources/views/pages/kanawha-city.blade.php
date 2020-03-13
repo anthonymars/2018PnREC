@@ -57,7 +57,8 @@
                             <br />Lap Swimming 9am - 11am
                             <br /><strong>Recreation  Manager: </strong>
                             <br /><a href="mailto:erika.crump@cityofcharleston.org"><i class="fa fa-envelope"></i> Erika Crump</a></small>
-                            <br />Program Coordinator: <a href="mailto:Gavin.Washington@cityofcharleston.org "><i class="fa fa-envelope"> </i> Gavin Washington</a>
+                            <br /><strong>Program Coordinator: </strong>
+                            <br /><a href="mailto:Gavin.Washington@cityofcharleston.org "><i class="fa fa-envelope"> </i> Gavin Washington</a></small>
                             <br />Office Support Specialist: <a href="mailto:Dennis.Johnson@cityofcharleston.org "><i class="fa fa-envelope"> </i> Dennis Johnson</a>
                             <br />Custodial and Grounds Maintenance: Tyrone Scott
                             
