@@ -31,6 +31,14 @@
                         </ul>
                         <p>Roosevelt also has an <strong>outdoor</strong> play area/playground for children to enjoy.
                         </p>
+                        
+                                 
+                     </div>
+                    <p>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
+                        </p>
+                        <h3>Weekly Activities</h3>
+                      
+                         </ul>
                     </div>
 
                 </div>
