@@ -27,7 +27,7 @@
                         <div class="container">
                             <div class="carousel-caption text-center mb-2">
                                 <!--<h1 class="">Hikes, Camps, Fun!</h1>-->
-                                <h3 style="color:DodgerBlue;">NOTE: Due to COVID-19, all Community Centers are closed indefinitely!</h3>
+                                <h3 style="color:red;" >NOTE: Due to COVID-19, all Community Centers are closed indefinitely!</h3>
                                 <a href="/events" class="btn btn-main btn-lg">Find an Event</a>
                             </div>
                         </div>
