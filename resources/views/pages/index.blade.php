@@ -18,7 +18,7 @@
                         <div class="container">
                             <div class="carousel-caption text-right mb-2">
                                 <!--<h1 class="">Check Out Cato!</h1>-->
-                                 <h2 class="">NOTE: Due to COVID-19, all Community Centers are closed indefinitely!</h2>
+                                 <h3 class="">NOTE: Due to COVID-19, all Community Centers are closed indefinitely!</h3>
                                 <a href="/cato" class="btn btn-main btn-lg">Learn More</a>
                             </div>
                         </div>
@@ -26,7 +26,8 @@
                     <div class="carousel-item carousel-image-2">
                         <div class="container">
                             <div class="carousel-caption text-center mb-2">
-                                <h1 class="">Hikes, Camps, Fun!</h1>
+                                <!--<h1 class="">Hikes, Camps, Fun!</h1>-->
+                                <h3 class="">NOTE: Due to COVID-19, all Community Centers are closed indefinitely!</h3>
                                 <a href="/events" class="btn btn-main btn-lg">Find an Event</a>
                             </div>
                         </div>
