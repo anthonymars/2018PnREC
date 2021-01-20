@@ -18,7 +18,7 @@
                         <div class="container">
                             <div class="carousel-caption text-right mb-2">
                                 <!--<h1 class="">Check Out Cato!</h1>-->
-                                 <h2 style="color:red;">NOTE: Due to COVID-19, all Community Centers are closed indefinitely!</h2>
+                                 <h2 style="color:red;">NOTE:Due to COVID-19, all Community Centers are closed indefinitely!</h2>
                                 <a href="/cato" class="btn btn-main btn-lg">Learn More</a>
                             </div>
                         </div>
