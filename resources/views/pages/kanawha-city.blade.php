@@ -66,7 +66,8 @@
                             <br />Charleston, WV 25301
                             <br />(304)348-6484
                             <br /><strong>Hours:</strong>
-                            <br />Monday - Friday 9am - 9pm
+                            <!--<br />Monday - Friday 9am - 9pm -->
+                            <br /> NOTE:Due to COVID-19, all Community Centers are closed indefinitely!
                             <br />Saturday 9am - 5pm
                             <br />Sunday Closed
                             <br /><strong>Pool Hours:</strong>
