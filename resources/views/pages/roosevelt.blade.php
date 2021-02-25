@@ -63,7 +63,8 @@
                             <br />(304)348-0529
                             <br /><strong>Hours:</strong>
                             <br />Monday - Friday 9am - 8pm
-                            <br />Children not allowed until 12pm
+                            <br /> NOTE: Due to COVID-19, Roosevelt Center is closed indefinitely! 
+                            <!-- <br />Children not allowed until 12pm -->
                             <br />Saturday and Sunday Closed
                             <br /><strong>Neighborhood Center Manager:</strong>
                             <br /><a href="mailto:tonay.cummings@cityofcharleston.org"><i class="fa fa-envelope"></i> Tonya Cummings</a></small>
