@@ -68,8 +68,9 @@
                             <br />Charleston, WV 25301
                             <br />(304)348-6884
                             <br /><strong>Hours:</strong>
-                            <br />Monday - Friday 9am - 9pm
-                            <br />Saturday 9am - 5pm
+                           <br /> NOTE: Due to COVID-19, North Charleston Community Center is closed indefinitely! 
+                            <!-- <br />Monday - Friday 9am - 9pm
+                            <br />Saturday 9am - 5pm -->
                             <br />Sunday Closed
                             <br /><strong>Pool Hours:</strong>
                             <br />CLOSED Temporarily
