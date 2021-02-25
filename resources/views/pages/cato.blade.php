@@ -33,8 +33,8 @@ if($photobook) {
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
                             <br /><strong>Hours:</strong>
-                           <br /> NOTE: Due to COVID-19, Kanawha City Community Center is closed indefinitely! 
-                          <!--  <br />Monday - Friday 9am - 5pm
+                           <br /> NOTE: Due to COVID-19, Cato Park is closed indefinitely! 
+                           <!--  <br />Monday - Friday 9am - 5pm
                             <br />Saturday and Sunday Closed
                             <br /><strong>Pool Hours:</strong>
                             <br />Tuesday - Sunday 12pm - 6pm -->
