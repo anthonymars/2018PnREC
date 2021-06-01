@@ -31,7 +31,7 @@
                     <img src="{{ asset('/images/logos/butterfly.png') }}" alt="" class="img-fluid">
                 </div>
             </div>
-            <p class="text-center addy">©2018 City of Charleston. All Rights Reserved.</p>
+            <p class="text-center addy">©2021 City of Charleston. All Rights Reserved.</p>
             <p class="text-center addy">Admin Super Secret Portal: <a href="/login"> <i class=" mx-1 fa fa-user" style="font-size:1.5rem;"></i></a></p>
         </div>
     </div>
