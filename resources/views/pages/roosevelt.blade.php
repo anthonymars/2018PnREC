@@ -62,7 +62,7 @@
                             <br />Charleston, WV 25301
                             <br />(304)348-0529
                             <br /><strong>Hours:</strong>
-                            <br /> NOTE: Due to COVID-19, Roosevelt Center is closed indefinitely! 
+                            <br /> NOTE:  
                           <!--  <br />Monday - Friday 9am - 8pm
                            <br />Children not allowed until 12pm -->
                             <br />Saturday and Sunday Closed
