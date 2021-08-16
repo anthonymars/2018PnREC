@@ -66,19 +66,19 @@
                             <br />Charleston, WV 25304
                             <br />(304)348-6484
                             <br /><strong>Hours:</strong>
-                            <br />Open: Monday - Friday 9am - 9pm
-                            <br />   NOTE: 
+                            <br />Monday - Friday 9am - 9pm
                             <br />Saturday 9am - 5pm 
                           <br />Sunday Closed 
                             <br /><strong>Pool Hours:</strong>
                            <!-- <br />Tuesday - Sunday 12pm - 6pm
                             <br />Lap Swimming 9am - 11am -->
-                            <br /><strong>Recreation  Manager: </strong>
-                            <br /><a href="mailto:erika.crump@cityofcharleston.org"><i class="fa fa-envelope"></i> Erika Crump</a></small>
+                           <!-- <br /><strong>Recreation  Manager: </strong> -->
+                           
                             <br /><strong>Program Coordinator: </strong>
-                            <br /><a href="mailto:Gavin.Washington@cityofcharleston.org "><i class="fa fa-envelope"> </i> Gavin Washington</a></small>
-                            <br />Office Support Specialist: <a href="mailto:Dennis.Johnson@cityofcharleston.org "><i class="fa fa-envelope"> </i> Dennis Johnson</a></small>
-                            <br />Custodial and Grounds Maintenance: Tyrone Scott </small>
+                             <br /><a href="mailto:erika.crump@cityofcharleston.org"><i class="fa fa-envelope"></i> Erika Crump</a></small>
+                             <br /><a href="mailto:Kelly.Jones@cityofcharleston.org"><i class="fa fa-envelope"></i> Kelly Jones</a></small>
+                            <br />Assistant Program Coordinator: <a href="mailto:Dennis.Johnson@cityofcharleston.org "><i class="fa fa-envelope"> </i> Dennis Johnson</a></small>
+                          
                             
 
 
