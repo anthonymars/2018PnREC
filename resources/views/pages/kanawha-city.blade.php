@@ -63,13 +63,13 @@
                 <div class="col-md-4">
                     <h2>Get In Touch</h2>
                     <p><small>3511 Venable Ave
-                            <br />Charleston, WV 25301
+                            <br />Charleston, WV 25304
                             <br />(304)348-6484
                             <br /><strong>Hours:</strong>
-                            <!--<br />Monday - Friday 9am - 9pm -->
+                            <br />Open: Monday - Friday 9am - 9pm
                             <br />   NOTE: 
-                            <!-- <br />Saturday 9am - 5pm -->
-                           <!-- <br />Sunday Closed -->
+                            <br />Saturday 9am - 5pm 
+                          <br />Sunday Closed 
                             <br /><strong>Pool Hours:</strong>
                            <!-- <br />Tuesday - Sunday 12pm - 6pm
                             <br />Lap Swimming 9am - 11am -->
