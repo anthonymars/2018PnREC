@@ -71,17 +71,15 @@
                             <br />Charleston, WV 25301
                             <br />(304)348-6404
                             <br /><strong>Hours:</strong>
-                          <br />  NOTE:  
-                            <!-- <br />Monday - Friday 9am - 9pm
+                            <br />Monday - Friday 9am - 9pm
                             <br />Saturday 9am - 5pm
                             <br />Sunday Closed
-                            <br /><strong>Pool Hours:</strong>
-                            <br />Tuesday - Sunday 12pm - 6pm -->
-                            <br /><strong>Recreation Center Manager:</strong>
-                            <br /><a href="mailto:jennifer.holley@cityofcharleston.org"><i class="fa fa-envelope"></i> Dax Miller </a></small>
-                            <br /><strong>Program Coordinator:</strong>
-                           <br /> <a href="mailto:shannon.gerencir@cityofcharleston.org "> <i class="fa fa-envelope"></i>Shannon Gerencir</a></small>
-                            <br />Office Support Specialist: <a href="mailto:cindy.moss@cityofcharleston.org  "> <i class="fa fa-envelope"></i>Cindy Moss</a></small>
+                           <!--<br />Tuesday - Sunday 12pm - 6pm -->
+                             <br /><strong>Program Coordinator:</strong>
+                            <br /><a href="mailto:dax.miller@cityofcharleston.org"><i class="fa fa-envelope"></i> Cookie Miller </a></small>
+                            <br /> <a href="mailto:T'Andre.Boxley@cityofcharleston.org"> <i class="fa fa-envelope"></i>T’Andre Boxley</a></small>
+                              <br /><strong>Asst Program Coordinator:</strong>
+                            <br />Office Support Specialist: <a href="mailto:Benita.Calloway@cityofcharleston.org@cityofcharleston.org  "> <i class="fa fa-envelope"></i>Benita Calloway</a></small>
                    
                     </p>
                     <hr>
