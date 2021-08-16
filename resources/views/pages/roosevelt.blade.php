@@ -62,7 +62,7 @@
                             <br />Charleston, WV 25311
                             <br />(304)348-0529
                             <br /><strong>Hours:</strong>
-                            <br /> NOTE:  
+                           
                            <br />Monday - Friday 12am - 8pm
                            
                             <br /><strong>Neighborhood Center Manager:</strong>
