@@ -38,7 +38,7 @@ if($photobook) {
                             <br /><strong>Hours:</strong>
                            <br /> Open: 8am - 5pm Monday - Friday
                             <br />Closed Saturday and Sunday
-                            <br /><strong>Pool Hours:</strong>
+                           <!-- <br /><strong>Pool Hours:</strong>
                             <br />Tuesday - Sunday 12pm - 6pm -->
                             <br /><strong>Director of Parks and Recreation:</strong>
                             <br /><a href="mailto:parksandrecreation@cityofcharleston.org"><i class="fa fa-envelope"></i> Rashaun Sayles</a></p>
