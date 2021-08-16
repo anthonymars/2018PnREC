@@ -71,8 +71,7 @@
                            <br />Monday - Friday 9am - 9pm
                             <br />Saturday 9am - 5pm 
                             <br />Sunday Closed
-                            <br /><strong>Pool Hours:</strong>
-                            <br />CLOSED Temporarily
+                           
                             <br /><strong>Program  Coordinator:</strong>
                             <br /><a href="mailto:Corey.Lowery@cityofcharleston.org"><i class="fa fa-envelope"></i> Corey Lowery</a>
                             <br /><a href="mailto:Alexandria.Gray@cityofcharleston.org"><i class="fa fa-envelope"></i> Alex Gray</a>
