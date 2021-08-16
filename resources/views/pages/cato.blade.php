@@ -29,7 +29,10 @@ if($photobook) {
                 </div>
                 <div class="col-md-4">
                     <h2>Get In Touch</h2>
-                    <p><small>200 Baker Lane
+                    
+                    <p><small>
+                    Rashaun Sayles, Manager
+                            <br />  200 Baker Lane
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
                             <br /><strong>Hours:</strong>
