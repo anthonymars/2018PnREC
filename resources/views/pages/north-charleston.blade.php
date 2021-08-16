@@ -65,19 +65,19 @@
                 <div class="col-md-4">
                     <h2>Get In Touch</h2>
                     <p><small>2009 7th Ave
-                            <br />Charleston, WV 25301
+                            <br />Charleston, WV 25387
                             <br />(304)348-6884
                             <br /><strong>Hours:</strong>
-                           <br /> NOTE: 
-                            <!-- <br />Monday - Friday 9am - 9pm
-                            <br />Saturday 9am - 5pm -->
+                           <br />Monday - Friday 9am - 9pm
+                            <br />Saturday 9am - 5pm 
                             <br />Sunday Closed
                             <br /><strong>Pool Hours:</strong>
                             <br />CLOSED Temporarily
                             <br /><strong>Program  Coordinator:</strong>
                             <br /><a href="mailto:Corey.Lowery@cityofcharleston.org"><i class="fa fa-envelope"></i> Corey Lowery</a>
-                            <br /><strong>Office Support Specialist:</strong>
-                            <br /><a href="mailto:Linda.oldham@cityofcharleston.org"><i class="fa fa-envelope"></i> Linda Oldham</a></small></p>
+                            <br /><a href="mailto:Alexandria.Gray@cityofcharleston.org"><i class="fa fa-envelope"></i> Alex Gray</a>
+                            <br /><strong>Asst. Program  Coordinator:</strong>
+                            <br /><a href="mailto:Tonya.Barnett@cityofcharleston.org"><i class="fa fa-envelope"></i> Tonya Barnett</a></small></p>
 
                     <hr>
                     <h2>Photos</h2>
