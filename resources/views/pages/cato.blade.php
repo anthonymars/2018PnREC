@@ -36,7 +36,7 @@ if($photobook) {
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
                             <br /><strong>Hours:</strong>
-                           <br /> Open: 8am - 5pm Monday - Friday
+                           <br /> Open: 8am - 4pm Monday - Friday
                             <br />Closed Saturday and Sunday
                            <!-- <br /><strong>Pool Hours:</strong>
                             <br />Tuesday - Sunday 12pm - 6pm -->
