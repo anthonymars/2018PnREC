@@ -114,7 +114,7 @@
                         <br />Charleston, WV 25301
                         <br />(304)348-6860
                         <br />Director of Parks and Recreation: <a href="mailto:parksandrecreation@cityofcharleston.org" target="_blank">Rashaun Sayles</a>
-                        <br />Office Support Specialist : <a href="mailto:leeann.grogg@cityofcharleston.org" target="_blank">LeeAnn Grogg/a>
+                        <br />Office Support Specialist : <a href="mailto:leeann.grogg@cityofcharleston.org" target="_blank">LeeAnn Grogg</a>
                     
                         <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a>
                         <br /><strong>Hours:</strong>
