@@ -20,7 +20,7 @@
                     <br />Charleston, WV 25387
                     <br />(304)348-6884
                     <br />Program Coordinator: <a href="mailto:Corey.Lowery@cityofcharleston.org">Corey Lowery</a>
-                    <br />Office Support Specialist: <a href="mailto:Alexandria.Gray@cityofcharleston.org">Alex Gray</a>
+                    <br />Program Coordinator: <a href="mailto:Alexandria.Gray@cityofcharleston.org">Alex Gray</a>
                      <br />Assistant Program Coordinator: <a href="mailto:Tonya.Barnett@cityofcharleston.org">Tonya Barnett</a>
                     <br /><strong>Hours:</strong>
                     <br />Monday - Friday 9am - 9pm
@@ -42,7 +42,7 @@
                     <p><small>3511 Venable Ave
                         <br />Charleston, WV 25301
                         <br />(304)348-6484
-                        <br />Recreation Center Manager: <a href="mailto:erika.crump@cityofcharleston.org">Erika Crump</a>
+                        <br />Program Coordinator: <a href="mailto:erika.crump@cityofcharleston.org">Erika Crump</a>
                         <br />Program Coordinator: <a href="mailto:Kelly.Jones@cityofcharleston.org">Kelly Jones</a>
                         <br />Ass.Program Coordinator: <a href="mailto:Dennis.Johnson@cityofcharleston.org ">Dennis Johnson</a>
                       <!--  <br />Custodial and Grounds Maintenance: Tyrone Scott -->
@@ -69,7 +69,7 @@
                         <br />(304)348-6404
                         <br />Program Coordinator:<a href="mailto:dax.miller@cityofcharleston.org">Cookie Miller </a></small>
                         <br />Program Coordinator:<a href="mailto:T'Andre.Boxley@cityofcharleston.org">T’Andre Boxley</a></small>
-                        <br />Program Coordinator:<a href="mailto:Benita.Calloway@cityofcharleston.org">Benita Calloway</a></small>
+                        <br />Ass.Program Coordinator:<a href="mailto:Benita.Calloway@cityofcharleston.org">Benita Calloway</a></small>
                        
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 9am - 9pm
@@ -114,8 +114,8 @@
                         <br />Charleston, WV 25301
                         <br />(304)348-6860
                         <br />Director of Parks and Recreation: <a href="mailto:parksandrecreation@cityofcharleston.org" target="_blank">Rashaun Sayles</a>
-                        <br />Office Support Specialist : <a href="mailto:leslee.myers@cityofcharleston.org" target="_blank">Leslee Myers</a>
-                        <br />Office Support Specialist: <a href="mailto:shawnee.dunlap@cityofcharleston.org" target="_blank">Shawnee Dunlap</a>
+                        <br />Office Support Specialist : <a href="mailto:leeann.grogg@cityofcharleston.org" target="_blank">LeeAnn Grogg/a>
+                    
                         <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a>
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 9am - 5pm
