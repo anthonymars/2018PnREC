@@ -69,7 +69,7 @@
                         <br />(304)348-6404
                         <br />Program Coordinator:<a href="mailto:dax.miller@cityofcharleston.org">Cookie Miller </a></small>
                         <br />Program Coordinator:<a href="mailto:T'Andre.Boxley@cityofcharleston.org">T’Andre Boxley</a></small>
-                        <br />Program Coordinator: <a href="mailto:Benita.Calloway@cityofcharleston.org">Benita Calloway</a></small>
+                        <br />Program Coordinator:<a href="mailto:Benita.Calloway@cityofcharleston.org">Benita Calloway</a></small>
                        
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 9am - 9pm
