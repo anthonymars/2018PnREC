@@ -20,7 +20,8 @@
                     <br />Charleston, WV 25387
                     <br />(304)348-6884
                     <br />Program Coordinator: <a href="mailto:Corey.Lowery@cityofcharleston.org">Corey Lowery</a>
-                     <br />Office Support Specialist: <a href="mailto:Linda.oldham@cityofcharleston.org">Linda Oldham</a>
+                    <br />Office Support Specialist: <a href="mailto:Alexandria.Gray@cityofcharleston.org">Alex Gray</a>
+                     <br />Assistant Program Coordinator: <a href="mailto:Tonya.Barnett@cityofcharleston.org">Tonya Barnett</a>
                     <br /><strong>Hours:</strong>
                     <br />Monday - Friday 9am - 9pm
                     <br />Saturday 9am - 5pm
