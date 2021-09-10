@@ -50,9 +50,9 @@
                         <br />Monday - Friday 9am - 9pm
                         <br />Saturday 9am - 5pm
                         <br />Sunday Closed
-                        <br /><strong>Pool Hours:</strong>
+                      <!--  <br /><strong>Pool Hours:</strong>
                             <br />Tuesday - Sunday 12pm - 6pm
-                            <br />Lap Swimming 9am - 11am
+                            <br />Lap Swimming 9am - 11am -->
                         </small></p>
                 </div>
             </div>
