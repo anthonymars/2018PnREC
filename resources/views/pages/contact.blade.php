@@ -67,9 +67,10 @@
                     <p><small>314 Donnally St.
                         <br />Charleston, WV 25301
                         <br />(304)348-6404
-                        <br />Recreation Center Manager: <a href="mailto:dax.miller@cityofcharleston.org">Dax Miller</a>
-                        <br />Program Coordinator: <a href="mailto:shannon.gerencir@cityofcharleston.org ">Shannon Gerencir</a>
-                        <br />Office Support Specialist: <a href="mailto:cindy.moss@cityofcharleston.org  ">Cindy Moss</a>
+                        <br />Program Coordinator:<a href="mailto:dax.miller@cityofcharleston.org">Cookie Miller </a></small>
+                        <br />Program Coordinator:<a href="mailto:T'Andre.Boxley@cityofcharleston.org">T’Andre Boxley</a></small>
+                        <br />Program Coordinator: <a href="mailto:Benita.Calloway@cityofcharleston.org">Benita Calloway</a>
+                       
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 9am - 9pm
                         <br />Saturday 9am - 5pm
