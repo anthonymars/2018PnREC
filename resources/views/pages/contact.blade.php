@@ -118,7 +118,7 @@
                     
                         <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a>
                         <br /><strong>Hours:</strong>
-                        <br />Monday - Friday 9am - 5pm
+                        <br />Monday - Friday 8am - 4pm
                         <br />Saturday and Sunday Closed
                         <br /><strong>Pool Hours:</strong>
                           <!--  <br />Tuesday - Sunday 12pm - 6pm -->
