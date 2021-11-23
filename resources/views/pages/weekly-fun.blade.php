@@ -139,7 +139,7 @@
                     <p><small>502 Ruffner Ave.,
                            <br />Charleston, WV 25301
                             <br /> (304) 348-0529
-                            <br />  Open: 12pm -8 pm Monday - Friday
+                            <br />  Open: 12pm - 8 pm Monday - Friday
                         </small>
                     </p>
                 </div>
