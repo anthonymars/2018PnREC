@@ -27,7 +27,7 @@
                            <li><strong>Game Room</strong> that includes table tennis, a pool table, corn hole boads, and a foosball table</li>
                            <li><strong>Weight Room</strong> complete with individual free weights, standard barbells, and numerous cable machines</li>
                            <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes.
-                            <li> Computer Lab/Homework Room  </li>
+                            <li> <strong>Computer Lab/Homework Room  </li>
                            </li>
                        </ul>
                         <p>While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings and more.</p>
@@ -38,7 +38,7 @@
                             <li>Outdoor <strong>basketball court</strong> </li>
                             <li>A large <strong>play area/playground</strong> for children</li>
                             <li>Little League <strong>baseball field</strong> (by schedule only)</li>
-                            <li> Outdoor Seasonal Swimming Pool   </li>
+                            <li> <strong>Outdoor Seasonal Swimming Pool   </li>
                         </ul>
 
                     </div>
