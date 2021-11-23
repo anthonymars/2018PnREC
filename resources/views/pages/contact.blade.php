@@ -44,15 +44,15 @@
                         <br />(304)348-6484
                         <br />Program Coordinator: <a href="mailto:erika.crump@cityofcharleston.org">Erika Crump</a>
                         <br />Program Coordinator: <a href="mailto:Kelly.Jones@cityofcharleston.org">Kelly Jones</a>
-                        <br />Ass.Program Coordinator: <a href="mailto:Dennis.Johnson@cityofcharleston.org ">Dennis Johnson</a>
+                       
                       <!--  <br />Custodial and Grounds Maintenance: Tyrone Scott -->
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 9am - 9pm
                         <br />Saturday 9am - 5pm
                         <br />Sunday Closed
-                      <!--  <br /><strong>Pool Hours:</strong>
+                     <br /><strong>Pool Hours:</strong>
                             <br />Tuesday - Sunday 12pm - 6pm
-                            <br />Lap Swimming 9am - 11am -->
+                           
                         </small></p>
                 </div>
             </div>
@@ -93,6 +93,7 @@
                     <p><small>502 Ruffner Ave.
                         <br />Charleston, WV 25301
                         <br />(304)348-0529
+                         <br />Recreation Facilities Manager:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a></small>
                         <br />Neighborhood Center Manager: <a href="mailto:tonya.cummings@cityofcharleston.org">Tonya Cummings</a>
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 9am - 8pm
@@ -114,6 +115,7 @@
                         <br />Charleston, WV 25301
                         <br />(304)348-6860
                         <br />Director of Parks and Recreation: <a href="mailto:parksandrecreation@cityofcharleston.org" target="_blank">Rashaun Sayles</a>
+                        <br />Deputy Director of Parks and Recreation: <a href="mailto:parksandrecreation@cityofcharleston.org" target="_blank">Jennifer Neal</a>
                         <br />Office Support Specialist : <a href="mailto:leeann.grogg@cityofcharleston.org" target="_blank">LeeAnn Grogg</a>
                     
                         <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a>
@@ -121,7 +123,7 @@
                         <br />Monday - Friday 8am - 4pm
                         <br />Saturday and Sunday Closed
                         <br /><strong>Pool Hours:</strong>
-                          <!--  <br />Tuesday - Sunday 12pm - 6pm -->
+                           <br />Tuesday - Sunday 12pm - 6pm 
                         </small>
                     </p>
                 </div>
