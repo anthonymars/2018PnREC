@@ -29,6 +29,8 @@
                             <li><strong>Weight Room</strong> with free weights and machines</li>
                             <li><strong>Cardio Room</strong> with treadmills, elliptical, and an exercise bike</li>
                             <li><strong>Game Room</strong> with a pool table, air hockey table, and a foosball table</li>
+                            <li><strong>Computer Lab/Homework Room </strong></li>
+                             <li><strong>Women’s Fitness Lab  </strong></li>
                         </ul>
                         <h3>Outdoor Amenities</h3>
                         <ul>
@@ -37,33 +39,14 @@
                             <li>Outdoor <strong>play area/playground</strong></li>
                             <li>“Outdoor classroom”-- <strong>Natural Playground</strong> that offers youth open spaces, climbing and crawling spaces, nature art areas, gardens and more</li>
                             <li>4 Outdoor <strong>tennis courts</strong> and a tennis practice wall</li>
+                            <li><strong> 2 Outdoor Basketball Courts  </strong></li>
+                            <li><strong> 1 Outdoor Futsal Court  </strong></li>
+                            <li><strong> 2 Outdoor Tennis Courts  </strong></li>
+                            <li><strong> Outdoor Seasonal Swimming Pool   </strong></li>
                         </ul>
 
                     </div>
-                    <h3>Weekly Activities</h3>
-                    <ul>
-                        <ul>
-                        <li>Mondays @ 6pm - Close / Men’s Basketball Night </li>
-                        <li>Third Monday of every month - Bingo @  1:00 pm - 3:30 pm</li>
-                        <li>Tuesday @ 12pm-2pm - Men’s Fitness & Fellowship Basketball </li>
-                        <li>Senior Strength & Conditioning @ 12:30pm-2pm </li>
-                        <li>Spring Biddy Basketball League Practice @ 6pm-8pm </li>
-                        <li>Wednesday @ 6pm-Close: Teen Hoop Night </li>
-                        <li>Thursday @ 12pm-2pm: Men’s Fitness & Fellowship Basketball  </li>
-                        <li>Spring Biddy Basketball League Practice @ 6pm-8pm </li>
-                        <li>Friday @ 6:00pm – 9:00pm   - Futsal</li>
-                        <li> After School Program - Monday - Friday from  2 pm - 5:30 pm
-                        <li>Saturday @ 1pm-4pm</li>
-                        <li>Saturday  @ 10am-1pm  - Spring Biddy Basketball League Games /March 7 - April 4  </li>
-                        <li>Saturday  @ 11am-1pm  - Painting Party / First Saturday of every month</li>
-                        <li>Saturday - Youth Basketball Practice -Coaches must call to reserve court time  </li>
-                        <li>Future Events/Activities are listed down  </li>
-                        <li>Kid’s Night April 17th 6:00pm – 9:00pm Ages 5-12. </li>
-                        <li>Teen Night May 15th 8:00pm – 11:00pm ages 13-18. </li>
-                        <li>Free tutoring for Math, Science , ACT/SAT &  Reading. </li>
-                        <li>USA Boxing. Youth & Adults </li>
-                        <li>Spring Biddy Basketball League. Youth ages 5-7 yrs </li>
-                    </ul>
+                
                 </div>
                 <div class="col-md-4">
                     <h2>Get In Touch</h2>
