@@ -117,6 +117,34 @@
                     </p>
                 </div>
             </div>
+       <hr>
+
+            <div class="row">
+                <div class="col-md-4 pb-5">
+                    <a href="/mlk-jr"><img src="{{ asset('/images/centers/mlk_site.jpg') }}" alt="center" class="img-fluid"></a>
+                </div>
+                <div class="col-md-8">
+                    <h3>Roosevelt Neighborhood Center:</h3>
+                    <ul>
+                        <li> Monday-Thursday 4pm-5pm – Men’s Fitness  </li>
+                       <li>	 Mondays 6pm-7pm – Roosevelt Dance Battle  </li>
+                       <li>	 Mondays & Tuesdays 6pm-8pm – Men’s Basketball  </li>
+                        <li> Wednesdays 6pm-7pm – Yoga  </li>
+                       <li>	 Fridays 4pm-6pm – Youth Sports  </li>
+                        <li> Fridays 6pm-7pm – Beginner Pickleball  </li>
+                       <li>	 Monday-Thursday – “Step by Step” Afterschool Program  </li>
+
+
+                    </ul>
+                    <p><small>502 Ruffner Ave.,
+                           <br />Charleston, WV 25301
+                            <br /> (304) 348-0529
+                            <br />  Open: 12pm -8 pm Monday - Friday
+                        </small>
+                    </p>
+                </div>
+            </div>       
+            
             <hr>
             <div class="row">
                 <div class="col-md-4 pb-5">
