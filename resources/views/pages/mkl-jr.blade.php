@@ -38,10 +38,9 @@
                             <li>Outdoor seasonal <strong>swimming pool</strong></li>
                             <li>Outdoor <strong>play area/playground</strong></li>
                             <li>“Outdoor classroom”-- <strong>Natural Playground</strong> that offers youth open spaces, climbing and crawling spaces, nature art areas, gardens and more</li>
-                            <li>4 Outdoor <strong>tennis courts</strong> and a tennis practice wall</li>
+                            <li>2 Outdoor <strong>tennis courts</strong> and a tennis practice wall</li>
                             <li><strong> 2 Outdoor Basketball Courts  </strong></li>
                             <li><strong> 1 Outdoor Futsal Court  </strong></li>
-                            <li><strong> 2 Outdoor Tennis Courts  </strong></li>
                             <li><strong> Outdoor Seasonal Swimming Pool   </strong></li>
                         </ul>
 
