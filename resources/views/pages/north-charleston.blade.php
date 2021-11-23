@@ -41,26 +41,9 @@
                             <li>the only center with a <strong>dog park</strong></li>
                             <li>Outdoor, seasonal <strong>pool</strong></li>
                         </ul>
-                        <p>North is also home to The Western Generals- Charleston’s youth football league.</p>
+                        <p>North Charleston is the home of Capital City Cougars Youth Football</p>
                     </div>
-                    <h3>Weekly Activities</h3>
-                    <ul>
-                        <li>Mondays - The Charleston Table Tennis League  - 5:30pm - 8:45pm</li>
-                        <li>Tuesdays -  Students / Simply Fun Tutoring - 5:30pm - 7:00pm</li>
-                        <li>Tuesdays - Adult Volleyball  - 6pm – 8:45pm</li>
-                        <li>Wednesdays - Pickle Ball  - 6:00pm - 8:45pm</li>
-                        <li>Thursdays - Biddy Basketball  - 5:30pm - 8:45pm</li>
-                        <li>Fridays - Hip Hop Dance Classes  - 6:30pm - 8pm</li>
-                        <li>Fridays - Special Olympics Basketball   - 6:00pm - 8:30pm</li>
-                        <li>Mondays and Wednesdays -  Karate   - 6pm – 7:30pm</li>
-                        <li>Tuesdays, Thursdays and Fridays -  Pickle Ball    - 9:00am - 12noon</li>
-                        <li>Tuesdays and Thursdays  -  Zumba    - 5:30pm – 6:30pm</li>
-                        <li>Saturdays - Adult Volleyball   - 9am – noon</li>
-                        <li>3rd Thursdays of each Month: - Bingo   - 1pm – 3:30pm </li>
-                        <li> Game Room Daily:- This room houses a variety of games for youth, such as pool, air hockey, foosball, basketball shoot and table tennis and board games. </li>
-                        <li> Future Events/Activities : -  </li>
-                        <li> March 20th, 8pm-11pm. Teen Night, TikTok Teen Dance Class   </li>
-                    </ul>
+                    
                 </div>
                 <div class="col-md-4">
                     <h2>Get In Touch</h2>
@@ -71,8 +54,8 @@
                            <br />Monday - Friday 9am - 9pm
                             <br />Saturday 9am - 5pm 
                             <br />Sunday Closed
-                             <br /><strong>Pool Hours:</strong>
-                              <br />Open Saturdays and Sundays until Labor Day 12:00pm – 6:00pm
+                            <!-- <br /><strong>Pool Hours:</strong>
+                              <br />Open Saturdays and Sundays until Labor Day 12:00pm – 6:00pm -->
 
                             <br /><strong>Program  Coordinator:</strong>
                             <br /><a href="mailto:Corey.Lowery@cityofcharleston.org"><i class="fa fa-envelope"></i> Corey Lowery</a>
