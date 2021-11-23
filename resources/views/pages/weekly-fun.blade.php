@@ -121,7 +121,8 @@
 
             <div class="row">
                 <div class="col-md-4 pb-5">
-                    <a href="/mlk-jr"><img src="{{ asset('/images/centers/mlk_site.jpg') }}" alt="center" class="img-fluid"></a>
+                   <a href="/roosevelt"><img src="{{ asset('/images/centers/roosevelt_site.jpg') }}" alt="center" class="img-fluid">
+                    </a>
                 </div>
                 <div class="col-md-8">
                     <h3>Roosevelt Neighborhood Center:</h3>
