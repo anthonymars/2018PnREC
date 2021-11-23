@@ -87,12 +87,11 @@
                 <div class="col-md-8">
                     <h3>Martin Luther King Jr. Community Center:</h3>
                     <ul>
-                        <li>Mondays @ 6pm - Close / Men’s Basketball Night </li>
+                        <li>Tuesdays & Thursdays  6pm - 8pm  Men’s Basketball Night </li>
                         <li>Third Monday of every month - Bingo @  1:00 pm - 3:30 pm</li>
                         <li>Tuesday @ 12pm-2pm - Men’s Fitness & Fellowship Basketball </li>
                         <li>Senior Strength & Conditioning @ 12:30pm-2pm </li>
                         <li>Spring Biddy Basketball League Practice @ 6pm-8pm </li>
-                        <li>Wednesday @ 6pm-Close: Teen Hoop Night </li>
                         <li>Thursday @ 12pm-2pm: Men’s Fitness & Fellowship Basketball  </li>
                         <li>Spring Biddy Basketball League Practice @ 6pm-8pm </li>
                         <li>Friday @ 6:00pm – 9:00pm   - Futsal</li>
@@ -101,22 +100,15 @@
                         <li>Saturday  @ 10am-1pm  - Spring Biddy Basketball League Games /March 7 - April 4  </li>
                         <li>Saturday  @ 11am-1pm  - Painting Party / First Saturday of every month</li>
                         <li>Saturday - Youth Basketball Practice -Coaches must call to reserve court time  </li>
-                        <li>Future Events/Activities are listed down  </li>
-                        <li>Kid’s Night April 17th 6:00pm – 9:00pm Ages 5-12. </li>
-                        <li>Teen Night May 15th 8:00pm – 11:00pm ages 13-18. </li>
-                        <li>Free tutoring for Math, Science , ACT/SAT &  Reading. </li>
-                        <li>USA Boxing. Youth & Adults </li>
-                        <li>Spring Biddy Basketball League. Youth ages 5-7 yrs </li>
-                        <li>     ---- Our Facility Offer :  ------ </li>
-                        <li>       *Gymnasium  </li>
-                        <li>       *Weight Room  </li>
-                        <li>       *Cardio Room / Boxing Room  </li>
-                        <li>       *Traditional Playground </li>
-                        <li>       *Kid’s Reading Room  </li>
-                        <li>       *Natural Playground  </li>
-                        <li>       *Softball Field  </li>
-                        <li>       *Tennis Courts  </li>
-                        <li>       *Outdoor Swimming Pool  </li>
+                        <li>Sundays 9am-1pm – Flag Football League</li>
+                        <li> Monday, Wednesday & Friday 6pm-8pm – USA Boxing </li>
+                        <li> Tuesdays & Thursdays 12pm-2pm – Fellowship Basketball </li>
+                        <li> Fridays 6pm-7pm – Co-Ed Volleyball </li>
+                        <li> Fridays 5:30pm-7:30pm – Youth Art Classes </li>
+                        <li> Saturdays 3pm-4:45pm – Girls’ Basketball </li>
+                        <li> Biddy Basketball Practices – Reservations available </li>
+                        <li>Monday-Friday – “PAAC” (Partnership of African American Churches) Afterschool Program  </li>
+
                     </ul>
                     <p><small>314 Donnally St.
                             <br />Charleston, WV 25301
