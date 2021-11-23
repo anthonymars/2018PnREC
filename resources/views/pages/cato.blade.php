@@ -31,7 +31,7 @@ if($photobook) {
                     <h2>Get In Touch</h2>
                     
                     <p><small>
-                    Rashaun Sayles, Manager
+                    Rashaun Sayles, Director
                             <br />  200 Baker Lane
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
