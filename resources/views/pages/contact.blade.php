@@ -93,7 +93,7 @@
                     <p><small>502 Ruffner Ave.
                         <br />Charleston, WV 25301
                         <br />(304)348-0529
-                         <br />Recreation Facilities Manager:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a></small>
+                         <br />Recreation Facilities Manager:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
                         <br />Neighborhood Center Manager: <a href="mailto:tonya.cummings@cityofcharleston.org">Tonya Cummings</a></small>
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 9am - 8pm
