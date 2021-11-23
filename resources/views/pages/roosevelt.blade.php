@@ -19,7 +19,8 @@
             <div class="row">
                 <div class="col-md-8">
                     <h2>About Us</h2>
-                    <p>Roosevelt’s history on the East End as a school is quite evident when you visit this center. Roosevelt School was bought for $10 by the City with plans to transform this facility into Charleston’s newest neighborhood center. While the Charleston Family Resource Center hosts their after-school program and the Charleston Police Department operates multiple divisions in Roosevelt, other spaces are available to the public free of charge. These spaces are first come, first served. If you have questions, please contact Center staff.</p>
+                    <p>Roosevelt’s history on the East End as a school is quite evident when you visit this center. Roosevelt School was bought for $10 by the City with plans to transform this facility into Charleston’s newest neighborhood center.
+                    While the Charleston Police Department operates multiple divisions in Roosevelt, other spaces are available to the public free of charge. These spaces are first come, first served. If you have questions, please contact Center staff.</p>
                     <div class="diffText my-3">
                         <h3>Indoor Amenities</h3>
                         <ul>
@@ -35,24 +36,7 @@
                                  
                      </div>
                    
-                         <h3>Weekly Activities</h3>
-                         <li>Monday  6:00-8:00pm: -  Men’s Basketball Night   </li>
-                         <li>Wednesday 9:00am-1:00pm: Senior Program </li>
-                         <li>Wednesday 6:00-8:00:  WV Roller Derby Practice </li> 
-                         <li>4th Wednesday of each month-5:30pm:  Open Art Studio-Art studio is available for a $5 fee.   </li>
-                         <li> Thursdays 3:00-4:00pm: Youth Intermurals - For grade school students.  </li>
-                         <li> Thursdays 5:00-6:00pm: Youth Intermurals  - For Middle School students. </li>
-                         <li> Thursday 6:00-8:00pm:  AAU Practice & Biddy Basketball Practices </li>
-                         <li> Thursday 6:30-7:30pm:  Shotokan Karate/ FREE Classes  for Ages 10 and Up </li>
-                         <li> Monday-Friday 12:30-2:30pm: Pickleball </li>
-                         <li> Tuesday, Wednesday, Friday 2:30-6:00pm: - Open Gym</li>
-                         <li> Tuesday and Friday 6:00-8:00pm: 1/2 court open gym for everyone & 1/2 court pickleball  </li>
-                           <h3>Special Events</h3>
-                         <li>March 29 - GlowBall 6:00-8:00pm / Free Pick up games for Middle & High School students </li>
-                         <li>Wednesday 9:00am-1:00pm: Senior Program </li>
-                         <li>Wednesday 6:00-8:00:  WV Roller Derby Practice </li> 
-                      
-                         </ul>
+                         
                    
 
                 </div>
