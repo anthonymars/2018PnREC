@@ -32,6 +32,7 @@ if($photobook) {
                     
                     <p><small>
                     Rashaun Sayles, Director
+                    Jennifer Neal, Deputy Director
                             <br />  200 Baker Lane
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
