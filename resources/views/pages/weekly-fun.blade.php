@@ -57,14 +57,14 @@
                         <li>       *Playground  </li>
                         <li>       *Outdoor Basketball Court  </li>
                         <li>       *Outdoor Tennis Courts  </li>-->
-                        <li>	Add Monday, Wednesday & Friday 9:30am-11am – Senior Exercise Class</li>
-                        <li>	Add 3rd Tuesday of every month 6pm-8pm – Charleston Coin Club</li>
-                        <li>	Add Tuesday, Wednesday & Thursday 6pm-7pm – Women’s Fitness Hour</li>
-                        <li>	Add Wednesdays 7:30pm-8:30pm – Co-Ed Volleyball</li>
-                        <li>	Add Thursdays 5:45pm-6:45pm – Youth Nature Hike</li>
-                        <li>	Add Fridays 12pm-3pm – Card Sharks</li>
-                       <li>	Add Biddy Basketball Practices – Reservations available</li>
-                       <li>	Add Monday-Thursday – “Step by Step” Afterschool Program</li>
+                        <li>	 Monday, Wednesday & Friday 9:30am-11am – Senior Exercise Class</li>
+                        <li>	 3rd Tuesday of every month 6pm-8pm – Charleston Coin Club</li>
+                        <li>	 Tuesday, Wednesday & Thursday 6pm-7pm – Women’s Fitness Hour</li>
+                        <li>	 Wednesdays 7:30pm-8:30pm – Co-Ed Volleyball</li>
+                        <li>	 Thursdays 5:45pm-6:45pm – Youth Nature Hike</li>
+                        <li>	 Fridays 12pm-3pm – Card Sharks</li>
+                       <li>	 Biddy Basketball Practices – Reservations available</li>
+                       <li>	 Monday-Thursday – “Step by Step” Afterschool Program</li>
 
 
 
