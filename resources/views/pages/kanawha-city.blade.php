@@ -42,35 +42,36 @@
                     </div>
                     
                 </div>
-                <div class="col-md-4">
+               <div class="col-md-4">
                     <h2>Get In Touch</h2>
-                    <p><small>2009 7th Ave
-                            <br />Charleston, WV 25387
-                            <br />(304)348-6884
+                    <p><small>3511 Venable Ave
+                            <br />Charleston, WV 25304
+                            <br />(304)348-6484
                             <br /><strong>Hours:</strong>
-                           <br />Monday - Friday 9am - 9pm
+                            <br />Monday - Friday 9am - 9pm
                             <br />Saturday 9am - 5pm 
-                            <br />Sunday Closed
-                            <!-- <br /><strong>Pool Hours:</strong>
-                              <br />Open Saturdays and Sundays until Labor Day 12:00pm – 6:00pm -->
-
-                            <br /><strong>Program  Coordinator:</strong>
-                            <br /><a href="mailto:Corey.Lowery@cityofcharleston.org"><i class="fa fa-envelope"></i> Corey Lowery</a>
-                            <br /><a href="mailto:Alexandria.Gray@cityofcharleston.org"><i class="fa fa-envelope"></i> Alex Gray</a>
-                            <br /><strong>Asst. Program  Coordinator:</strong>
-                            <br /><a href="mailto:Tonya.Barnett@cityofcharleston.org"><i class="fa fa-envelope"></i> Tonya Barnett</a></small></p>
+                          <br />Sunday Closed 
+                           <!-- <br /><strong>Pool Hours:</strong>  -->
+                           <!-- <br />Tuesday - Sunday 12pm - 6pm
+                            <br />Lap Swimming 9am - 11am -->
+                           <!-- <br /><strong>Recreation  Manager: </strong> -->
+                           
+                            <br /><strong>Program Coordinator: </strong>
+                             <br /><a href="mailto:erika.crump@cityofcharleston.org"><i class="fa fa-envelope"></i> Erika Crump</a>
+                             <br /><a href="mailto:Kelly.Jones@cityofcharleston.org"><i class="fa fa-envelope"></i> Kelly Jones</a>
+             </small></p>
 
                     <hr>
                     <h2>Photos</h2>
                     @if($photobook)
-                        <?php $counter = 0; ?>
+                        <?php  $counter =  0; ?>
                         @foreach($pics as $p)
                             @if($countStuff == 0)
                                 <div class="row py-3">
                                     @endif
                                     <div class="col-md-6 py-3">
                                         <a href="#" data-toggle="modal" data-target="#ncModal{{ $p->id }}">
-                                        <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
+                                            <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
                                         </a>
                                         <div class="modal fade" id="ncModal{{$p->id}}" tabindex="-1" role="dialog" aria-labelledby="ncModalLabel" aria-hidden="true">
                                             <div class="modal-dialog" role="document">
@@ -93,6 +94,7 @@
                                     </div>
                                     @if($countStuff == 1 or $counter == $itemCount)
                                 </div>
+
                             @endif
                                 <?php
                                 $countStuff++;
@@ -104,12 +106,12 @@
                         @endforeach
                     @endif
                     <hr>
-                    <a href="/gallery/north-charleston" class="btn btn-main">North Charleston Gallery</a>
+                    <a href="/gallery/kanawha-city" class="btn btn-main">Kanawha City Gallery</a>
                 </div>
             </div>
             <div class="col-md-12">
                 <hr>
-                <p class="text-center">Come check out the North Charleston Community Center!</p>
+                <p class="text-center">Come check out the Kanawha City Community Center!</p>
             </div>
         </div>
     </section>
