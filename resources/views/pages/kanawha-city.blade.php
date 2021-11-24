@@ -30,12 +30,13 @@
                         and more.  </small></p>
                         </p>
                         <h3>Outdoor Amenities</h3>
-                        <ul>
-                            <li>Multiple <strong>Softball Fields</strong></li>
-                            <li>2 outdoor <strong>play areas/playgrounds</strong></li>
-                            <li>Outdoor <strong>basketball Court</strong></li>
-                            <li>the only center with a <strong>dog park</strong></li>
-                            <li>Outdoor, seasonal <strong>pool</strong></li>
+                       <ul>
+                            <li>8 outdoor <strong>tennis courts</strong></li>
+                            <li>Outdoor, <strong>seasonal pool</strong> that's 25 meters in length</li>
+                            <li>Outdoor <strong>basketball court</strong> </li>
+                            <li>A large <strong>play area/playground</strong> for children</li>
+                            <li>Little League <strong>baseball field</strong> (by schedule only)</li>
+                            <li> <strong>Outdoor Seasonal Swimming Pool   </li>
                         </ul>
                         <p><small>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
                        </small>  </p>
