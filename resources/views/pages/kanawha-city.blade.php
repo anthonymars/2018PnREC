@@ -30,7 +30,8 @@
                             <li> <strong>Computer Lab/Homework Room  </li>
                            </li>
                        </ul>
-                        <p>While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings and more.</p>
+                        <p> <small>While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings 
+                        and more.  </small></p>
                         <h3>Outdoor Amenities</h3>
                         <ul>
                             <li>8 outdoor <strong>tennis courts</strong></li>
@@ -40,8 +41,8 @@
                             <li>Little League <strong>baseball field</strong> (by schedule only)</li>
                             <li> <strong>Outdoor Seasonal Swimming Pool   </li>
                         </ul>
- <p>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
-                        </p>
+ <p><small>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
+                       </small>  </p>
                    </div>
                 </div>         
               <div class="col-md-4">
