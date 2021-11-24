@@ -40,15 +40,11 @@
                             <li>Little League <strong>baseball field</strong> (by schedule only)</li>
                             <li> <strong>Outdoor Seasonal Swimming Pool   </li>
                         </ul>
-
-                    </div>
-                    
-                      </div>
-                    <p>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
+ <p>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
                         </p>
-               
-             
-                <div class="col-md-4">
+                   </div>
+                </div>         
+              <div class="col-md-4">
                     <h2>Get In Touch</h2>
                     <p><small>3511 Venable Ave
                             <br />Charleston, WV 25304
