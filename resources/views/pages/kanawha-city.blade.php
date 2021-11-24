@@ -39,7 +39,6 @@
                             <li>Little League <strong>baseball field</strong> (by schedule only)</li>
                             <li><strong>Outdoor Seasonal Swimming Pool </li>
                         </ul>
-                        </ul>
                         <p><small>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
                        </small>  </p>
                     </div>
