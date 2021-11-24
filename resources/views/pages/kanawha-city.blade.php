@@ -32,7 +32,7 @@
                         <h3>Outdoor Amenities</h3>
                        <ul>
                            <ul>
-                            <li>Multiple <strong>Softball Fields</strong></li>
+                            <li>8 outdoor <strong>tennis courts</strong></li>
                             <li>2 outdoor <strong>play areas/playgrounds</strong></li>
                             <li>Outdoor <strong>basketball Court</strong></li>
                             <li>the only center with a <strong>dog park</strong></li>
