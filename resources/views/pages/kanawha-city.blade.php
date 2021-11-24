@@ -22,7 +22,7 @@
                     <div class="diffText my-3">
                         <h3>Indoor Amenities</h3>
                          <ul>
-                            <li><strong>Gymnasium</strong> with a regulation size, indoor basketball court (completely redone 2017
+                            <li><strong>Gymnasium</strong> with a regulation size, indoor basketball court (completely redone 2017)
                             </li>
                             <li><strong>Game Room</strong> that includes table tennis, a pool table, corn hole boads, and a foosball table
                             </li>
