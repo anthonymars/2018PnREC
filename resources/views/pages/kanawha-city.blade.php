@@ -66,7 +66,7 @@
                             <br /><strong>Program Coordinator: </strong>
                              <br /><a href="mailto:erika.crump@cityofcharleston.org"><i class="fa fa-envelope"></i> Erika Crump</a></small>
                              <br /><a href="mailto:Kelly.Jones@cityofcharleston.org"><i class="fa fa-envelope"></i> Kelly Jones</a></small>
-              
+              </div>
 
                     <hr>
                     <h2>Photos</h2>
