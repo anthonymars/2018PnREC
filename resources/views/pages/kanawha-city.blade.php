@@ -19,29 +19,29 @@
             <div class="row">
                 <div class="col-md-8">
                    <p>Established in 1978, KCCC is the third community center brought in by Charleston Parks and Recreation (and at that time Public Grounds). This center is a multifaceted facility that is free to our community members. With 17,000 square feet, this center boasts plenty of activities, recreational space, and amenities available for public use. Majority of our amenities are on a first come, first served basis. If you have questions, please ask Center staff.</p>
-                    <div class="diffText my-3">
+                     <div class="diffText my-3">
                         <h3>Indoor Amenities</h3>
                         <ul>
-                           <li><strong>Gymnasium</strong> with a regulation size, indoor basketball court (completely redone 2017)</li>
-                           <li><strong>Game Room</strong> that includes table tennis, a pool table, corn hole boads, and a foosball table</li>
-                           <li><strong>Weight Room</strong> complete with individual free weights, standard barbells, and numerous cable machines</li>
-                           <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes.</li>
-                            <li> <strong>Computer Lab/Homework Room  </li>
-                         </ul>
-                         <p> <small>While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings 
-                        and more.  </small></p>
+                            <li><strong>Gymnasium</strong> with indoor, basketball court is the only court complete with basketball, volleyball and pickleball lines
+                            </li>
+                            <li><strong>Weight Room</strong> that offers free weights, as well as cable machines
+                            </li>
+                            <li><strong>Cardio Room</strong> with treadmills, ellipticals and exercise bikes (the largest of our Center’s)</li>
+                            <li><strong>Women's Fitness Room</strong> with weights, a cable-styled machine, and cardio equipment for the ladies who want to workout in a more controlled space (no men!)</li>
+                            <li><strong>Game Room</strong> that includes a pool table and a ping pong table</li>
+                        </ul>
+                        <p><small>North also has one of the larger <strong>Meeting Rooms</strong> available to the public to rent at a reasonable rate.
+                            </small>
+                        </p>
                         <h3>Outdoor Amenities</h3>
                         <ul>
-                            <li>8 outdoor <strong>tennis courts</strong></li>
-                            <li>Outdoor, <strong>seasonal pool</strong> that's 25 meters in length</li>
-                            <li>Outdoor <strong>basketball court</strong> </li>
-                            <li>A large <strong>play area/playground</strong> for children</li>
-                            <li>Little League <strong>baseball field</strong> (by schedule only)</li>
-                            <li> <strong>Outdoor Seasonal Swimming Pool   </li>
+                            <li>Multiple <strong>Softball Fields</strong></li>
+                            <li>2 outdoor <strong>play areas/playgrounds</strong></li>
+                            <li>Outdoor <strong>basketball Court</strong></li>
+                            <li>the only center with a <strong>dog park</strong></li>
+                            <li>Outdoor, seasonal <strong>pool</strong></li>
                         </ul>
-                        <p><small>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
-                       </small>  </p>
-                 
+                        <p>North Charleston is the home of Capital City Cougars Youth Football</p>
                     </div>
                     
                 </div>
