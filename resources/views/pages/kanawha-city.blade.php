@@ -22,11 +22,9 @@
                     <div class="diffText my-3">
                         <h3>Indoor Amenities</h3>
                         <ul>
-                           <li><strong>Gymnasium</strong> with a regulation size, indoor basketball court (completely redone 2017) </li>
-                           <li><strong>Game Room</strong> that includes table tennis, a pool table, corn hole boads, and a foosball table </li>
-                           <li><strong>Weight Room</strong> complete with individual free weights, standard barbells, and numerous cable machines </li>
-                           <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes </li>
-                            <li> <strong>Computer Lab/Homework Room  </li>
+                           <li><strong>Weight Room</strong> complete with individual free weights, standard barbells, and numerous cable machines</li>
+                            <li><strong>Women's Fitness Room</strong> with weights, a cable-styled machine, and cardio equipment for the ladies who want to workout in a more controlled space (no men!)</li>
+                            <li><strong>Game Room</strong> that includes a pool table and a ping pong table</li>
                         </ul>
                         <p><small>North also has one of the larger <strong>Meeting Rooms</strong> available to the public to rent at a reasonable rate.
                             </small>
