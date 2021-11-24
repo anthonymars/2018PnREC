@@ -26,8 +26,8 @@
                             <li><strong>Women's Fitness Room</strong> with weights, a cable-styled machine, and cardio equipment for the ladies who want to workout in a more controlled space (no men!)</li>
                             <li><strong>Game Room</strong> that includes a pool table and a ping pong table</li>
                         </ul>
-                        <p><small>North also has one of the larger <strong>Meeting Rooms</strong> available to the public to rent at a reasonable rate.
-                            </small>
+                        <p> <small>While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings 
+                        and more.  </small></p>
                         </p>
                         <h3>Outdoor Amenities</h3>
                         <ul>
@@ -37,7 +37,8 @@
                             <li>the only center with a <strong>dog park</strong></li>
                             <li>Outdoor, seasonal <strong>pool</strong></li>
                         </ul>
-                        <p>North Charleston is the home of Capital City Cougars Youth Football</p>
+                        <p><small>KCCC is also home to the UC Softball Field used by the UC women’s softball team for practice. Their field is also utilized for soccer practice, inter-murals and summer softball leagues.
+                       </small>  </p>
                     </div>
                     
                 </div>
