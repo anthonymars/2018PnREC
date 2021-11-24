@@ -28,7 +28,7 @@
                            <li><strong>Weight Room</strong> complete with individual free weights, standard barbells, and numerous cable machines</li>
                            <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes.
                             <li> <strong>Computer Lab/Homework Room  </li>
-                           </li>
+                         
                        </ul>
                         <p> <small>While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings 
                         and more.  </small></p>
