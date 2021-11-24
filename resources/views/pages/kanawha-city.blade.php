@@ -23,6 +23,7 @@
                         <h3>Indoor Amenities</h3>
                         <ul>
                            <li><strong>Weight Room</strong> complete with individual free weights, standard barbells, and numerous cable machines</li>
+                            <li><strong>Computer Lab/Homework Room</li>
                             <li><strong>Gymnasium</strong> with a regulation size, indoor basketball court (completely redone 2017)</li>
                             <li><strong>Game Room</strong> that includes table tennis, a pool table, corn hole boads, and a foosball table</li>
                             <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes.</li>
