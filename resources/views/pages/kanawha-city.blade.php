@@ -24,7 +24,8 @@
                         <ul>
                            <li><strong>Weight Room</strong> complete with individual free weights, standard barbells, and numerous cable machines</li>
                             <li><strong>Women's Fitness Room</strong> with weights, a cable-styled machine, and cardio equipment for the ladies who want to workout in a more controlled space (no men!)</li>
-                            <li><strong>Game Room</strong> that includes a pool table and a ping pong table</li>
+                            <li><strong>Game Room</strong> that includes table tennis, a pool table, corn hole boads, and a foosball table</li>
+                             <li><strong>Game Room</strong> that includes a pool table and a ping pong table</li>
                         </ul>
                         <p> <small>While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings 
                         and more.  </small></p>
@@ -33,7 +34,7 @@
                        <ul>
                            <ul>
                             <li>8 outdoor <strong>tennis courts</strong></li>
-                            <li>Outdoor, <strong>seasonal pool</strong> that's 25 meters in length</li>
+                            <li>Outdoor, <strong>seasonal swimming pool</strong> that's 25 meters in length</li>
                             <li>Outdoor <strong>basketball court</strong></li>
                             <li>A large <strong>play area/playground</strong> for children</li>
                             <li>Little League <strong>baseball field</strong> (by schedule only)</li>
