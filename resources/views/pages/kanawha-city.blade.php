@@ -14,11 +14,11 @@
     ?>
      <section class="pt-5 centerPages">
         <div class="container py-5">
-            <h1>North Charleston</h1>
+            <h1>Kanawha City</h1>
             <hr>
             <div class="row">
                 <div class="col-md-8">
-                   <p>While the NCCC has been a long standing center in the community, estimated back to the 1950s, North Charleston’s Community Center was re-established in 1988. Our largest center sitting at 24,000 square feet, “North” is an ample center for activities, events, and general recreation. While many of our outdoor fields require scheduling in advance, you may still enjoy our facility free of charge—on a first come, first served basis. If you have questions, please contact Center staff.</p>
+                   <p>Established in 1978, KCCC is the third community center brought in by Charleston Parks and Recreation (and at that time Public Grounds). This center is a multifaceted facility that is free to our community members. With 17,000 square feet, this center boasts plenty of activities, recreational space, and amenities available for public use. Majority of our amenities are on a first come, first served basis. If you have questions, please ask Center staff.</p>
                     <div class="diffText my-3">
                         <h3>Indoor Amenities</h3>
                         <ul>
