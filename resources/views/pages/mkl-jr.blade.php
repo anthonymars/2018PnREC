@@ -41,7 +41,7 @@
                             <li>2 Outdoor <strong>tennis courts</strong> and a tennis practice wall</li>
                             <li><strong> 2 Outdoor Basketball Courts  </strong></li>
                             <li><strong> 1 Outdoor Futsal Court  </strong></li>
-                            <li><strong> Outdoor Seasonal Swimming Pool   </strong></li>
+                           
                         </ul>
 
                     </div>
