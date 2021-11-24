@@ -33,9 +33,8 @@
                         <h3>Outdoor Amenities</h3>
                        <ul>
                            <ul>
-                            <li>8 outdoor <strong>tennis courts</strong></li>
+                            <li>8 outdoor <strong>tennis courts, basketball court</strong></li>
                             <li>Outdoor, <strong>seasonal swimming pool</strong> that's 25 meters in length</li>
-                            <li>Outdoor <strong>basketball court</strong></li>
                             <li>A large <strong>play area/playground</strong> for children</li>
                             <li>Little League <strong>baseball field</strong> (by schedule only)</li>
                           
