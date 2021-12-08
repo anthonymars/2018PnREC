@@ -26,6 +26,7 @@
                            <li><strong>Gymnasium</strong> with a regulation size, indoor basketball court (completely redone 2017)</li>
                             <li><strong>Game Room</strong> that includes table tennis, a pool table, corn hole boads, and a foosball table</li>
                             <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes.</li>
+                             <li><strong>Computer Lab / Homework Room </strong> </li>
                             </ul>
              <p> <small>While our amenities are free, KCCC does offer a 20x25 Meeting Room at an affordable rate that’s perfect for birthdays, parties, family gatherings and more.  </small></p>
                         </p>
