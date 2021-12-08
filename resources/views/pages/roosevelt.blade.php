@@ -25,10 +25,10 @@
                         <h3>Indoor Amenities</h3>
                         <ul>
                             <li><strong>Gymnasium</strong> with an indoor basketball court and kid-friendly rock wall</li>
-                            <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes
-                            </li>
+                            <li><strong>Cardio Room</strong> with treadmills, ellipticals, and exercise bikes</li>
                             <li><strong>Weight Room</strong> with free weights and cable machines</li>
                             <li><strong>Game Room</strong> with a pool table and table tennis</li>
+                             <li><strong>Computer Lab</strong> Homework Room</li>
                         </ul>
                         <p>Roosevelt also has an <strong>outdoor</strong> play area/playground for children to enjoy.
                         </p>
