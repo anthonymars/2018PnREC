@@ -87,22 +87,14 @@
                 <div class="col-md-8">
                     <h3>Martin Luther King Jr. Community Center:</h3>
                     <ul>
+                        <li> Monday, Wednesday & Friday 6pm-8pm – USA Boxing </li>
                         <li>Tuesdays & Thursdays  6pm - 8pm  Men’s Basketball Night </li>
                         <li>Third Monday of every month - Bingo @  1:00 pm - 3:30 pm</li>
                         <li>Tuesday @ 12pm-2pm - Men’s Fitness & Fellowship Basketball </li>
-                        <li>Senior Strength & Conditioning @ 12:30pm-2pm </li>
-                        <li>Spring Biddy Basketball League Practice @ 6pm-8pm </li>
                         <li>Thursday @ 12pm-2pm: Men’s Fitness & Fellowship Basketball  </li>
-                        <li>Spring Biddy Basketball League Practice @ 6pm-8pm </li>
                         <li>Friday @ 6:00pm – 9:00pm   - Futsal</li>
-                        <li> After School Program - Monday - Friday from  2 pm - 5:30 pm
-                        <li>Saturday @ 1pm-4pm</li>
-                        <li>Saturday  @ 10am-1pm  - Spring Biddy Basketball League Games /March 7 - April 4  </li>
-                        <li>Saturday  @ 11am-1pm  - Painting Party / First Saturday of every month</li>
                         <li>Saturday - Youth Basketball Practice -Coaches must call to reserve court time  </li>
                         <li>Sundays 9am-1pm – Flag Football League</li>
-                        <li> Monday, Wednesday & Friday 6pm-8pm – USA Boxing </li>
-                        <li> Tuesdays & Thursdays 12pm-2pm – Fellowship Basketball </li>
                         <li> Fridays 6pm-7pm – Co-Ed Volleyball </li>
                         <li> Fridays 5:30pm-7:30pm – Youth Art Classes </li>
                         <li> Saturdays 3pm-4:45pm – Girls’ Basketball </li>
