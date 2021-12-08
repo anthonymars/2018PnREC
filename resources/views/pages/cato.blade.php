@@ -33,7 +33,7 @@ if($photobook) {
                     <p><small>
                     Rashaun Sayles, Director
                     Jennifer Neal, Deputy Director
-                    Lee Ann Grogg, Administrative Assistant
+                    Lee Ann Grogg, Admin Assistant
                             <br />  200 Baker Lane
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
