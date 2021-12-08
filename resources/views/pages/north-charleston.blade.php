@@ -29,7 +29,7 @@
                             <li><strong>Cardio Room</strong> with treadmills, ellipticals and exercise bikes (the largest of our Center’s)</li>
                             <li><strong>Women's Fitness Room</strong> with weights, a cable-styled machine, and cardio equipment for the ladies who want to workout in a more controlled space (no men!)</li>
                             <li><strong>Game Room</strong> that includes a pool table and a ping pong table</li>
-                            <li><strong>Computer Lab/ GameRoom</strong></li>
+                            <li><strong>Computer Lab/ Homework Room</strong></li>
                         </ul>
                         <p><small>North also has one of the larger <strong>Meeting Rooms</strong> available to the public to rent at a reasonable rate.
                             </small>
