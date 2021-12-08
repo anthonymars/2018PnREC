@@ -31,6 +31,7 @@
                             <li><strong>Game Room</strong> with a pool table, air hockey table, and a foosball table</li>
                             <li><strong>Computer Lab/Homework Room </strong></li>
                              <li><strong>Women’s Fitness Lab  </strong></li>
+                               <li><strong>Meeting/ Community Room </strong></li>
                         </ul>
                         <h3>Outdoor Amenities</h3>
                         <ul>
