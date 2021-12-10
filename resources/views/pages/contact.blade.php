@@ -96,7 +96,7 @@
                          <br />Recreation Facilities Manager:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
                         <br />Neighborhood Center Manager: <a href="mailto:tonya.cummings@cityofcharleston.org">Tonya Cummings</a>
                         <br /><strong>Hours:</strong>
-                        <br />Monday - Friday 9am - 8pm
+                        <br />Monday - Friday 12pm - 8pm
                         <br />Children not allowed until 12pm
                         <br />Saturday and Sunday Closed
                         </small>
