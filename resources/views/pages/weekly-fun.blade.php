@@ -30,12 +30,12 @@
                     <ul>
                         <!-- <li>Monday – Thursday 9:30 am – 3 pm - AARP Tax Aid- AARP representatives offer FREE tax aid to the public. Program ends April 15th.  </li> -->
                         <li>Mondays, Wednesdays & Saturdays 9am-12pm (Mon. & Wed.); 9-11am (Sat.) - Pickleball </li>
-                        <li>Mondays and Thursdays 6pm – 9pm Church League Basketball </li> 
+                        <!--<li>Mondays and Thursdays 6pm – 9pm Church League Basketball </li> -->
                         <li> Tuesdays 6-9 pm  -  Men’s Night </li>
                         <li> Thursdays 6-9 pm  - Teen Night </li>
                         <li> Every 2nd Friday of the month 1-3 pm  - Senior Day </li>
                          <li> Every 3rd Friday of the month 6-8pm   - Painting Party / $5 per session </li>
-                         <li> Saturdays 11am-1pm  - Striders Running Club </li>
+                         <!-- <li> Saturdays 11am-1pm  - Striders Running Club </li> -->
                         
                         <!-- <li> Future Events/Activities ---  </li>
                           <li>  **** Rethink Your Drink - Days and Time TBD </li>
@@ -61,15 +61,16 @@
                         <li>	 3rd Tuesday of every month 6pm-8pm – Charleston Coin Club</li>
                         <li>	 Tuesday, Wednesday & Thursday 6pm-7pm – Women’s Fitness Hour</li>
                         <li>	 Wednesdays 7:30pm-8:30pm – Co-Ed Volleyball</li>
-                        <li>	 Thursdays 5:45pm-6:45pm – Youth Nature Hike</li>
+                      <!--   <li>	 Thursdays 5:45pm-6:45pm – Youth Nature Hike</li> -->
                         <li>	 Fridays 12pm-3pm – Card Sharks</li>
                        <li>	 Biddy Basketball Practices – Reservations available</li>
                        <li>	 Monday-Thursday – “Step by Step” Afterschool Program</li>
-
-
-
-
-                        
+                        <li> Tuesday & Thursday 5:30pm-6:30pm – Weightlifting</li>
+                        <li> Tuesday & Thursday 6pm-7pm – Yoga </li>
+                        <li> Tuesday & Thursday 3:30pm-4:30pm – Homework Help  </li>
+                        <li> Thursdays 5:30pm-6:30pm  – Kickboxing     </li>
+                         <li> Tuesdays 6pm-7pm  – Soul Linedancing     </li>
+  
                    </ul>
                     <p><small>3511 Venable Ave
                             <br />Charleston, WV 25301
