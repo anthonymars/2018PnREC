@@ -31,9 +31,9 @@ if($photobook) {
                     <h2>Get In Touch</h2>
                     
                     <p><small>
-                    Rashaun Poore, Director Parks and Recreation 
-                    Jennifer Neal, Deputy Director Parks and Recreation
-                    Lee Ann Grogg, Office Support Specialist
+                    Rashaun Poore, Director Parks and Recreation  <br />
+                    Jennifer Neal, Deputy Director Parks and Recreation <br />
+                    Lee Ann Grogg, Office Support Specialist <br />
                             <br />  200 Baker Lane
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
