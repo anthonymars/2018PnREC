@@ -32,8 +32,8 @@ if($photobook) {
                     
                     <p><small>
                    <B> Rashaun Poore </B>, Director Parks and Recreation  <br />
-                    Jennifer Neal, Deputy Director Parks and Recreation <br />
-                    Lee Ann Grogg, Office Support Specialist <br />
+                   <B> Jennifer Neal </B>, Deputy Director Parks and Recreation <br />
+                   <B> Lee Ann Grogg </B>, Office Support Specialist <br />
                             <br />  200 Baker Lane
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
