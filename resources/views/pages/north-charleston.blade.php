@@ -60,7 +60,7 @@
                               <br />Open Saturdays and Sundays until Labor Day 12:00pm – 6:00pm -->
 
                             <br /><strong>Program  Coordinator:</strong>
-                            <br /><a href="mailto:Corey.Lowery@cityofcharleston.org"><i class="fa fa-envelope"></i> Corey Lowery</a>
+                            <!--<br /><a href="mailto:Corey.Lowery@cityofcharleston.org"><i class="fa fa-envelope"></i> Corey Lowery</a> -->
                             <br /><a href="mailto:Alexandria.Gray@cityofcharleston.org"><i class="fa fa-envelope"></i> Alex Gray</a>
                             <br /><strong>Asst. Program  Coordinator:</strong>
                             <br /><a href="mailto:Tonya.Barnett@cityofcharleston.org"><i class="fa fa-envelope"></i> Tonya Barnett</a></small></p>
