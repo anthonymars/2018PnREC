@@ -31,7 +31,7 @@ if($photobook) {
                     <h2>Get In Touch</h2>
                     
                     <p><small>
-                    Rashaun Poore, Director Parks and Recreation  <br />
+                   <B> Rashaun Poore </B>, Director Parks and Recreation  <br />
                     Jennifer Neal, Deputy Director Parks and Recreation <br />
                     Lee Ann Grogg, Office Support Specialist <br />
                             <br />  200 Baker Lane
