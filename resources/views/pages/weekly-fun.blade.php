@@ -89,16 +89,14 @@
                     <h3>Martin Luther King Jr. Community Center:</h3>
                     <ul>
                         <li> Monday, Wednesday & Friday 6pm-8pm – USA Boxing </li>
-                        <li>Tuesdays & Thursdays  6pm - 8pm  Men’s Basketball Night </li>
                         <li>Third Monday of every month - Bingo @  1:00 pm - 3:30 pm</li>
+                        <li>Tuesdays & Thursdays  6pm - 8pm  Men’s Basketball Night </li>
                         <li>Tuesday @ 12pm-2pm - Men’s Fitness & Fellowship Basketball </li>
+                        <li> Wednesdays 6pm-8pm  - Pickleball </li>
                         <li>Thursday @ 12pm-2pm: Men’s Fitness & Fellowship Basketball  </li>
-                        <li>Friday @ 6:00pm – 9:00pm   - Futsal</li>
+                        <li> Thursdays 6:30pm – Teen Dream Night  </li>
                         <li>Saturday - Youth Basketball Practice -Coaches must call to reserve court time  </li>
                         <li>Sundays 9am-1pm – Flag Football League</li>
-                        <li> Fridays 6pm-7pm – Co-Ed Volleyball </li>
-                        <li> Fridays 5:30pm-7:30pm – Youth Art Classes </li>
-                        <li> Saturdays 3pm-4:45pm – Girls’ Basketball </li>
                         <li> Biddy Basketball Practices – Reservations available </li>
                         <li>Monday-Friday – “PAAC” (Partnership of African American Churches) Afterschool Program  </li>
 
@@ -121,9 +119,11 @@
                     <h3>Roosevelt Neighborhood Center:</h3>
                     <ul>
                         <li> Monday-Thursday 4pm-5pm – Men’s Fitness  </li>
-                       <li>	 Mondays 6pm-7pm – Roosevelt Dance Battle  </li>
+                       <li> Tuesdays 5pm / $5 per class / 55+ years Free - Pickleball  </li>
+                       <li> Wednesday & Thursday 12pm-2pm - Line Dance Class </li>
+                       <li> Thursdays 6pm / $5 per class / 55+ years Free - Gentle Movement Yoga  </li>
                        <li>	 Mondays & Tuesdays 6pm-8pm – Men’s Basketball  </li>
-                        <li> Wednesdays 6pm-7pm – Yoga  </li>
+                      
                        <li>	 Fridays 4pm-6pm – Youth Sports  </li>
                         <li> Fridays 6pm-7pm – Beginner Pickleball  </li>
                        <li>	 Monday-Thursday – “Step by Step” Afterschool Program  </li>
@@ -148,19 +148,21 @@
                     <h3>North Charleston Community Center:</h3>
                     <ul>
                       
-                        <li>Tuesdays -  Students / Simply Fun Tutoring - 5:30pm - 7:00pm</li>
-                        <li>Tuesdays - Adult Volleyball  - 6pm – 8:45pm</li>
-                        <li> Wednesdays 6pm-8:30pm – Teen Game Night</li>
-                        <li>Thursdays - Biddy Basketball  - 5:30pm - 8:45pm</li>
-                        <li>Wednesdays 10:30am-1pm – Socializing through Play</li>
-                        <li>Fridays - Special Olympics Basketball   - 6:00pm - 8:30pm</li>
-                        <li>Tuesdays, Thursdays and Fridays -  Pickle Ball    - 9:00am - 12noon</li>
-                        <li>Tuesdays and Thursdays  -  Zumba    - 5:30pm – 6:30pm</li>
+                       
+                       
+                      
+                        <li>Monday & Wednesday 5:30pm-6:30pm -  Kids In Motion Fitness Class  </li>
+                       <li>Tuesdays, Thursdays and Fridays -  Pickle Ball    - 9:00am - 12noon</li>
+                        <li>Tuesday & Thursday 5:30pm-6:30pm -  Soul Stepping Class  </li>
+                       <li>3rd Wednesday of every month 10:30am-1pm -  Socializing Through Play   </li>
+                        <li>Wednesdays 6pm-8:30pm  -  Special Olympics Volleyball    </li> 
+                         <li>3rd Thursdays of each Month: - Bingo   - 1pm – 3:30pm </li>
+                       <li> Monday-Thursday – “Bob Burdett” Afterschool Program </li>
+                        <li>4th Friday of every month 4:30pm-6:30pm -  Seniors Bingo  </li>
                         <li>Saturdays - Adult Volleyball   - 9am – noon</li>
-                        <li>3rd Thursdays of each Month: - Bingo   - 1pm – 3:30pm </li>
                         <li> Game Room Daily:- This room houses a variety of games for youth, such as pool, air hockey, foosball, basketball shoot and table tennis and board games. </li>
                         <li> Biddy Basketball Practices – Reservations available </li>
-                        <li> Monday-Thursday – “Bob Burdett” Afterschool Program </li>
+                      
                         
                    </ul>
                     <p><small>2009 7th Ave.
