@@ -42,8 +42,10 @@
                     <p><small>3511 Venable Ave
                         <br />Charleston, WV 25301
                         <br />(304)348-6484
-                        <br />Program Coordinator: <a href="mailto:erika.crump@cityofcharleston.org">Erika Crump</a>
                         <br />Program Coordinator: <a href="mailto:Kelly.Jones@cityofcharleston.org">Kelly Jones</a>
+                        <br />Program Coordinator: <a href="mailto:T'Andre.Boxley@cityofcharleston.org">T’Andre Boxley</a>
+                         <br />Assistant Program Coordinator: <a href="mailto:Brandon.Burt@cityofcharleston.org">Brandon Burt</a>
+                     
                        
                       <!--  <br />Custodial and Grounds Maintenance: Tyrone Scott -->
                         <br /><strong>Hours:</strong>
@@ -68,7 +70,7 @@
                         <br />Charleston, WV 25301
                         <br />(304)348-6404
                         <br />Program Coordinator:<a href="mailto:dax.miller@cityofcharleston.org">Cookie Miller </a>
-                        <br />Program Coordinator:<a href="mailto:T'Andre.Boxley@cityofcharleston.org">T’Andre Boxley</a>
+                        <br />Program Coordinator:<a href="mailto:Spencer.Dean@cityofcharleston.org">Spencer Dean</a>
                         <br />Ass.Program Coordinator:<a href="mailto:Benita.Calloway@cityofcharleston.org">Benita Calloway</a>
                       
                         <br /><strong>Hours:</strong>
@@ -93,8 +95,9 @@
                     <p><small>502 Ruffner Ave.
                         <br />Charleston, WV 25301
                         <br />(304)348-0529
-                         <br />Recreation Facilities Manager:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
-                        <br />Neighborhood Center Manager: <a href="mailto:tonya.cummings@cityofcharleston.org">Tonya Cummings</a>
+                         <br />Director of Parks and Recreation:<a href="mailto:Rashaun.poore@cityofcharleston.org">Rashaun Poore </a>
+                         <br />Deputy Director of Parks and Recreation:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
+                        <br />Office Support Specialist: <a href="mailto:leeann.grogg@cityofcharleston.org">Lee Ann Grogg</a>
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 12pm - 8pm
                         <br />Children not allowed until 12pm
