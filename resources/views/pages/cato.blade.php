@@ -31,9 +31,9 @@ if($photobook) {
                     <h2>Get In Touch</h2>
                     
                     <p><small>
-                    Rashaun Sayles, Director
-                    Jennifer Neal, Deputy Director
-                    Lee Ann Grogg, Admin Assistant
+                    Rashaun Poore, Director Parks and Recreation 
+                    Jennifer Neal, Deputy Director Parks and Recreation
+                    Lee Ann Grogg, Office Support Specialist
                             <br />  200 Baker Lane
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
@@ -43,7 +43,7 @@ if($photobook) {
                            <!-- <br /><strong>Pool Hours:</strong>
                             <br />Tuesday - Sunday 12pm - 6pm -->
                             <br /><strong>Director of Parks and Recreation:</strong>
-                            <br /><a href="mailto:parksandrecreation@cityofcharleston.org"><i class="fa fa-envelope"></i> Rashaun Sayles</a></p>
+                            <br /><a href="mailto:parksandrecreation@cityofcharleston.org"><i class="fa fa-envelope"></i> Rashaun Poore</a></p>
                 </div>
             </div>
             <hr>
