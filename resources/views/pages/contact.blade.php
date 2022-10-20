@@ -95,9 +95,9 @@
                     <p><small>502 Ruffner Ave.
                         <br />Charleston, WV 25301
                         <br />(304)348-0529
-                         <br />Director of Parks and Recreation:<a href="mailto:Rashaun.poore@cityofcharleston.org">Rashaun Poore </a>
-                         <br />Deputy Director of Parks and Recreation:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
-                        <br />Office Support Specialist: <a href="mailto:leeann.grogg@cityofcharleston.org">Lee Ann Grogg</a>
+                       <br />Parks and Recreation Facilities Manager:<a href="mailto:Corey.Lowery@cityofcharleston.org">Corey Lowery </a>
+                         <br />Roosevelt Neighborhood Center Manager:<a href="mailto:Tonya.Cummings@cityofcharleston.org">Tonya Cummings </a>
+                     
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 12pm - 8pm
                         <br />Children not allowed until 12pm
