@@ -117,9 +117,9 @@
                     <p><small>200 Baker Lane
                         <br />Charleston, WV 25301
                         <br />(304)348-6860
-                        <br />Director of Parks and Recreation: <a href="mailto:parksandrecreation@cityofcharleston.org" target="_blank">Rashaun Sayles</a>
-                        <br />Deputy Director of Parks and Recreation: <a href="mailto:parksandrecreation@cityofcharleston.org" target="_blank">Jennifer Neal</a>
-                        <br />Office Support Specialist : <a href="mailto:leeann.grogg@cityofcharleston.org" target="_blank">LeeAnn Grogg</a>
+                          <br />Director of Parks and Recreation:<a href="mailto:Rashaun.poore@cityofcharleston.org">Rashaun Poore </a>
+                         <br />Deputy Director of Parks and Recreation:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
+                        <br />Office Support Specialist: <a href="mailto:leeann.grogg@cityofcharleston.org">Lee Ann Grogg</a>
                     
                         <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a>
                         <br /><strong>Hours:</strong>
