@@ -128,12 +128,12 @@
     <section id="partOf">
         <div class="container py-5">
             <p class="text-center infoText">
-                Follow Us Today
+              <!--  Follow Us Today -->
             </p>
             <h2 class="text-center">
-                Share Your Experience
+                 Share Your Experience
             </h2>
-            <p class="text-center"><span class="thick500">Follow us</span> on Facebook, Instagram, Pinterest and Twitter! Use the hashtag <strong>#getactivecwv</strong> to share your experiences.</p>
+            <p class="text-center"><span class="thick500"></span>  Use the hashtag <strong>#getactivecwv</strong> to share your experiences.</p>
            <!-- <p class="text-center"><a href="https://www.facebook.com/cwvparksandrecreation"><i class="fa fa-facebook-square fa-2x"></i></a> <a href="https://www.instagram.com/cwvparksandrecreation/"><i class="fa fa-instagram fa-2x"></i></a> <a href="https://www.pinterest.com/cwvparks/"><i class="fa fa-pinterest fa-2x"></i></a> <a href="https://twitter.com/cwvparks"><i class="fa fa-twitter fa-2x"></i></a></p> -->
         </div>
 
