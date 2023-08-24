@@ -59,7 +59,7 @@
                            <!-- <br /><strong>Recreation  Manager: </strong> -->
                            
                             <br /><strong>Program Coordinator: </strong>
-                             <br /><a href="mailto:erika.crump@cityofcharleston.org"><i class="fa fa-envelope"></i> Erika Crump</a>
+                             <br /><a href="mailto:T'Andre.Boxley@cityofcharleston.org"><i class="fa fa-envelope"></i>  T’Andre Boxley</a>
                              <br /><a href="mailto:Kelly.Jones@cityofcharleston.org"><i class="fa fa-envelope"></i> Kelly Jones</a>
              </small></p>
 
