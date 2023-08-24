@@ -52,7 +52,11 @@
     <section id="info" class="pt-5">
         <div class="container">
             <p class="text-center infoText">
-                Get to Know
+                Get to Know. 
+            </p>
+
+            <p class="text-center infoText">
+                To get latest updates, Visit us in our Facebook page 
             </p>
             <h2 class="text-center">
                 Charleston Parks and Recreation
