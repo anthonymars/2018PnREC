@@ -56,7 +56,9 @@
             </p>
 
             <p class="text-center infoText">
-                To get latest updates, Visit us in our Facebook page 
+                
+                <p><a href="https://www.facebook.com/cwvparksandrecreation/">To get latest updates, Visit us in our Facebook page !</a></p>
+
             </p>
             <h2 class="text-center">
                 Charleston Parks and Recreation
