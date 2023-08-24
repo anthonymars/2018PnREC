@@ -61,9 +61,10 @@
 
                             <br /><strong>Program  Coordinator:</strong>
                             <!--<br /><a href="mailto:Corey.Lowery@cityofcharleston.org"><i class="fa fa-envelope"></i> Corey Lowery</a> -->
-                            <br /><a href="mailto:Alexandria.Gray@cityofcharleston.org"><i class="fa fa-envelope"></i> Alex Gray</a>
+                            <br /><a href="mailto:Kavon.Cutler@cityofcharleston.org"><i class="fa fa-envelope"></i> Kavon Cutler</a>
+                           <br /><a href="mailto:Julia.Kinney@cityofcharleston.org"><i class="fa fa-envelope"></i> Julia Kinney</a
                             <br /><strong>Asst. Program  Coordinator:</strong>
-                            <br /><a href="mailto:Tonya.Barnett@cityofcharleston.org"><i class="fa fa-envelope"></i> Tonya Barnett</a></small></p>
+                            <br /><a href="mailto:pamela.whitestone@cityofcharleston.org"><i class="fa fa-envelope"></i> Pamela Whitestone</a></small></p>
 
                     <hr>
                     <h2>Photos</h2>
