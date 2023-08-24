@@ -59,7 +59,7 @@
                 
                 <p><a href="https://www.facebook.com/cwvparksandrecreation/"> Visit us in our Facebook page !</a></p>
 
-            <center><a href="contact.html" class="button large hpbottom">Get Started</a></center>
+            <center><a href="https://www.facebook.com/cwvparksandrecreation/"> Visit us in our Facebook page !</a></center>
 
             </p>
             <h2 class="text-center">
