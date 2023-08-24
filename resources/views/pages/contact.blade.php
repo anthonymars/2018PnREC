@@ -24,7 +24,8 @@
                      
                     <br />Program Coordinator: <a href="mailto:Kavon.Cutler@cityofcharleston.org"> Kavon Cutler</a>
                            <br />Program Coordinator: <a href="mailto:Julia.Kinney@cityofcharleston.org"> Julia Kinney</a>
-                     <br />Assistant Program Coordinator: <a href="mailto:Tonya.Barnett@cityofcharleston.org">Tonya Barnett</a>
+                      
+                     <br />Assistant Program Coordinator: <a href="mailto:pamela.whitestone@cityofcharleston.org">Pamela Whitestone</a>
                     <br /><strong>Hours:</strong>
                     <br />Monday - Friday 9am - 9pm
                     <br />Saturday 9am - 5pm
