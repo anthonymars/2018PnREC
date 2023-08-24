@@ -48,7 +48,7 @@
                         <br />(304)348-6484
                         <br />Program Coordinator: <a href="mailto:Kelly.Jones@cityofcharleston.org">Kelly Jones</a>
                         <br />Program Coordinator: <a href="mailto:T'Andre.Boxley@cityofcharleston.org">T’Andre Boxley</a>
-                         <br />Assistant Program Coordinator: <a href="mailto:Brandon.Burt@cityofcharleston.org">Brandon Burt</a>
+                      <!--   <br />Assistant Program Coordinator: <a href="mailto:Brandon.Burt@cityofcharleston.org">Brandon Burt</a> -->
                      
                        
                       <!--  <br />Custodial and Grounds Maintenance: Tyrone Scott -->
@@ -99,7 +99,7 @@
                     <p><small>502 Ruffner Ave.
                         <br />Charleston, WV 25301
                         <br />(304)348-0529
-                       <br />Parks and Recreation Facilities Manager:<a href="mailto:Corey.Lowery@cityofcharleston.org">Corey Lowery </a>
+                       <!-- <br />Parks and Recreation Facilities Manager:<a href="mailto:Corey.Lowery@cityofcharleston.org">Corey Lowery </a> -->
                          <br />Roosevelt Neighborhood Center Manager:<a href="mailto:Tonya.Cummings@cityofcharleston.org">Tonya Cummings </a>
                      
                         <br /><strong>Hours:</strong>
@@ -122,13 +122,14 @@
                         <br />Charleston, WV 25301
                         <br />(304)348-6860
                           <br />Director of Parks and Recreation:<a href="mailto:Rashaun.poore@cityofcharleston.org">Rashaun Poore </a>
-                         <br />Deputy Director of Parks and Recreation:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
-                        <br />Office Support Specialist: <a href="mailto:leeann.grogg@cityofcharleston.org">Lee Ann Grogg</a>
+                         <br />Manager Leisure Services:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
+                       <!-- <br />Office Support Specialist: <a href="mailto:leeann.grogg@cityofcharleston.org">Lee Ann Grogg</a> -->
                     
                         <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a>
                         <br /><strong>Hours:</strong>
-                        <br />Monday - Friday 8am - 4pm
+                        <br />Monday - Friday 8:30 am - 4:30 pm
                         <br />Saturday and Sunday Closed
+                         <br />Pools close the day after Labor Day
                         <br /><strong>Pool Hours:</strong>
                            <br />Tuesday - Sunday 12pm - 6pm 
                         </small>
