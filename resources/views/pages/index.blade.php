@@ -55,9 +55,9 @@
                 Get to Know. 
             </p>
 
-            <p class="text-center infoText">
+             <p class="text-center infoText">
                 
-                <p><a href="https://www.facebook.com/cwvparksandrecreation/">To get latest updates, Visit us in our Facebook page !</a></p>
+                <p><a href="https://www.facebook.com/cwvparksandrecreation/"> Visit us in our Facebook page !</a></p>
 
             </p>
             <h2 class="text-center">
