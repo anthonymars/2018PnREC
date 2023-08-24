@@ -56,12 +56,8 @@
             </p>
 
              <p class="text-center infoText">
-                
-                <p><a href="https://www.facebook.com/cwvparksandrecreation/"> Visit us in our Facebook page !</a></p>
-
-            <center><a href="https://www.facebook.com/cwvparksandrecreation/"> Visit us in our Facebook page !</a></center>
-
-            </p>
+           <center><a href="https://www.facebook.com/cwvparksandrecreation/"> Visit us in our Facebook page to get latest updates !</a></center>
+           </p>
             <h2 class="text-center">
                 Charleston Parks and Recreation
             </h2>
