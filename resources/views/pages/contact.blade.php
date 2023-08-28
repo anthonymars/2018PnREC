@@ -57,7 +57,7 @@
                         <br />Saturday 9am - 5pm
                         <br />Sunday Closed
                      <br /><strong>Pool Hours:</strong>
-                            <br />Tuesday - Sunday 12pm - 6pm
+                            <br />Pool is closed for the season
                            
                         </small></p>
                 </div>
