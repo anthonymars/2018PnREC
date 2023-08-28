@@ -31,7 +31,9 @@
                     <br />Saturday 9am - 5pm
                     <br />Sunday Closed
                     <br /><strong>Pool Hours:</strong>
-                    <br />Tuesday-Sunday 12pm-6pm
+                    <br />Closed Monday – Friday
+                    <br /> Open Saturdays 12pm – 6pm and Sundays 12pm – 5pm
+                    <br />Last day of pool season is September 4th.
                     </small></p>
                 </div>
             </div>
@@ -82,7 +84,9 @@
                         <br />Saturday 9am - 5pm
                         <br />Sunday Closed
                         <br /><strong>Pool Hours:</strong>
-                            <br />Tuesday - Sunday 12pm - 6pm
+                        <br />Closed Monday – Friday
+                        <br /> Open Saturdays 12pm – 6pm and Sundays 12pm – 5pm
+                        <br />Last day of pool season is September 4th.
                         </small>
                     </p>
                 </div>
@@ -129,9 +133,9 @@
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 8:30 am - 4:30 pm
                         <br />Saturday and Sunday Closed
-                         <br />Pools close the day after Labor Day
+                       <!--  <br />Pools close the day after Labor Day -->
                         <br /><strong>Pool Hours:</strong>
-                           <br />Tuesday - Sunday 12pm - 6pm 
+                           <br />Pool is closed for the season
                         </small>
                     </p>
                 </div>
