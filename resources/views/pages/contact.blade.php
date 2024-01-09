@@ -72,7 +72,7 @@
                     <p><small>314 Donnally St.
                         <br />Charleston, WV 25301
                         <br />(304)348-6404
-                        <br />Program Coordinator:<a href="mailto:dax.miller@cityofcharleston.org">Cookie Miller </a>
+                        <br />Program Coordinator:<a href="mailto:Donnelle.badger@cityofcharleston.org">Donnelle Badger </a>
                         <br />Program Coordinator:<a href="mailto:Spencer.Dean@cityofcharleston.org">Spencer Dean</a>
                         <br />Ass.Program Coordinator:<a href="mailto:Benita.Calloway@cityofcharleston.org">Benita Calloway</a>
                       
@@ -100,9 +100,8 @@
                     <p><small>502 Ruffner Ave.
                         <br />Charleston, WV 25301
                         <br />(304)348-0529
-                       <!-- <br />Parks and Recreation Facilities Manager:<a href="mailto:Corey.Lowery@cityofcharleston.org">Corey Lowery </a> -->
-                         <br />Roosevelt Neighborhood Center Manager:<a href="mailto:Tonya.Cummings@cityofcharleston.org">Tonya Cummings </a>
-                     
+                       <br />Parks and Recreation Facilities Manager:<a href="mailto:Trenten.samuel@cityofcharleston.org">Trenten Samuel </a> 
+                        <br />Roosevelt Neighborhood Center Manager:<a href="mailto:Tonya.Cummings@cityofcharleston.org">Tonya Cummings </a>
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 12pm - 8pm
                         <br />Children not allowed until 12pm
