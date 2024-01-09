@@ -20,12 +20,9 @@
                     <br />Charleston, WV 25387
                     <br />(304)348-6884
                     <!--<br />Program Coordinator: <a href="mailto:Corey.Lowery@cityofcharleston.org">Corey Lowery</a>-->
-                   
-                     
-                    <br />Program Coordinator: <a href="mailto:Kavon.Cutler@cityofcharleston.org"> Kavon Cutler</a>
-                           <br />Program Coordinator: <a href="mailto:Julia.Kinney@cityofcharleston.org"> Julia Kinney</a>
-                      
-                     <br />Assistant Program Coordinator: <a href="mailto:pamela.whitestone@cityofcharleston.org">Pamela Whitestone</a>
+                    <br />Program Coordinator: <a href="mailto:Keenan.farmer@cityofcharleston.org"> Keenan Farmer</a>
+                    <br />Program Coordinator: <a href="mailto:Julia.Kinney@cityofcharleston.org"> Julia Kinney</a>
+                    <br />Assistant Program Coordinator: <a href="mailto:pamela.whitestone@cityofcharleston.org">Pamela Whitestone</a>
                     <br /><strong>Hours:</strong>
                     <br />Monday - Friday 9am - 9pm
                     <br />Saturday 9am - 5pm
@@ -50,7 +47,7 @@
                         <br />(304)348-6484
                         <br />Program Coordinator: <a href="mailto:Kelly.Jones@cityofcharleston.org">Kelly Jones</a>
                         <br />Program Coordinator: <a href="mailto:T'Andre.Boxley@cityofcharleston.org">T’Andre Boxley</a>
-                      <!--   <br />Assistant Program Coordinator: <a href="mailto:Brandon.Burt@cityofcharleston.org">Brandon Burt</a> -->
+                       <br />Assistant Program Coordinator: <a href="mailto:Benjamin.grady@cityofcharleston.org">Ben Grady</a>
                      
                        
                       <!--  <br />Custodial and Grounds Maintenance: Tyrone Scott -->
@@ -127,7 +124,7 @@
                         <br />(304)348-6860
                           <br />Director of Parks and Recreation:<a href="mailto:Rashaun.poore@cityofcharleston.org">Rashaun Poore </a>
                          <br />Manager Leisure Services:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
-                       <!-- <br />Office Support Specialist: <a href="mailto:leeann.grogg@cityofcharleston.org">Lee Ann Grogg</a> -->
+                        <br />Office Support Specialist: <a href="mailto:anita.miller@cityofcharleston.org">Anita Miller</a>
                     
                         <br />General Info: <a href="mailto:parksandrecreation@cityofcharleston.org">Parks and Recreation</a>
                         <br /><strong>Hours:</strong>
