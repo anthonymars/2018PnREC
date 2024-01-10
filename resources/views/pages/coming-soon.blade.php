@@ -16,11 +16,16 @@
                     <ul>
                          <li> 	<u>Martin Luther King, Jr. Celebration </li></u>
                        <li>   Martin Luther King, Jr. Community Center 1/15/2024 </li> 
-                         <li> 	Winter Series Races 12/17/2023, 1/14/2024 & 2/11/2024
-                    5K Run	3K Walk
-                    8K Run	4K Walk
-                    10K Run	5K Walk </li>
-                    <li>  	Urban Fishing Cato Park Swimming Pool 2/10/2023 & 2/11/2024 </li> 
+                         <li> 	Winter Series Races 12/17/2023, 1/14/2024 & 2/11/2024 </li> 
+                    <li> 5K Run	3K Walk</li> 
+                    <li> 8K Run	4K Walk</li> 
+                    <li> 10K Run	5K Walk </li>
+                    <li> Urban Fishing  - Cato Park Swimming Pool 2/10/2023 & 2/11/2024 </li> 
+                    <li> Magic Island Easter Egg Hunt  - Magic Island 3/30/2024 </li> 
+                    <li>  Senior Bingo - Martin Luther King, Jr. Community Center // 2nd Tuesday of every month @ 1:30pm  </li> 
+                    <li>  Senior Bingo - North Charleston Community Center //4th Monday of every month @ 4pm   </li> 
+                        
+
                       
       
              </h3>
