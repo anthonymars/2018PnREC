@@ -56,12 +56,12 @@
                                                      document.getElementById('logout-form').submit();">
                                 {{ __('Logout') }}
                             </a>
-                            @if(Auth::user()->hasRole('SuperFly'))
+                           <!-- @if(Auth::user()->hasRole('SuperFly')) -->
                                 <a href="/admin/users" class="dropdown-item">All Users</a>
                                 <a href="/admin/roles" class="dropdown-item">All Roles</a>
                                 <a class="dropdown-item" href="/admin/roles/create">Create A New Role</a>
                                 <div class="dropdown-divider"></div>
-                            @endif
+                         <!--   @endif -->
                             @if(Auth::user()->hasRole('YoungFly'))
                                 <a class="dropdown-item" href="/blogs/create">Add A New Blog</a>
                                 <a class="dropdown-item" href="/events/create">Add A New Event</a>
