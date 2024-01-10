@@ -12,7 +12,7 @@
               <h2 class="text-center">
 
             <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">
-                   <h3 class="text-center">
+                   <h4 class="text-center">
                     <ul>
                          <li> 	<u>Martin Luther King, Jr. Celebration </li></u>
                        <li>   Martin Luther King, Jr. Community Center 1/15/2024 </li> 
@@ -28,7 +28,7 @@
 
                       
       
-             </h3>
+             </h4>
           
         </div>
     </section>
