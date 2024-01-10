@@ -29,7 +29,8 @@
                             <div class="carousel-caption text-center mb-2">
                                 <!--<h1 class="">Hikes, Camps, Fun!</h1>
                                 <h2 style="color:white;" >NOTE:Due to COVID-19, all Community Centers are closed indefinitely!</h2>-->
-                                <a href="/events" class="btn btn-main btn-lg">Find an Event</a>
+                              <!--  <a href="/events" class="btn btn-main btn-lg">Find an Event</a> --> 
+                                  <a href="/coming-soon" class="btn btn-main btn-lg">Find an Event</a>
                             </div>
                         </div>
                     </div>
