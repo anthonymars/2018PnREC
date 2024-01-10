@@ -8,8 +8,10 @@
 @section('content')
     <section id="info" class="py-5">
         <div class="container py-5">
+            Charleston Parks and Recreation
+            </h2>
 
-              <h3 class="text-center">
+             <h3 class="text-center">
                     <ul>
                          <li> 	Martin Luther King, Jr. Celebration Martin Luther King, Jr. Community Center 1/15/2024 </li> 
                          <li> 	Winter Series Races 12/17/2023, 1/14/2024 & 2/11/2024
@@ -21,9 +23,6 @@
       
              </h3>
             <h2 class="text-center">
-                Charleston Parks and Recreation
-            </h2>
-
 
             <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">
         </div>
