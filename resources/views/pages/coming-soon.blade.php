@@ -8,8 +8,23 @@
 @section('content')
     <section id="info" class="py-5">
         <div class="container py-5">
+
+              <h2 class="text-center">
+               •	Martin Luther King, Jr. Celebration Martin Luther King, Jr. Community Center 1/15/2024
+            </h2>
             <h1 class="text-center">
-                Coming Soon!
+                
+
+•	Winter Series Races 12/17/2023, 1/14/2024 & 2/11/2024
+5K Run	3K Walk
+8K Run	4K Walk
+10K Run	5K Walk
+
+•	Urban Fishing
+Cato Park Swimming Pool 2/10/2023 & 2/11/2024
+
+•	Magic Island Easter Egg Hunt
+
             </h1>
             <h2 class="text-center">
                 Charleston Parks and Recreation
