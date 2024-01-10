@@ -11,24 +11,14 @@
 
               <h3 class="text-center">
                     <ul>
-                         <li> •	Martin Luther King, Jr. Celebration Martin Luther King, Jr. Community Center 1/15/2024 </li> -->
-                        <li> •	Winter Series Races 12/17/2023, 1/14/2024 & 2/11/2024
+                         <li> 	Martin Luther King, Jr. Celebration Martin Luther King, Jr. Community Center 1/15/2024 </li> 
+                         <li> 	Winter Series Races 12/17/2023, 1/14/2024 & 2/11/2024
                     5K Run	3K Walk
                     8K Run	4K Walk
                     10K Run	5K Walk </li>
-                    <li>      •	Urban Fishing Cato Park Swimming Pool 2/10/2023 & 2/11/2024 </li> 
-                        <li> •	Magic Island Easter Egg Hunt </li>
-                        <li> Thursdays 6-9 pm  - Teen Night </li>
-                        <li> Every 2nd Friday of the month 1-3 pm  - Senior Day </li>
-                         <li> Every 3rd Friday of the month 6-8pm   - Painting Party / $5 per session </li>
-                         <!-- <li> Saturdays 11am-1pm  - Striders Running Club </li> -->
-              
-              
-
-              
-
-
-
+                    <li>  	Urban Fishing Cato Park Swimming Pool 2/10/2023 & 2/11/2024 </li> 
+                      
+      
              </h3>
             <h2 class="text-center">
                 Charleston Parks and Recreation
