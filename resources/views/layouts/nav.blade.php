@@ -61,13 +61,13 @@
                                 <a href="/admin/roles" class="dropdown-item">All Roles</a>
                                 <a class="dropdown-item" href="/admin/roles/create">Create A New Role</a>
                                 <div class="dropdown-divider"></div>
-                         <!--   @endif -->
-                            @if(Auth::user()->hasRole('YoungFly'))
+                         <!--   @endif 
+                            @if(Auth::user()->hasRole('YoungFly')) -->
                                 <a class="dropdown-item" href="/blogs/create">Add A New Blog</a>
                                 <a class="dropdown-item" href="/events/create">Add A New Event</a>
                                 <a class="dropdown-item" href="/gallery/create">Add A New Gallery</a>
 
-                            @endif
+                          <!--   @endif -->
 
                             <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                 @csrf
