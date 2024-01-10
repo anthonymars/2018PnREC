@@ -8,7 +8,7 @@
 @section('content')
     <section id="info" class="py-5">
         <div class="container py-5">
-          <h2>Charleston Parks and Recreation</h2>  
+           <h2 class="text-center">Charleston Parks and Recreation</h2>  
               <h2 class="text-center">
 
             <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">
