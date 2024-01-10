@@ -35,7 +35,7 @@
                         <a class="dropdown-item" href="/weekly-fun"><strong>Weekly Activities</strong></a>
                     </div>
                 </li>
-                <a id="nav-link" class="nav-item nav-link" href="/blogs"><strong>Our Stories</strong></a>
+                <!--  <a id="nav-link" class="nav-item nav-link" href="/blogs"><strong>Our Stories</strong></a> -->
                 <a id="nav-link" class="nav-item nav-link" href="/get-in-touch"><strong>Get In Touch</strong></a>
                 <!-- Authentication Links -->
             @guest
