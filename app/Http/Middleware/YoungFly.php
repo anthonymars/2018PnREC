@@ -23,7 +23,7 @@ class YoungFly
             if ($user->hasRole('YoungFly')) {
                 return $next($request);
             } else {
-                return redirect('/not-authorized');
+              <!--  return redirect('/not-authorized'); -->
             }
         }
     }
