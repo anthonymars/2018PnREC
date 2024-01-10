@@ -23,7 +23,7 @@ class SuperFly
             if ($user->hasRole('SuperFly')) {
                 return $next($request);
             } else {
-                return redirect('/not-authorized');
+               <!-- return redirect('/not-authorized'); -->
             }
         }
     }
