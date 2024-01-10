@@ -85,7 +85,7 @@ if($photobook) {
                     @if($countStuff === 0)
                         <div class="row">
                     @endif
-                            <div class="col-md-5 py-3">
+                            <div class="col-md-4 py-3">
                                 <a href="#" data-toggle="modal" data-target="#cato2Modal{{ $p->id }}">
                                     <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
                                 </a>
