@@ -14,7 +14,7 @@
             <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">
                    <h4 class="text-center">
                     <ul>
-                         <li> 	<u>Martin Luther King, Jr. Celebration - Martin Luther King, Jr. Community Center 1/15/2024 </li> 
+                         <li> 	Martin Luther King, Jr. Celebration - Martin Luther King, Jr. Community Center 1/15/2024 </li> 
                          <li> 	Winter Series Races 12/17/2023, 1/14/2024 & 2/11/2024 </li> 
                     <li> 5K Run	3K Walk</li> 
                     <li> 8K Run	4K Walk</li> 
