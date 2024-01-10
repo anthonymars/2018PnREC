@@ -44,8 +44,8 @@
 
             @endif
             <hr>
-         <!--   <a href="/events" class="btn btn-main">Back</a>
-                @if(Auth::check() and Auth::user()->hasRole('YoungFly')) -->
+        <a href="/events" class="btn btn-main">Back</a>
+                 <!--   @if(Auth::check() and Auth::user()->hasRole('YoungFly')) -->
                     <a href="/events/{{$e->slug}}/edit" class="btn btn-main"><i class="fa fa-pencil"></i> Edit</a>
                     <a href="/events/{{$e->slug}}/delete" class="btn btn-danger"><i class="fa fa-trash"></i> Delete</a>
                <!--  @endif -->
