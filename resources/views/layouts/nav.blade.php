@@ -31,7 +31,8 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><strong>Things To Do</strong></a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="/events"><strong>Our Events</strong></a>
+                      <!--  <a class="dropdown-item" href="/events"><strong>Our Events</strong></a> -->
+                         <a class="dropdown-item" href="/coming-soon"><strong>Our Events</strong></a>
                         <a class="dropdown-item" href="/weekly-fun"><strong>Weekly Activities</strong></a>
                     </div>
                 </li>
