@@ -23,6 +23,14 @@
                     <li> Magic Island Easter Egg Hunt  - Magic Island 3/30/2024 </li> 
                     <li>  Senior Bingo - Martin Luther King, Jr. Community Center // 2nd Tuesday of every month @ 1:30pm  </li> 
                     <li>  Senior Bingo - North Charleston Community Center //4th Monday of every month @ 4pm   </li> 
+                          <li>  Senior Program - Roosevelt Neighborhood Center -  Wednesdays & Thursdays 10am-2pm  </li> 
+                          <li>  Senior SocialKanawha City Community Center - 2nd Friday of every month @ 1pm    </li> 
+                          <li>  Socializing Through Play North Charleston Community Center - 3rd Wednesday of every month @ 11am   </li> 
+                          <li>  Kids In Motion Fitness Class North Charleston Community Center - Mondays & Wednesdays @ 5:30pm    </li> 
+                          <li>  Charleston Table Tennis League North Charleston Community Center - Every Monday @ 5:30pm    </li> 
+                          <li>  Charleston Coin Club Kanawha City Community Center - 3rd Tuesday of every month @ 6pm    </li> 
+                         <li>   Soul/Line Dance Class Kanawha City Community Center - Tuesdays @ 6pm   </li> 
+                         <li>   Yoga Kanawha City Community Center - Every other Wednesday @ 6pm     </li> 
                         
 
                       
