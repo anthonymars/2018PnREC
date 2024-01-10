@@ -109,7 +109,7 @@
                             <h2 class="card-text text-center">
                                 About Us
                             </h2>
-                            <a href="/blogs"><p class="card-text text-center">Our Stories</p></a>
+                           <!-- <a href="/blogs"><p class="card-text text-center">Our Stories</p></a> -->
                             <a href="/cato"><p class="card-text text-center">Our History</p></a>
                             <p class="text-center"><a href="/blogs"><i class="fa fa-leaf fa-2x"></i></a></p>
                         </div>
