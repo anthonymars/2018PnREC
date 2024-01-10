@@ -12,7 +12,7 @@
               <h2 class="text-center">
 
             <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">
-                   <h4 class="text-center">
+                   <h4 class="text-left">
                     <ul>
                          <li> 	Martin Luther King, Jr. Celebration - Martin Luther King, Jr. Community Center 1/15/2024 </li> 
                          <li> 	Winter Series Races 12/17/2023, 1/14/2024 & 2/11/2024 </li> 
