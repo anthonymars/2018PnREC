@@ -20,7 +20,7 @@
                             @endif
                         </div>
                         <div class="col-md-9">
-                            <h2><a href="/gallery/{{ $p->slug }}">{{$p->title}}</a></h2>
+                         <!--   <h2><a href="/gallery/{{ $p->slug }}">{{$p->title}}</a></h2> -->
                             <p>{{ $p->description }}</p>
                         </div>
                     </div>
