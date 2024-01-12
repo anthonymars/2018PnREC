@@ -16,7 +16,7 @@ class PhotobooksController extends Controller
      */
     public function index()
     {
-        $photobooks = Photobook::orderBy('title', 'desc')->get();
+        $photobooks = Photobook::orderBy('title', 'asc')->get();
         return view('galleries.index', compact('photobooks'));
     }
 
