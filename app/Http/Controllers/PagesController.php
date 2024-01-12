@@ -35,7 +35,7 @@ class PagesController extends Controller
 
     public function northCharleston() {
         $photobook = Photobook::whereTitle('North Charleston')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'desc')->get();
+        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'asc')->get();
         return view('pages.north-charleston', compact('photobook', 'pics'));
     }
 
