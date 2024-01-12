@@ -92,7 +92,7 @@
                     </div>
                 </div>
             @endif
-            <a href="/galleries"><h3>All Galleries</h3></a>
+           <!-- <a href="/galleries"><h3>All Galleries</h3></a>  -->
         </div>
     </section>
 @stop
