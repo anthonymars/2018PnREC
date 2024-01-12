@@ -123,7 +123,7 @@
                             <h2 class="card-text text-center">
                                 Pics Of Us
                             </h2>
-                            <a href="/galleries"><p class="card-text text-center">All Galleries</p></a>
+                        <!--    <a href="/galleries"><p class="card-text text-center">All Galleries</p></a> -->
                             <a href="/gallery/cato"><p class="card-text text-center">Cato Pics</p></a>
                             <p class="text-center roundButton"><a href="/galleries"><i class="fa fa-camera-retro fa-2x"></i></a></p>
                         </div>
