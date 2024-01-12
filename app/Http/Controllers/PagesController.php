@@ -29,7 +29,7 @@ class PagesController extends Controller
 
     public function mlk() {
         $photobook = Photobook::whereTitle('Martin Luther King Jr.')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'desc')->get();
+        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'asc')->get();
         return view('pages.mkl-jr', compact('photobook', 'pics'));
     }
 
