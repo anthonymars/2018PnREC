@@ -16,13 +16,13 @@ class PagesController extends Controller
 
     public function cato() {
         $photobook = Photobook::whereTitle('Cato')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'desc')->get();
+        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'asc')->get();
         return view('pages.cato', compact('photobook', 'pics'));
     }
 
     public function kanawha() {
         $photobook = Photobook::whereTitle('Kanawha City')->first();
-        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'desc')->get();
+        $pics = Pic::wherePhotobookId($photobook->id)->limit(4)->orderBy('created_at', 'asc')->get();
         //$pics = DB::table('pics')->where('photobook_id', '=', $photobook->id)->take(4)->latest();
         return view('pages.kanawha-city', compact('photobook', 'pics'));
     }
