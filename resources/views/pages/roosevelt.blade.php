@@ -51,6 +51,7 @@
                            
                             <br /><strong>Neighborhood Center Manager:</strong>
                             <br /><a href="mailto:tonay.cummings@cityofcharleston.org"><i class="fa fa-envelope"></i> Tonya Cummings</a></small>
+                           <br />Parks and Recreation Facilities Manager:<a href="mailto:Trenten.samuel@cityofcharleston.org"> <i class="fa fa-envelope"></i>Trenten Samuel </a> 
                     </p>
                     <hr>
                     <h2>Photos</h2>
