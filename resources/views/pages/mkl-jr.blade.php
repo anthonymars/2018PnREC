@@ -74,7 +74,7 @@
                                 <div class="row py-3">
                                     @endif
                                    <!-- <div class="col-md-3 py-2"> --> 
-                                           <div class="col-md-8 py-4">
+                                           <div class="col-md-8 py-2">
                                         <a href="#" data-toggle="modal" data-target="#ncModal{{ $p->id }}">
                                             <img src="/images/pics/sm/sm-{{ $p->image }}" alt="{{ $p->title }}" class="img-fluid">
                                         </a>
