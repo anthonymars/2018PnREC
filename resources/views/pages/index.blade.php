@@ -124,7 +124,8 @@
                                 Pics Of Us
                             </h2>
                         <!--    <a href="/galleries"><p class="card-text text-center">All Galleries</p></a> -->
-                            <a href="/gallery/cato"><p class="card-text text-center">Cato Pics</p></a>
+                               <a href="/gallery/cato"><p class="card-text text-center">Cato Pics</p></a>
+                              <a href="/gallery/kanawha-city" class="btn btn-main">Kanawha City Gallery</a>
                             <p class="text-center roundButton"><a href="/galleries"><i class="fa fa-camera-retro fa-2x"></i></a></p>
                         </div>
                     </div>
