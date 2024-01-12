@@ -33,7 +33,7 @@ if($photobook) {
                     <p><small>
                    <B> Rashaun Poore </B>, Director Parks and Recreation  <br />
                    <B> Dax Miller </B>, Manager Leisure Services <br />
-                  <!-- <B> Lee Ann Grogg </B>, Office Support Specialist <br /> -->
+                   <B> Anita Miller </B>, Office Support Specialist <br /> 
                             <br />  200 Baker Lane
                             <br />Charleston, WV 25301
                             <br />(304)348-6860
