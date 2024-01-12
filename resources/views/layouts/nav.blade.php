@@ -25,7 +25,7 @@
                         <a class="dropdown-item" href="/north-charleston"><strong>North Charleston</strong></a>
                         <a class="dropdown-item" href="/roosevelt"><strong>Roosevelt</strong></a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="/galleries"><strong>Gallery</strong></a>
+                      <!--  <a class="dropdown-item" href="/galleries"><strong>Gallery</strong></a> -->
                     </div>
                 </li>
                 <li class="nav-item dropdown">
