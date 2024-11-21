@@ -38,7 +38,7 @@
 <h5>2-5:30pm - Step by Step Afterschool Program
 <h5>6-7:30pm - Martial Arts Class
 <h5>6-7pm - Women's Fitness Hour
-<h4><u>WEDNESDAY</u>u></h4> 
+<h4><u>WEDNESDAY</u></h4> 
 <h5>9-Noon - Pickleball<h5>
 <h5>2-5:30pm - Step by Step Afterschool Program<h5>
 <h5> 6-7pm - Women's Fitness Hour<h5>
@@ -48,57 +48,17 @@
 <h5>6-7pm - Women's Fitness Hour<h5>
 <h5>6-7:30pm - Martial Arts Class<h5>
 <h5>6-8pm - Co-Ed Volley Ball<h5>
-<h4><u>FRIDAY</u>u></h4> 
+<h4><u>FRIDAY</u></h4> 
 <h5>9-Noon - Pickleball<h5>
 <h5>2-5:30pm - Step by Step Afterschool Program<h5>
 <h5>5-9pm - Biddy Ball Practices<h5>
-<h4><u>SATURDAY</u>u></h4> 
+<h4><u>SATURDAY</u></h4> 
 <h5>9-Noon - Pickleball<h5>
 <h5>Noon-2pm - Striders STARTS 1/04/25, ENDS 3/29/25<h5>
 <h5>Noon-3pm - Card Sharks<h5>
-                    <!--<ul>
-                     
-                        <li> Tuesdays 6-9 pm  -  Men’s Night </li>
-                        <li> Thursdays 6-9 pm  - Teen Night </li>
-                        <li> Every 2nd Friday of the month 1-3 pm  - Senior Day </li>
-                         <li> Every 3rd Friday of the month 6-8pm   - Painting Party / $5 per session </li>
-                         <!-- <li> Saturdays 11am-1pm  - Striders Running Club </li> -->
-                        
-                        <!-- <li> Future Events/Activities ---  </li>
-                          <li>  **** Rethink Your Drink - Days and Time TBD </li>
-                          <li> ****Every Monday, Wednesday, and Thursday 6:00-7:00pm / Ends April 2nd  </li>
-                          <li>  **** Tuesday, March 17 9am – 10 am / Music In Our Schools Concert </li>
-                          <li>  **** Thursday, April 9th- 8 AM to 4 PM  - 4-H Fun Day </li>
-                          <li>  **** Mountain East Conference Tennis Tournament April 23rd -26th  </li>
-                          <li>  **** WV HS Tennis Regionals May 4th-5th   </li>
-                          <li>  **** KCMS County Tennis Tournament May 11th-12th   </li>
-                          <li>  **** WVHS State Tournament May 13th-16th   </li>
-                         <li>     ---- Our Facility Offer :  ------ </li> 
-                        <li>       *Gymnasium  </li>
-                        <li>       *Weight Room  </li>
-                        <li>       *Cardio Room   </li>
-                        <li>       *Homework/Tutoring Room  </li>
-                        <li>       *Outdoor Swimming Pool  </li>
-                        <li>       *Community Room (available for rentals)  </li>
-                        <li>       *Arts Room (available for rentals)  </li>
-                        <li>       *Playground  </li>
-                        <li>       *Outdoor Basketball Court  </li>
-                        <li>       *Outdoor Tennis Courts  </li>-->
-                        <li>	 Monday, Wednesday & Friday 9:30am-11am – Senior Exercise Class</li>
-                        <li>	 3rd Tuesday of every month 6pm-8pm – Charleston Coin Club</li>
-                        <li>	 Tuesday, Wednesday & Thursday 6pm-7pm – Women’s Fitness Hour</li>
-                        <li>	 Wednesdays 7:30pm-8:30pm – Co-Ed Volleyball</li>
-                      <!--   <li>	 Thursdays 5:45pm-6:45pm – Youth Nature Hike</li> -->
-                        <li>	 Fridays 12pm-3pm – Card Sharks</li>
-                       <li>	 Biddy Basketball Practices – Reservations available</li>
-                       <li>	 Monday-Thursday – “Step by Step” Afterschool Program</li>
-                        <li> Tuesday & Thursday 5:30pm-6:30pm – Weightlifting</li>
-                        <li> Tuesday & Thursday 6pm-7pm – Yoga </li>
-                        <li> Tuesday & Thursday 3:30pm-4:30pm – Homework Help  </li>
-                        <li> Thursdays 5:30pm-6:30pm  – Kickboxing     </li>
-                         <li> Tuesdays 6pm-7pm  – Soul Linedancing     </li>
-  
-                   </ul> -->
+                    
+            
+                 
                     <p><small>3511 Venable Ave
                             <br />Charleston, WV 25301
                             <br />(304)348-6484
