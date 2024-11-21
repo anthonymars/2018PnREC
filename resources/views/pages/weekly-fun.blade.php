@@ -118,17 +118,28 @@
                 <div class="col-md-8">
                     <h3>Roosevelt Neighborhood Center:</h3>
                     <ul>
-                        <li> Monday-Thursday 4pm-5pm – Men’s Fitness  </li>
+                         <li><u> MONDAY</u></li>
+                      <li>5-7pm – Ladies Only Shotokan Karate </li>
+                      <li>6-8pm – Men’s Night Basketball </li>
+                      <li><u>TUESDAY</u></li>
+                      <li>5-6pm – Shotokan Karate </li>
+                      <li>5-6pm – Line Dance </li>
+                      <li><u>WEDNESDAY</u></li>
+                      <li>10am-1pm – East End Resource Center Senior Day</li>
+                      <li><u>THURSDAY</u></li>
+                      <li>6-7:30pm – Shotokan Karate</li>
+                      <li>noon-2pm – East End Resource Center Senior Day</li>
+                      <li><u>FRIDAY</u></li>
+                      <li>noon-2pm – East End Resource Center Senior Day</li>
+
+                    <!--    <li> Monday-Thursday 4pm-5pm – Men’s Fitness  </li>
                        <li> Tuesdays 5pm / $5 per class / 55+ years Free - Pickleball  </li>
                        <li> Wednesday & Thursday 12pm-2pm - Line Dance Class </li>
                        <li> Thursdays 6pm / $5 per class / 55+ years Free - Gentle Movement Yoga  </li>
                        <li>	 Mondays & Tuesdays 6pm-8pm – Men’s Basketball  </li>
-                      
                        <li>	 Fridays 4pm-6pm – Youth Sports  </li>
                         <li> Fridays 6pm-7pm – Beginner Pickleball  </li>
-                       <li>	 Monday-Thursday – “Step by Step” Afterschool Program  </li>
-
-
+                       <li>	 Monday-Thursday – “Step by Step” Afterschool Program  </li> -->
                     </ul>
                     <p><small>502 Ruffner Ave.,
                            <br />Charleston, WV 25301
