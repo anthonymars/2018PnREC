@@ -28,21 +28,12 @@
                 <div class="col-md-8">
                     <h3>Kanawha City Community Center:</h3>
 
-                   <h4>MONDAY</h4> 
+                   <h4><u>MONDAY</u></h4> 
                <h5>  9-Noon - Pickleball</h5>
 <h5>2-5:30pm - Step by Step Afterschool Program</h5>
 <h5>6-7pm - Zumba STARTS 12/02/24</h5>
 <h5>6-9pm - Men's Night Basketball</h5>
                     <ul>
-
-
-
-
-
-
-
-
-                        
                      
                         <li> Tuesdays 6-9 pm  -  Men’s Night </li>
                         <li> Thursdays 6-9 pm  - Teen Night </li>
