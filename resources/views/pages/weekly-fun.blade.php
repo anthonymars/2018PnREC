@@ -34,11 +34,11 @@
 <h5>6-7pm - Zumba STARTS 12/02/24</h5>
 <h5>6-9pm - Men's Night Basketball<h5>
 
-                   <h4><u>  TUESDAY</h4> 
+ <h4><u>  TUESDAY</u></h4> 
 <h5>2-5:30pm - Step by Step Afterschool Program
 <h5>6-7:30pm - Martial Arts Class
 <h5>6-7pm - Women's Fitness Hour
-<h4><u>WEDNESDAY</h4> 
+<h4><u>WEDNESDAY</u>u></h4> 
 <h5>9-Noon - Pickleball<h5>
 <h5>2-5:30pm - Step by Step Afterschool Program<h5>
 <h5> 6-7pm - Women's Fitness Hour<h5>
@@ -48,11 +48,11 @@
 <h5>6-7pm - Women's Fitness Hour<h5>
 <h5>6-7:30pm - Martial Arts Class<h5>
 <h5>6-8pm - Co-Ed Volley Ball<h5>
-<h4><u>FRIDAY</h4> 
+<h4><u>FRIDAY</u>u></h4> 
 <h5>9-Noon - Pickleball<h5>
 <h5>2-5:30pm - Step by Step Afterschool Program<h5>
 <h5>5-9pm - Biddy Ball Practices<h5>
-<h4><u>SATURDAY</h4> 
+<h4><u>SATURDAY</u>u></h4> 
 <h5>9-Noon - Pickleball<h5>
 <h5>Noon-2pm - Striders STARTS 1/04/25, ENDS 3/29/25<h5>
 <h5>Noon-3pm - Card Sharks<h5>
