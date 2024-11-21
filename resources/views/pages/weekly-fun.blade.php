@@ -141,10 +141,8 @@
                         <li> Fridays 6pm-7pm – Beginner Pickleball  </li>
                        <li>	 Monday-Thursday – “Step by Step” Afterschool Program  </li> -->
                     </ul>
-                    <p><small>502 Ruffner Ave.,
-                           <br />Charleston, WV 25301
-                            <br /> (304) 348-0529
-                            <br />  Open: 12pm - 8 pm Monday - Friday
+                    <p><small>502 Ruffner Ave., Charleston, WV 25301 | (304) 348-0529
+                            <br />  Hours: Monday – Friday, Noon – 8pm
                         </small>
                     </p>
                 </div>
