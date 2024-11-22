@@ -33,8 +33,7 @@
 <h5>2-5:30pm - Step by Step Afterschool Program</h5>
 <h5>6-7pm - Zumba STARTS 12/02/24</h5>
 <h5>6-9pm - Men's Night Basketball<h5>
-
- <h4><u>  TUESDAY</u></h4> 
+<h4><u>  TUESDAY</u></h4> 
 <h5>2-5:30pm - Step by Step Afterschool Program
 <h5>6-7:30pm - Martial Arts Class
 <h5>6-7pm - Women's Fitness Hour
@@ -43,7 +42,7 @@
 <h5>2-5:30pm - Step by Step Afterschool Program<h5>
 <h5> 6-7pm - Women's Fitness Hour<h5>
 <h5>6-9pm - Teen Night Basketball<h5>
-<h4><u>THURSDAY</h4> 
+<h4><u>THURSDAY</u>u></h4> 
 <h5>2-5:30pm - Step by Step Afterschool Program<h5>
 <h5>6-7pm - Women's Fitness Hour<h5>
 <h5>6-7:30pm - Martial Arts Class<h5>
