@@ -70,23 +70,27 @@
                 </div>
                 <div class="col-md-8">
                     <h3>Martin Luther King Jr. Community Center:</h3>
-                    <ul>
-                        <li> Monday, Wednesday & Friday 6pm-8pm – USA Boxing </li>
-                        <li>Third Monday of every month - Bingo @  1:00 pm - 3:30 pm</li>
-                        <li>Tuesdays & Thursdays  6pm - 8pm  Men’s Basketball Night </li>
-                        <li>Tuesday @ 12pm-2pm - Men’s Fitness & Fellowship Basketball </li>
-                        <li> Wednesdays 6pm-8pm  - Pickleball </li>
-                        <li>Thursday @ 12pm-2pm: Men’s Fitness & Fellowship Basketball  </li>
-                        <li> Thursdays 6:30pm – Teen Dream Night  </li>
-                        <li>Saturday - Youth Basketball Practice -Coaches must call to reserve court time  </li>
-                        <li>Sundays 9am-1pm – Flag Football League</li>
-                        <li> Biddy Basketball Practices – Reservations available </li>
-                        <li>Monday-Friday – “PAAC” (Partnership of African American Churches) Afterschool Program  </li>
-
-                    </ul>
-                    <p><small>314 Donnally St.
-                            <br />Charleston, WV 25301
-                            <br />(304)348-6404
+                      <h4><u>MONDAY</u></h4> 
+<h6>7-8:45pm  - Men's Night Basketball</h6>
+<h6>6-7:30pm - Youth Boxing</h6>
+    <h4><u>TUESDAY</u></h4> 
+<h6>12-2pm - Pickleball</h6>
+<h6>6-7:30pm - Youth Boxing</h6>
+   <h4><u>WEDNESDAY</u></h4>  
+<h6>12-2pm - Pickleball</h6>
+<h6>6-7:30pm - Youth Boxing</h6>
+<h6>6-8pm - Youth Movie Night</h6>
+<h6>6:30-7:30pm - Zumba</h6>
+   <h4><u>THURSDAY</u></h4> 
+<h6>12-2pm - Pickleball</h6>
+<h6>Third Thursday of the Month: 1:30-3pm - Senior Bingo</h6>
+<h6>6-7:30pm - Youth Boxing</h6>
+   <h4><u>FRIDAY</u></h4>  
+<h6>5:30-7:30pm - Friday Funday STARTS 1/03/2025</h6>
+<h6>First Friday of the Month: 6-8pm - Game Night</h6>
+    <h4><u>SATURDAY</u></h4> 
+<h6>9am-12pm - Futsal STARTS 12/14/2024, ENDS 3/29/2025</h6>
+                    <p><small>314 Donnally St, Charleston, WV 25301 | (304)348-6404
                         </small>
                     </p>
                 </div>
