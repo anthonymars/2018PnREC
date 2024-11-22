@@ -30,15 +30,15 @@
 
                    <h4><u>MONDAY</u></h4> 
                <h6>  9-Noon - Pickleball</h6>
-<h6>>2-5:30pm - Step by Step Afterschool Program</h6>
+<h6>2-5:30pm - Step by Step Afterschool Program</h6>
 <h6>6-7pm - Zumba STARTS 12/02/24</h6>
-<h6><6-9pm - Men's Night Basketball</h6>
+<h6>6-9pm - Men's Night Basketball</h6>
 <h4><u>  TUESDAY</u></h4> 
 <h6>2-5:30pm - Step by Step Afterschool Program</h6>
 <h6><6-7:30pm - Martial Arts Class</h6>
 <h6><6-7pm - Women's Fitness Hour</h6>
 <h4><u>WEDNESDAY</u></h4> 
-<h6><9-Noon - Pickleball</h6>
+<h6>9-Noon - Pickleball</h6>
 <h6>2-5:30pm - Step by Step Afterschool Program</h6>
 <h6> 6-7pm - Women's Fitness Hour</h6>
 <h6>6-9pm - Teen Night Basketball</h6>
