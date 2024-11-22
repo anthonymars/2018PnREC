@@ -58,7 +58,7 @@
                     <ul>
                        <li>  Heidi L. Burke, Constituent Services Assistant | City Of Charleston     
                        </li> 
-                           <li>  501 Virginia St E |Charleston, WV 25301  
+                           <li>  501 Virginia St E | Charleston, WV 25301  
                        </li> 
                     </ul>
                                     
