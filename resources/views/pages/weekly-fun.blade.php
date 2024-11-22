@@ -137,28 +137,29 @@
                 </div>
                 <div class="col-md-8">
                     <h3>North Charleston Community Center:</h3>
-                    <ul>
-                      
-                       
-                       
-                      
-                        <li>Monday & Wednesday 5:30pm-6:30pm -  Kids In Motion Fitness Class  </li>
-                       <li>Tuesdays, Thursdays and Fridays -  Pickle Ball    - 9:00am - 12noon</li>
-                        <li>Tuesday & Thursday 5:30pm-6:30pm -  Soul Stepping Class  </li>
-                       <li>3rd Wednesday of every month 10:30am-1pm -  Socializing Through Play   </li>
-                        <li>Wednesdays 6pm-8:30pm  -  Special Olympics Volleyball    </li> 
-                         <li>3rd Thursdays of each Month: - Bingo   - 1pm – 3:30pm </li>
-                       <li> Monday-Thursday – “Bob Burdett” Afterschool Program </li>
-                        <li>4th Friday of every month 4:30pm-6:30pm -  Seniors Bingo  </li>
-                        <li>Saturdays - Adult Volleyball   - 9am – noon</li>
-                        <li> Game Room Daily:- This room houses a variety of games for youth, such as pool, air hockey, foosball, basketball shoot and table tennis and board games. </li>
-                        <li> Biddy Basketball Practices – Reservations available </li>
-                      
-                        
-                   </ul>
-                    <p><small>2009 7th Ave.
-                            <br />Charleston, WV 25387
-                            <br />(304)348-0529
+                       <h4><u>MONDAY</u></h4> 
+                  <h6>  9am-12pm - Pickleball </h6>
+                   <h6> 5:30-9pm - Charleston Table Tennis League</h6>
+
+                <h4><u>TUESDAY</u></h4>
+ <h6>9am-12pm - Pickleball</h6>
+ <h6>5-8pm - Biddy Ball Practices</h6>
+  <h4><u>WEDNESDAY</u></h4>
+ <h6>Third Wednesday of the Month: 11am-12pm - Socializing Through Play</h6>
+ <h6>5-8pm - Biddy Ball Practices</h6>
+   <h4><u>THURSDAY</u></h4>
+ <h6>9am-12pm - Pickleball</h6>
+ <h6>5-6pm - Weight Lifting</h6>
+ <h6>6-9pm - Men's Night Basketball</h6>
+ <h4><u>FRIDAY</u></h4>
+ <h6>9am-12pm - Pickleball
+ <h6>Fourth Friday of the Month: 4-6pm - Senior Bingo</h6>
+ <h6>Fourth Friday of the Month: 6-8pm - Adult Dodgeball League</h6>
+ <h6>6-9pm - Family Game Night</h6>
+<h4><u>SATURDAY</u></h4>
+ <h6>9am-12pm - Co-Ed Volleyball</h6>
+            
+                    <p><small>2009 7th Ave., Charleston, WV 25387 | (304)348-0529
                         </small>
                     </p>
 
