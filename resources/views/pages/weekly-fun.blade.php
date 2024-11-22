@@ -52,15 +52,10 @@
 <h6>2-5:30pm - Step by Step Afterschool Program</h6>
 <h6>5-9pm - Biddy Ball Practices</h6>
 <h4><u>SATURDAY</u></h4> 
-<h6>9-Noon - Picklebal</h6>
+<h6>9-Noon - Pickleball</h6>
 <h6>Noon-2pm - Striders STARTS 1/04/25, ENDS 3/29/25</h6>
 <h6>Noon-3pm - Card Sharks</h6>
-                    <ul>
-                       <li>  Heidi L. Burke, Constituent Services Assistant | City Of Charleston     
-                       </li> 
-                           <li>  501 Virginia St E | Charleston, WV 25301  
-                       </li> 
-                    </ul>
+                    
                                     
                     <p><small>3511 Venable Ave, Charleston, WV 25301 | (304)348-6484
                         </small>
