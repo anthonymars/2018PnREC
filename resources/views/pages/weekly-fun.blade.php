@@ -30,33 +30,31 @@
 
                    <h4><u>MONDAY</u></h4> 
                <h6>  9-Noon - Pickleball</h6>
-<h5>2-5:30pm - Step by Step Afterschool Program</h5>
-<h5>6-7pm - Zumba STARTS 12/02/24</h5>
-<h5>6-9pm - Men's Night Basketball<h5>
+<h6>>2-5:30pm - Step by Step Afterschool Program</h6>
+<h6>6-7pm - Zumba STARTS 12/02/24</h6>
+<h6><6-9pm - Men's Night Basketball</h6>
 <h4><u>  TUESDAY</u></h4> 
-<h5>2-5:30pm - Step by Step Afterschool Program
-<h5>6-7:30pm - Martial Arts Class
-<h5>6-7pm - Women's Fitness Hour
+<h6>2-5:30pm - Step by Step Afterschool Program</h6>
+<h6><6-7:30pm - Martial Arts Class</h6>
+<h6><6-7pm - Women's Fitness Hour</h6>
 <h4><u>WEDNESDAY</u></h4> 
-<h5>9-Noon - Pickleball<h5>
-<h5>2-5:30pm - Step by Step Afterschool Program<h5>
-<h5> 6-7pm - Women's Fitness Hour<h5>
-<h5>6-9pm - Teen Night Basketball<h5>
-<h4><u>THURSDAY</u>u></h4> 
-<h5>2-5:30pm - Step by Step Afterschool Program<h5>
-<h5>6-7pm - Women's Fitness Hour<h5>
-<h5>6-7:30pm - Martial Arts Class<h5>
-<h5>6-8pm - Co-Ed Volley Ball<h5>
+<h6><9-Noon - Pickleball</h6>
+<h6>2-5:30pm - Step by Step Afterschool Program</h6>
+<h6> 6-7pm - Women's Fitness Hour</h6>
+<h6>6-9pm - Teen Night Basketball</h6>
+<h4><u>THURSDAY</u></h4> 
+<h6>2-5:30pm - Step by Step Afterschool Program</h6>
+<h6>6-7pm - Women's Fitness Hour</h6>
+<h6>6-7:30pm - Martial Arts Class</h6>
+<h6>6-8pm - Co-Ed Volley Ball</h6>
 <h4><u>FRIDAY</u></h4> 
-<h5>9-Noon - Pickleball<h5>
-<h5>2-5:30pm - Step by Step Afterschool Program<h5>
-<h5>5-9pm - Biddy Ball Practices<h5>
+<h6>9-Noon - Pickleball</h6>
+<h6>2-5:30pm - Step by Step Afterschool Program</h6>
+<h6>5-9pm - Biddy Ball Practices</h6>
 <h4><u>SATURDAY</u></h4> 
-<h5>9-Noon - Pickleball<h5>
-<h5>Noon-2pm - Striders STARTS 1/04/25, ENDS 3/29/25<h5>
-<h5>Noon-3pm - Card Sharks<h5>
-                    
-            
+<h6>9-Noon - Picklebal</h6>
+<h6>Noon-2pm - Striders STARTS 1/04/25, ENDS 3/29/25</h6>
+<h6>Noon-3pm - Card Sharks</h6>
                  
                     <p><small>3511 Venable Ave
                             <br />Charleston, WV 25301
