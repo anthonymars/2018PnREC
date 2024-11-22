@@ -56,9 +56,7 @@
 <h6>Noon-2pm - Striders STARTS 1/04/25, ENDS 3/29/25</h6>
 <h6>Noon-3pm - Card Sharks</h6>
                  
-                    <p><small>3511 Venable Ave
-                            <br />Charleston, WV 25301
-                            <br />(304)348-6484
+                    <p><small>3511 Venable Ave, Charleston, WV 25301 | (304)348-6484
                         </small>
                     </p>
                 </div>
