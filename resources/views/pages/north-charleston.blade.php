@@ -62,7 +62,7 @@
                             <br /><strong>Program  Coordinator:</strong>
                             <!--<br /><a href="mailto:Corey.Lowery@cityofcharleston.org"><i class="fa fa-envelope"></i> Corey Lowery</a> -->
                            <br /> <a href="mailto:Keenan.farmer@cityofcharleston.org"> <i class="fa fa-envelope"></i> Keenan Farmer</a>
-                            <br /><a href="mailto:Kavon.Cutler@cityofcharleston.org"><i class="fa fa-envelope"></i> Kavon Cutler</a>
+                          <!--  <br /><a href="mailto:Kavon.Cutler@cityofcharleston.org"><i class="fa fa-envelope"></i> Kavon Cutler</a> -->
                            <br /><a href="mailto:Julia.Kinney@cityofcharleston.org"><i class="fa fa-envelope"></i> Julia Kinney &nbsp;&nbsp &nbsp;&nbsp &nbsp;&nbsp</a 
                                                                                                                                                                        </small>
                          <br /><strong>&nbsp;&nbsp &nbsp;&nbsp &nbsp;&nbsp</strong>
