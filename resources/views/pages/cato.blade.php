@@ -43,7 +43,7 @@ if($photobook) {
                            <!-- <br /><strong>Pool Hours:</strong>
                             <br />Tuesday - Sunday 12pm - 6pm -->
                             <br /><strong>Director of Parks and Recreation:</strong>
-                            <br /><a href="mailto:parksandrecreation@cityofcharleston.org"><i class="fa fa-envelope"></i> Rashaun Poore</a></p>
+                            <!--<br /><a href="mailto:parksandrecreation@cityofcharleston.org"><i class="fa fa-envelope"></i> Rashaun Poore</a></p> -->
                 </div>
             </div>
             <hr>
