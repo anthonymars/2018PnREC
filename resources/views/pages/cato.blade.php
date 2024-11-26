@@ -31,7 +31,7 @@ if($photobook) {
                     <h2>Get In Touch</h2>
                     
                     <p><small>
-                   <B> Rashaun Poore </B>, Director Parks and Recreation  <br />
+                 <!--  <B> Rashaun Poore </B>, Director Parks and Recreation  <br /> -->
                    <B> Dax Miller </B>, Manager Leisure Services <br />
                    <B> Anita Miller </B>, Office Support Specialist <br /> 
                             <br />  200 Baker Lane
