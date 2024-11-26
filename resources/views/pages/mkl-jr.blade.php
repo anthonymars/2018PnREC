@@ -59,7 +59,7 @@
                             <br />Sunday Closed
                            <!--<br />Tuesday - Sunday 12pm - 6pm -->
                              <br /><strong>Program Coordinator:</strong>
-                            <br /><a href="mailto:dax.miller@cityofcharleston.org"><i class="fa fa-envelope"></i> Cookie Miller </a></small>
+                          <!--  <br /><a href="mailto:dax.miller@cityofcharleston.org"><i class="fa fa-envelope"></i> Cookie Miller </a></small> -->
                             <br /> <a href="mailto:spencer.dean@cityofcharleston.org"> <i class="fa fa-envelope"></i>Spencer Dean</a></small>
                             <br /> <a href="mailto:Donnelle.badger@cityofcharleston.org"> <i class="fa fa-envelope"> </i> Donnelle Badger </a> </small>
                               <br /><strong> Asst Program Coordinator:</strong> </small>
