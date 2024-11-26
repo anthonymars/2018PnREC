@@ -47,7 +47,7 @@
                         <br />(304)348-6484
                         <br />Program Coordinator: <a href="mailto:Kelly.Jones@cityofcharleston.org">Kelly Jones</a>
                         <br />Program Coordinator: <a href="mailto:T'Andre.Boxley@cityofcharleston.org">T’Andre Boxley</a>
-                       <br />Assistant Program Coordinator: <a href="mailto:Benjamin.grady@cityofcharleston.org">Ben Grady</a>
+                <br />Assistant Program Coordinator: <a href="mailto:April.Meadows@cityofcharleston.org">April Meadows</a> 
                      
                        
                       <!--  <br />Custodial and Grounds Maintenance: Tyrone Scott -->
