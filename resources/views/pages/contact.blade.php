@@ -121,7 +121,7 @@
                     <p><small>200 Baker Lane
                         <br />Charleston, WV 25301
                         <br />(304)348-6860
-                          <br />Director of Parks and Recreation:<a href="mailto:Rashaun.poore@cityofcharleston.org">Rashaun Poore </a>
+                       <!--   <br />Director of Parks and Recreation:<a href="mailto:Rashaun.poore@cityofcharleston.org">Rashaun Poore </a> -->
                          <br />Manager Leisure Services:<a href="mailto:dax.miller@cityofcharleston.org">Dax Miller </a>
                         <br />Office Support Specialist: <a href="mailto:anita.miller@cityofcharleston.org">Anita Miller</a>
                     
