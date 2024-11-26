@@ -62,7 +62,7 @@
                              <br /><a href="mailto:T'Andre.Boxley@cityofcharleston.org"><i class="fa fa-envelope"></i>  T’Andre Boxley</a>
                              <br /><a href="mailto:Kelly.Jones@cityofcharleston.org"><i class="fa fa-envelope"></i> Kelly Jones</a>
                          <br /><strong> Assistant Program Coordinator: </strong>
-                            <br />  <a href="mailto:Benjamin.grady@cityofcharleston.org"> <i class="fa fa-envelope"></i>Ben Grady</a>
+                            <br />  <a href="mailto:April.Meadows@cityofcharleston.org"> <i class="fa fa-envelope"></i>April Meadows</a>
              </small></p>
 
                     <hr>
