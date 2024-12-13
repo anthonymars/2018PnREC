@@ -12,8 +12,16 @@
               <h2 class="text-center">
 
             <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">
-                   <h4 class="text-left">
-                    <ul>
+                 <!--   <h4 class="text-left"> -->
+
+
+DEC 15, 2024 (2P)  – Charleston Winter Series 5k – starts at UC Pharmacy School Parking Lot </br>
+DEC 18, 2024 (4:30P) – Christmas Party at Roosevelt Neighborhood Center  </br>
+DEC 19, 2024 (5P-8P) – Hoops with Santa at North Charleston Community Center  </br>
+DEC 23, 2024 (10A-noon) – Breakfast with Santa at Kanawha City Community Center  </br>
+JAN 12, 2025 (2P) – Charleston Winter Series 8k – starts at UC Pharmacy School Parking Lot  </br>
+FEB 16, 2025 (2P) – Charleston Winter Series 10k– starts at UC Pharmacy School Parking Lot </br>
+                    <!-- <ul>
                          <li> 	Martin Luther King, Jr. Celebration - Martin Luther King, Jr. Community Center 1/15/2024 </li> 
                          <li> 	Winter Series Races 12/17/2023, 1/14/2024 & 2/11/2024 </li> 
                     <li> 5K Run	3K Walk</li> 
@@ -31,13 +39,8 @@
                           <li>  Charleston Coin Club Kanawha City Community Center - 3rd Tuesday of every month @ 6pm    </li> 
                          <li>   Soul/Line Dance Class Kanawha City Community Center - Tuesdays @ 6pm   </li> 
                          <li>   Yoga Kanawha City Community Center - Every other Wednesday @ 6pm     </li> 
-                        
-
-                      
-      
-             </h4>
-          
-        </div>
+                  </h4> -->
+ </div>
     </section>
     <section id="homeBlocks" class="py-5">
         <div class="container">
