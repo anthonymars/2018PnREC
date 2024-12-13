@@ -19,7 +19,7 @@
 <h5>DEC 19, 2024 (5P-8P) – Hoops with Santa at North Charleston Community Center  </h5></br>
 <h5>DEC 23, 2024 (10A-noon) – Breakfast with Santa at Kanawha City Community Center  </h5></br>
 <h5>JAN 12, 2025 (2P) – Charleston Winter Series 8k – starts at UC Pharmacy School Parking Lot </h5></br>
-<h5>FEB 16, 2025 (2P) – Charleston Winter Series 10k– starts at UC Pharmacy School Parking Lot </h5></br>
+<h5>FEB 16, 2025 (2P) – Charleston Winter Series 10k– starts at UC Pharmacy School Parking Lot </h5>
                     </h4>
                     <!-- <ul>
                          <li> 	Martin Luther King, Jr. Celebration - Martin Luther King, Jr. Community Center 1/15/2024 </li> 
