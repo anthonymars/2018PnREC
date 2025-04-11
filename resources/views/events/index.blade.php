@@ -33,7 +33,7 @@
 
 
             <hr>
-            @if($dates)
+          <!--  @if($dates)
                 @foreach($dates as $d)
                     <div class="row">
                         <div class="col-md-3">
@@ -51,7 +51,7 @@
 
             @else
                 <h2>Sorry, No Events Yet</h2>
-            @endif
+            @endif -->
 
         </div>
     </section>
