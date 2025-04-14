@@ -27,18 +27,20 @@
                         </select>
                     </div>
                     <div class="form-group">
-                        <button class="btn btn-main" type="submit">See Center Events</button>
+                       <!--  <button class="btn btn-main" type="submit">See Center Events</button> --> 
+                        <p> CATO PARK : GOLF COURSE </p>
+                      <P>   Hours:  7am - dark  (This includes weekends)  </P>
                     </div>
                 </form>
 
 
             <hr>
-          @if($dates)
+        <!--   @if($dates)
                 @foreach($dates as $d)
                     <div class="row">
-                         <!-- <div class="col-md-3">
+                         <div class="col-md-3">
                             <img style="max-height:200px" src="/images/events/2018/sm/{{ $d->event->image }}" alt="" class="img-fluid">
-                        </div> -->
+                        </div>
                         <div class="col-md-9">
                             <h2>{{ $d->date }}</h2>
                             <h2><a href="/events/{{ $d->event->slug }}">{{$d->event->event_name}}</a></h2>
@@ -53,6 +55,6 @@
                 <h2>Sorry, No Events Yet</h2>
             @endif 
 
-        </div>
+        </div> -->
     </section>
 @stop
