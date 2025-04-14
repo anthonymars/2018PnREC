@@ -33,12 +33,12 @@
 
 
             <hr>
-          <!--  @if($dates)
+          @if($dates)
                 @foreach($dates as $d)
                     <div class="row">
-                        <div class="col-md-3">
+                         <!-- <div class="col-md-3">
                             <img style="max-height:200px" src="/images/events/2018/sm/{{ $d->event->image }}" alt="" class="img-fluid">
-                        </div>
+                        </div> -->
                         <div class="col-md-9">
                             <h2>{{ $d->date }}</h2>
                             <h2><a href="/events/{{ $d->event->slug }}">{{$d->event->event_name}}</a></h2>
@@ -51,7 +51,7 @@
 
             @else
                 <h2>Sorry, No Events Yet</h2>
-            @endif -->
+            @endif 
 
         </div>
     </section>
