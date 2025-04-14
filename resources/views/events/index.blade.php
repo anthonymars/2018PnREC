@@ -15,7 +15,7 @@
 
                 <form action="/events/location" method="post">
                     {{ csrf_field() }}
-                    <div class="form-group">
+                 <!--   <div class="form-group">
                         <select name="location" id=""class="form-control">
                             <option value="all">All Events</option>
                             <option value="cato">Cato Park</option>
@@ -25,7 +25,7 @@
                             <option value="nc">North Charleston Community Center</option>
                             <option value="roosevelt">Roosevelt Neighborhood Center</option>
                         </select>
-                    </div>
+                    </div> -->
                     <div class="form-group">
                        <!--  <button class="btn btn-main" type="submit">See Center Events</button> --> 
                         <p> CATO PARK : GOLF COURSE </p>
