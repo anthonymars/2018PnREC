@@ -42,7 +42,7 @@ if($photobook) {
                             <br />Closed Saturday and Sunday
                            <!-- <br /><strong>Pool Hours:</strong>
                             <br />Tuesday - Sunday 12pm - 6pm -->
-                            <br /><strong>GOLF COURSE: Hours: 7am - dark (This includes weekends)</strong>
+                            <br /><strong>GOLF COURSE HOURS: 7am - dark (This includes weekends)</strong>
 
 </div>
                             <!--<br /><a href="mailto:parksandrecreation@cityofcharleston.org"><i class="fa fa-envelope"></i> Rashaun Poore</a></p> -->
