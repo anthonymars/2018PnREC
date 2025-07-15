@@ -7,47 +7,20 @@
 @stop
 @section('content')
     <section id="info" class="py-5">
-       <!-- <div class="container py-5"> -->
-            <div class="center-wrapper">
-           <h2 class="text-center">Local Events</h2>  
-     
-  <h4 class="text-center">This event listing is provided in partnership with the Charleston Convention and Visitors Bureau. </h4>  
-                          <h4 class="text-center"><a href="https://events.charlestonwv.com/event/create" style="color: red;">To submit an event, please visit</a></div></section></h4>
-         <!--  <h2 class="text-center">
-         <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block"> -->
-                   <div class="widget-container">
-    <div id="localist-widget-57991154" class="localist-widget"></div>
+        <div class="container py-5">
+           <h2 class="text-center">Charleston Parks and Recreation</h2>  
+              <h2 class="text-center">
+            <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">
+                    <h4 class="text-left"> 
+                        <div id="localist-widget-57991154" class="localist-widget"></div><script defer type="text/javascript"
 
-    <script defer type="text/javascript"
-       src="https://events.charlestonwv.com/widget/combo?schools=charlestonwv&exclude_groups=city_of_charleston&days=60&num=50&target_blank=1&experience=inperson&container=localist-widget-57991154&template=modern">
-    </script>
-   <div id="lclst_widget_footer">
-       <a style="margin-left:auto;margin-right:auto;display:block;width:81px;margin-top:10px;" title="Widget powered by Concept3D Event Calendar Software" 
-           href="https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link">
-           <img src="//d3e1o4bcbhmj8g.cloudfront.net/assets/platforms/default/about/widget_footer.png" alt="Localist Online Calendar Software" style="vertical-align: middle;" width="81" height="23">
-    </script>
-
-    <div id="lclst_widget_footer">
-        <a style="margin-left:auto;margin-right:auto;display:block;width:81px;margin-top:10px;"
-           title="Widget powered by Concept3D Event Calendar Software"
-           href="https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link">
-            <img src="//d3e1o4bcbhmj8g.cloudfront.net/assets/platforms/default/about/widget_footer.png"
-                 alt="Localist Online Calendar Software"
-                 style="vertical-align: middle;" width="81" height="23">
-        </a>
-    </div>
-</div>
-
-                     <!--   <div id="localist-widget-57991154" class="localist-widget"></div><script defer type="text/javascript"  
-
-src="https://events.charlestonwv.com/widget/combo?schools=charlestonwv&exclude_groups=city_of_charleston&days=60&num=50&target_blank=1&experience=inperson&container=localist-widget-57991154&template=modern"></script><div id="lclst_widget_footer"><a style="margin-left:auto;margin-right:auto;display:block;width:81px;margin-top:10px;" title="Widget powered by Concept3D Event Calendar Software" href="https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link"><img src="//d3e1o4bcbhmj8g.cloudfront.net/assets/platforms/default/about/widget_footer.png" alt="Localist Online Calendar Software" style="vertical-align: middle;" width="81" height="23"></a></div>-->
-
-<!-- <h5>DEC 15, 2024 (2P)  – Charleston Winter Series 5k – starts at UC Pharmacy School Parking Lot </h5></br>
+src="https://events.charlestonwv.com/widget/combo?schools=charlestonwv&exclude_groups=city_of_charleston&days=60&num=50&target_blank=1&experience=inperson&container=localist-widget-57991154&template=modern"></script><div id="lclst_widget_footer"><a style="margin-left:auto;margin-right:auto;display:block;width:81px;margin-top:10px;" title="Widget powered by Concept3D Event Calendar Software" href="https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link"><img src="//d3e1o4bcbhmj8g.cloudfront.net/assets/platforms/default/about/widget_footer.png" alt="Localist Online Calendar Software" style="vertical-align: middle;" width="81" height="23"></a></div>
+<!--<h5>DEC 15, 2024 (2P)  – Charleston Winter Series 5k – starts at UC Pharmacy School Parking Lot </h5></br>
 <h5>DEC 18, 2024 (4:30P) – Christmas Party at Roosevelt Neighborhood Center  </h5></br>
 <h5>DEC 19, 2024 (5P-8P) – Hoops with Santa at North Charleston Community Center  </h5></br>
 <h5>DEC 23, 2024 (10A-noon) – Breakfast with Santa at Kanawha City Community Center  </h5></br>
 <h5>JAN 12, 2025 (2P) – Charleston Winter Series 8k – starts at UC Pharmacy School Parking Lot </h5></br>
-<h5>FEB 16, 2025 (2P) – Charleston Winter Series 10k– starts at UC Pharmacy School Parking Lot </h5>  -->
+<h5>FEB 16, 2025 (2P) – Charleston Winter Series 10k– starts at UC Pharmacy School Parking Lot </h5> -->
  </h4>
  </div>
     </section>
