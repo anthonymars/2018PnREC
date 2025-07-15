@@ -8,7 +8,8 @@
 @section('content')
     <section id="info" class="py-5">
         <div class="container py-5">
-           <h2 class="text-center">Charleston Parks and Recreation</h2>  
+           <h2 class="text-center">Local Events</h2>  
+             <h2 class="text-center">This event listing is provided in partnership with the Charleston Convention and Visitors Bureau. To submit an event, please visit https://events.charlestonwv.com/event/create. </h2>  
               <h2 class="text-center">
             <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block">
                     <h4 class="text-left"> 
