@@ -11,7 +11,10 @@ nter@extends('layouts.app')
            <h2 class="text-center">Local Events</h2>  
              <h4 class="text-center">This event listing is provided in partnership with the Charleston Convention and Visitors Bureau. </h4>  
                           <h2 class="text-center"><a href="https://events.charlestonwv.com/event/create" style="color: red;">To submit an event, please visit</a></div></section></h2>
-     
+        <h2 class="text-center">
+         <!--   <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block"> -->
+                    <h4 class="text-center"> 
+                        <div id="localist-widget-57991154" class="localist-widget"></div><script defer type="text/javascript"  
 
 src="https://events.charlestonwv.com/widget/combo?schools=charlestonwv&exclude_groups=city_of_charleston&days=60&num=50&target_blank=1&experience=inperson&container=localist-widget-57991154&template=modern"></script><div id="lclst_widget_footer"><a style="margin-left:auto;margin-right:auto;display:block;width:81px;margin-top:10px;" title="Widget powered by Concept3D Event Calendar Software" href="https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link"><img src="//d3e1o4bcbhmj8g.cloudfront.net/assets/platforms/default/about/widget_footer.png" alt="Localist Online Calendar Software" style="vertical-align: middle;" width="81" height="23"></a></div>
 <!--<h5>DEC 15, 2024 (2P)  – Charleston Winter Series 5k – starts at UC Pharmacy School Parking Lot </h5></br>
