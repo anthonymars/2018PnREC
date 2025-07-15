@@ -7,7 +7,8 @@
 @stop
 @section('content')
     <section id="info" class="py-5">
-        <div class="container py-5">
+       <!-- <div class="container py-5"> -->
+            <div class="center-wrapper">
            <h2 class="text-center">Local Events</h2>  
      
   <h4 class="text-center">This event listing is provided in partnership with the Charleston Convention and Visitors Bureau. </h4>  
