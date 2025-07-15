@@ -12,7 +12,7 @@
              <h4 class="text-center">This event listing is provided in partnership with the Charleston Convention and Visitors Bureau. </h4>  
                           <h2 class="text-center"><a href="https://events.charlestonwv.com/event/create" style="color: red;">To submit an event, please visit</a></div></section></h2>
           <h2 class="text-center">
-            <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block"> 
+         <!--   <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block"> -->
                     <h4 class="text-left"> 
                         <div id="localist-widget-57991154" class="localist-widget"></div><script defer type="text/javascript"
 
