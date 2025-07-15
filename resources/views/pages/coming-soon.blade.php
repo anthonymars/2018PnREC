@@ -8,7 +8,8 @@
 @section('content')
     <section id="info" class="py-5">
         <div class="container py-5">
-           <h2 class="text-center">Local Events</h2>  
+           <h2 class="text-center">Local Events</h2> 
+              <h4 class="text-center">This event listing is provided in partnership with the Charleston Convention and Visitors Bureau. </h4> 
             <h4 class="text-center"><a href="https://events.charlestonwv.com/event/create" style="color: red;">To submit an event, please visit</a></h4>
               <h2 class="text-center">
          <!--   <img src="{{ asset('/images/logos/parksnRec.png') }}" alt="" class="img-fluid mx-auto d-block"> -->
@@ -48,7 +49,7 @@ src="https://events.charlestonwv.com/widget/combo?schools=charlestonwv&exclude_g
                             <h2 class="card-text text-center">
                                 Things To Do
                             </h2>
-                            <a href="/events"><p class="card-text text-center">Our Events</p></a>
+                          <!--  <a href="/events"><p class="card-text text-center">Our Events</p></a> -->
                             <p class="card-text text-center">Center Classes</p>
                             <p class="text-center"><a href="#"><i class="fa fa-group fa-2x"></i></a></p>
                         </div>
