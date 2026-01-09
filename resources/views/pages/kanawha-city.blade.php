@@ -60,7 +60,7 @@ Fbox
                            <!-- <br /><strong>Recreation  Manager: </strong> -->
                            
                             <br /><strong>Program Coordinator: </strong>
-                             <br /><a href="mailto:T'Andre.Boxley@cityofcharleston.org"><i class="fa fa-envelope"></i>  T’Andre Boxley</a>
+                             <br /><a href="mailto:dionne.beverly@cityofcharleston.org"><i class="fa fa-envelope"></i>Dionne Beverly</a>
                              <br /><a href="mailto:tyrone.scott@cityofcharleston.org"><i class="fa fa-envelope"></i>Tyrone Scott</a>
                          <br /><strong> Assistant Program Coordinator: </strong>
                             <br />  <a href="mailto:April.Meadows@cityofcharleston.org"> <i class="fa fa-envelope"></i>April Meadows</a>
