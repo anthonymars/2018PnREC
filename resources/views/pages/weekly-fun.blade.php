@@ -145,29 +145,29 @@
                     <a href="/north-charleston"><img src="{{ asset('/images/centers/nc_site.jpg') }}" alt="center" class="img-fluid"></a>
                 </div>
                 <div class="col-md-8">
-                    <h3>North Charleston Community Center:</h3>
-                       <h4><u>MONDAY</u></h4> 
-                  <h6>  9am-12pm - Pickleball </h6>
-                   <h6> 5:30-9pm - Charleston Table Tennis League</h6>
-
-                <h4><u>TUESDAY</u></h4>
- <h6>9am-12pm - Pickleball</h6>
- <h6>5-8pm - Biddy Ball Practices</h6>
-  <h4><u>WEDNESDAY</u></h4>
- <h6>Third Wednesday of the Month: 11am-12pm - Socializing Through Play</h6>
- <h6>5-8pm - Biddy Ball Practices</h6>
-   <h4><u>THURSDAY</u></h4>
- <h6>9am-12pm - Pickleball</h6>
- <h6>5-6pm - Weight Lifting</h6>
- <h6>6-9pm - Men's Night Basketball</h6>
- <h4><u>FRIDAY</u></h4>
- <h6>9am-12pm - Pickleball
- <h6>Fourth Friday of the Month: 4-6pm - Senior Bingo</h6>
- <h6>Fourth Friday of the Month: 6-8pm - Adult Dodgeball League</h6>
- <h6>6-9pm - Family Game Night</h6>
+<h3>North Charleston Community Center:</h3>
+<h4><u>MONDAY</u></h4> 
+<h6>9am-12pm – Pickleball</h6>
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h6>5:30pm-9pm – Charleston Table Tennis League (Open to all) </h6>
+<h4><u>TUESDAY</u></h4>
+<h6>9am-12pm – Pickleball</h6>
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h4><u>WEDNESDAY</u></h4>
+<h6>Third Wednesday of every Month: 11am-12pm – Socializing Through Play “Sensory Sensitive Event” </h6>
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h6>6pm-7pm – Line Dance Class</h6>
+<h4><u>THURSDAY</u></h4>
+<h6>9am-12pm – Pickleball</h6>
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h6>6pm-7pm – Line Dance Class</h6>
+<h6>6pm-8pm – Men’s Basketball</h6>
+<h4><u>FRIDAY</u></h4>
+<h6>9am-12pm – Pickleball
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
 <h4><u>SATURDAY</u></h4>
- <h6>9am-12pm - Co-Ed Volleyball</h6>
-            
+<h6>9am-12pm – Co-Ed Volleyball</h6>
+  
                     <p><small>2009 7th Ave., Charleston, WV 25387 | (304)348-0529
                         </small>
                     </p>
