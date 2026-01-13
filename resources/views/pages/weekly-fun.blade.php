@@ -28,34 +28,37 @@
                 <div class="col-md-8">
                     <h3>Kanawha City Community Center:</h3>
 
-                   <h4><u>MONDAY</u></h4> 
-<h6>  9-Noon - Pickleball</h6>
+ <h4><u>MONDAY</u></h4> 
+<h6>9-Noon - Pickleball</h6>
 <h6>2pm-3:30pm – Sew Much Fun “Sewing Class”</h6>
 <h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
 <h6>6pm-7:30pm – Youth Boxing</h6>
 <h6>7pm-8:45pm – Adult Basketball</h6>
 <h4><u>  TUESDAY</u></h4> 
-<h6>2-5:30pm - Step by Step Afterschool Program</h6>
-<h6>6-7:30pm - Martial Arts Class</h6>
-<h6>6-7pm - Women's Fitness Hour</h6>
+<h6>11am-12pm – Senior Silver Sneakers</h6>
+<h6>12pm-2pm – Pickleball</h6>
+<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
+<h6>6pm-7pm – Rhythm & Release Yoga</h6>
+ <h6>6pm-7:30pm – Youth Boxing</h6>
 <h4><u>WEDNESDAY</u></h4> 
-<h6>9-Noon - Pickleball</h6>
-<h6>2-5:30pm - Step by Step Afterschool Program</h6>
-<h6> 6-7pm - Women's Fitness Hour</h6>
-<h6>6-9pm - Teen Night Basketball</h6>
+<h6>12pm-2pm – Pickleball </h6>
+<h6>First Wednesday of every Month: 1:30pm-2:30pm – Prime Time “Senior Programming” </h6>
+<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program </h6>
+<h6>4:30pm-6pm – Tutoring Jam Sessions </h6>
+<h6>6pm-7:30pm – Youth Boxing</h6>
+<h6>6:30pm-8:30pm – Kyper Kai Academy Fencing</h6>
 <h4><u>THURSDAY</u></h4> 
-<h6>2-5:30pm - Step by Step Afterschool Program</h6>
-<h6>6-7pm - Women's Fitness Hour</h6>
-<h6>6-7:30pm - Martial Arts Class</h6>
-<h6>6-8pm - Co-Ed Volley Ball</h6>
+<h6>12pm-2pm – Pickleball </h6>
+<h6>Third Thursday of every Month: 1:30pm-3pm – Senior Bingo</h6>
+<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
+<h6>6pm-7:30pm – Youth Boxing</h6>
+<h6>Last Thursday of every Month: 6pm-8pm – Movie Night</h6>
 <h4><u>FRIDAY</u></h4> 
-<h6>9-Noon - Pickleball</h6>
-<h6>2-5:30pm - Step by Step Afterschool Program</h6>
-<h6>5-9pm - Biddy Ball Practices</h6>
+<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
 <h4><u>SATURDAY</u></h4> 
-<h6>9-Noon - Pickleball</h6>
-<h6>Noon-2pm - Striders STARTS 1/04/25, ENDS 3/29/25</h6>
-<h6>Noon-3pm - Card Sharks</h6>
+<h6>9am-12pm – Futsal </h6>
+ <h4><u>SUNDAY</u></h4> 
+<h6>CLOSED</h6>
                     
                                     
                     <p><small>3511 Venable Ave, Charleston, WV 25301 | (304)348-6484
