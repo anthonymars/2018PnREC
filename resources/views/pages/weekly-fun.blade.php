@@ -168,6 +168,8 @@
 <h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
 <h4><u>SATURDAY</u></h4>
 <h6>9am-12pm – Co-Ed Volleyball</h6>
+<h4><u>SUNDAY</u></h4> 
+<h6>CLOSED</h6>
   
                     <p><small>2009 7th Ave., Charleston, WV 25387 | (304)348-0529
                         </small>
