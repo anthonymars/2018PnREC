@@ -29,7 +29,6 @@
                     <h3>Kanawha City Community Center:</h3>
 
  <h4><u>MONDAY</u></h4> 
-<h6>9-Noon - Pickleball</h6>
 <h6>2pm-3:30pm – Sew Much Fun “Sewing Class”</h6>
 <h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
 <h6>6pm-7:30pm – Youth Boxing</h6>
