@@ -29,10 +29,11 @@
                     <h3>Kanawha City Community Center:</h3>
 
                    <h4><u>MONDAY</u></h4> 
-               <h6>  9-Noon - Pickleball</h6>
-<h6>2-5:30pm - Step by Step Afterschool Program</h6>
-<h6>6-7pm - Zumba STARTS 12/02/24</h6>
-<h6>6-9pm - Men's Night Basketball</h6>
+<h6>  9-Noon - Pickleball</h6>
+<h6>2pm-3:30pm – Sew Much Fun “Sewing Class”</h6>
+<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
+<h6>6pm-7:30pm – Youth Boxing</h6>
+<h6>7pm-8:45pm – Adult Basketball</h6>
 <h4><u>  TUESDAY</u></h4> 
 <h6>2-5:30pm - Step by Step Afterschool Program</h6>
 <h6>6-7:30pm - Martial Arts Class</h6>
