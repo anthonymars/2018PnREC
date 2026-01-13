@@ -110,19 +110,20 @@
                 <div class="col-md-8">
                     <h3>Roosevelt Neighborhood Center:</h3>
                      <h4><u>MONDAY</u></h4> 
-                  <h6>  5-7pm – Ladies Only Shotokan Karate </h6>
-                       <h6> 6-8pm – Men’s Night Basketball </h6>
-                       <h4><u>TUESDAY</u></h4>
-                       <h6>5-6pm – Shotokan Karate </h6>
+                     <h6> Open </h6>
+                     <h4><u>TUESDAY</u></h4>
                        <h6>5-6pm – Line Dance </h6>
                       <h4><u>WEDNESDAY</u></h4>
-                       <h6>10am-1pm – East End Resource Center Senior Day</h6>
+                       <h6>10am-2pm – East End Resource Center Senior Day</h6>
                       <h4><u>THURSDAY</u></h4>
-                     <h6> 6-7:30pm – Shotokan Karate</h6>
+                     <h6> 5pm-6pm – Karate Class</h6>
                       <h6>noon-2pm – East End Resource Center Senior Day</h6>
                       <h4><u>FRIDAY</u></h4>
-                      <h6>noon-2pm – East End Resource Center Senior Day</h6>
-
+                      <h6>12pm-2pm – East End Resource Center Senior Day</h6>
+                    <h4><u>SATURDAY</u></h4> 
+                    <h6>CLOSED </h6>
+                   <h4><u>SUNDAY</u></h4> 
+                  <h6>CLOSED</h6>
                     <!--    <li> Monday-Thursday 4pm-5pm – Men’s Fitness  </li>
                        <li> Tuesdays 5pm / $5 per class / 55+ years Free - Pickleball  </li>
                        <li> Wednesday & Thursday 12pm-2pm - Line Dance Class </li>
