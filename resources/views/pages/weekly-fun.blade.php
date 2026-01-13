@@ -28,7 +28,44 @@
                 <div class="col-md-8">
                     <h3>Kanawha City Community Center:</h3>
 
- <h4><u>MONDAY</u></h4> 
+<h4><u>MONDAY</u></h4> 
+<h6>9:30am-12pm – Pickleball</h6>
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h4><u>  TUESDAY</u></h4> 
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h6>6pm-7:30pm – Martial Arts Class</h6>
+<h4><u>WEDNESDAY</u></h4> 
+<h6>9:30am-12pm – Pickleball</h6>
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h6>3pm-4pm – Youth Cornhole Tournaments</h6>
+<h4><u>THURSDAY</u></h4> 
+<h6>Second Thursday of every Month: 10:30am-12:30pm – Senior Bingo</h6>
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h6>6pm-7:30pm – Martial Arts Class</h6>
+<h6>7pm-8:30pm – Co-Ed Volleyball</h6>
+<h4><u>FRIDAY</u></h4> 
+<h6>9:30am-12pm – Pickleball</h6>
+<h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h4><u>SATURDAY</u></h4> 
+<h6>12pm-2pm – Capital City Striders Practice (January 3-March 28, 2026) </h6>
+ <h4><u>SUNDAY</u></h4> 
+<h6>CLOSED</h6>
+                    
+                                    
+                    <p><small>3511 Venable Ave, Charleston, WV 25301 | (304)348-6484
+                        </small>
+                    </p>
+                </div>
+            </div>
+            <hr>
+
+            <div class="row">
+                <div class="col-md-4 pb-5">
+                    <a href="/mlk-jr"><img src="{{ asset('/images/centers/mlk_site.jpg') }}" alt="center" class="img-fluid"></a>
+                </div>
+                <div class="col-md-8">
+                    <h3>Martin Luther King Jr. Community Center:</h3>
+                       <h4><u>MONDAY</u></h4> 
 <h6>2pm-3:30pm – Sew Much Fun “Sewing Class”</h6>
 <h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
 <h6>6pm-7:30pm – Youth Boxing</h6>
@@ -58,41 +95,6 @@
 <h6>9am-12pm – Futsal </h6>
  <h4><u>SUNDAY</u></h4> 
 <h6>CLOSED</h6>
-                    
-                                    
-                    <p><small>3511 Venable Ave, Charleston, WV 25301 | (304)348-6484
-                        </small>
-                    </p>
-                </div>
-            </div>
-            <hr>
-
-            <div class="row">
-                <div class="col-md-4 pb-5">
-                    <a href="/mlk-jr"><img src="{{ asset('/images/centers/mlk_site.jpg') }}" alt="center" class="img-fluid"></a>
-                </div>
-                <div class="col-md-8">
-                    <h3>Martin Luther King Jr. Community Center:</h3>
-                      <h4><u>MONDAY</u></h4> 
-<h6>7-8:45pm  - Men's Night Basketball</h6>
-<h6>6-7:30pm - Youth Boxing</h6>
-    <h4><u>TUESDAY</u></h4> 
-<h6>12-2pm - Pickleball</h6>
-<h6>6-7:30pm - Youth Boxing</h6>
-   <h4><u>WEDNESDAY</u></h4>  
-<h6>12-2pm - Pickleball</h6>
-<h6>6-7:30pm - Youth Boxing</h6>
-<h6>6-8pm - Youth Movie Night</h6>
-<h6>6:30-7:30pm - Zumba</h6>
-   <h4><u>THURSDAY</u></h4> 
-<h6>12-2pm - Pickleball</h6>
-<h6>Third Thursday of the Month: 1:30-3pm - Senior Bingo</h6>
-<h6>6-7:30pm - Youth Boxing</h6>
-   <h4><u>FRIDAY</u></h4>  
-<h6>5:30-7:30pm - Friday Funday STARTS 1/03/2025</h6>
-<h6>First Friday of the Month: 6-8pm - Game Night</h6>
-    <h4><u>SATURDAY</u></h4> 
-<h6>9am-12pm - Futsal STARTS 12/14/2024, ENDS 3/29/2025</h6>
                     <p><small>314 Donnally St, Charleston, WV 25301 | (304)348-6404
                         </small>
                     </p>
