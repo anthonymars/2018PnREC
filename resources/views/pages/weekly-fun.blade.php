@@ -72,7 +72,7 @@
                     <h3>Martin Luther King Jr. Community Center:</h3>
                        <h4><u>MONDAY</u></h4> 
 <h6>2pm-3:30pm – Sew Much Fun “Sewing Class”</h6>
-<h6>2:30pm-5:30pm – KYFC After-School Program</h6>h6>
+<h6>2:30pm-5:30pm – KYFC After-School Program</h6>
 <h6>3pm-4pm - Tutoring Session </h6>
 <h6>6pm-8pm – Youth Boxing</h6>
 <h6>7pm-8:45pm – Adult Basketball</h6>
@@ -84,9 +84,9 @@
  <h6>6pm-8PM – Youth Boxing</h6>
 <h4><u>WEDNESDAY</u></h4> 
 <h6>12pm-2pm – Pickleball </h6>
-<h6>First Wednesday of every Month: 1:30pm-2:30pm – Prime Time “Senior Programming” </h6>
 <h6>2:30pm-5:30pm – KYFC After-School Program </h6>
-<h6>4:30pm-6pm – Tutoring Jam Sessions </h6>
+<h6>3pm-4pm – Tutoring Session </h6>
+<h6>4:30-6pm- Basketball Tutoring </h6>
 <h6>6pm-7:30pm – Youth Boxing</h6>
 <h6>6:30pm-8:30pm – Kyper Kai Academy Fencing</h6>
 <h4><u>THURSDAY</u></h4> 
