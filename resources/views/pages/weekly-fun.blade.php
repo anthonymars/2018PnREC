@@ -31,22 +31,27 @@
 <h4><u>MONDAY</u></h4> 
 <h6>9:30am-12pm – Pickleball</h6>
 <h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h6>3:30pm-4:30pm – Game Night (Every Other Monday Opposite Week of Friday Night Feast)</h6>
+<h6>5:00pm-6:00pm – Program Coordinator’s Choice</h6>
 <h4><u>  TUESDAY</u></h4> 
 <h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h6>5:00pm-6:00pm – Program Coordinator’s Choice</h6>
 <h6>6pm-7:30pm – Martial Arts Class</h6>
 <h4><u>WEDNESDAY</u></h4> 
 <h6>9:30am-12pm – Pickleball</h6>
 <h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
-<h6>3pm-4pm – Youth Cornhole Tournaments</h6>
+<h6>5:00pm-6:00pm – Program Coordinator’s Choice</h6>
+<h6>7:00pm-8:00pm – Men’s B-Ball</h6>
 <h4><u>THURSDAY</u></h4> 
-<h6>Second Thursday of every Month: 10:30am-12:30pm – Senior Bingo</h6>
 <h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
 <h6>6pm-7:30pm – Martial Arts Class</h6>
-<h6>7pm-8:30pm – Co-Ed Volleyball</h6>
+<h6>7pm-8:30pm – Open Volleyball</h6>
 <h4><u>FRIDAY</u></h4> 
 <h6>9:30am-12pm – Pickleball</h6>
 <h6>2:30pm-5:30pm – Step by Step After-School Program</h6>
+<h6>4:00pm-6:00pm – Friday Night Feast (Every Other Friday Opposite of Game Night)</h6>
 <h4><u>SATURDAY</u></h4> 
+<h6>9:30am-12pm – Pickleball</h6>
 <h6>12pm-2pm – Capital City Striders Practice (January 3-March 28, 2026) </h6>
  <h4><u>SUNDAY</u></h4> 
 <h6>CLOSED</h6>
@@ -67,32 +72,34 @@
                     <h3>Martin Luther King Jr. Community Center:</h3>
                        <h4><u>MONDAY</u></h4> 
 <h6>2pm-3:30pm – Sew Much Fun “Sewing Class”</h6>
-<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
-<h6>6pm-7:30pm – Youth Boxing</h6>
+<h6>2:30pm-5:30pm – KYFC After-School Program</h6>h6>
+<h6>3pm-4pm - Tutoring Session </h6>
+<h6>6pm-8pm – Youth Boxing</h6>
 <h6>7pm-8:45pm – Adult Basketball</h6>
 <h4><u>  TUESDAY</u></h4> 
 <h6>11am-12pm – Senior Silver Sneakers</h6>
 <h6>12pm-2pm – Pickleball</h6>
-<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
-<h6>6pm-7pm – Rhythm & Release Yoga</h6>
- <h6>6pm-7:30pm – Youth Boxing</h6>
+<h6>2:30pm-5:30pm – KYFC After-School Program</h6>
+<h6>2:30pm-5pm – Homework Hour</h6>
+ <h6>6pm-8PM – Youth Boxing</h6>
 <h4><u>WEDNESDAY</u></h4> 
 <h6>12pm-2pm – Pickleball </h6>
 <h6>First Wednesday of every Month: 1:30pm-2:30pm – Prime Time “Senior Programming” </h6>
-<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program </h6>
+<h6>2:30pm-5:30pm – KYFC After-School Program </h6>
 <h6>4:30pm-6pm – Tutoring Jam Sessions </h6>
 <h6>6pm-7:30pm – Youth Boxing</h6>
 <h6>6:30pm-8:30pm – Kyper Kai Academy Fencing</h6>
 <h4><u>THURSDAY</u></h4> 
 <h6>12pm-2pm – Pickleball </h6>
 <h6>Third Thursday of every Month: 1:30pm-3pm – Senior Bingo</h6>
-<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
-<h6>6pm-7:30pm – Youth Boxing</h6>
-<h6>Last Thursday of every Month: 6pm-8pm – Movie Night</h6>
+<h6>2:30pm-5:30pm – KYFC After-School Program</h6>
+<h6>2:30pm-5pm- Homework Hour</h6>
+<h6>6pm-8pm – Youth Boxing</h6>
 <h4><u>FRIDAY</u></h4> 
-<h6>2:30pm-5:30pm – PAAC 21st Century After-School Program</h6>
+<h6>2:30pm-5:30pm – KYFC After-School Program</h6>
+<h6>2:30pm-5pm- Homework Hour</h6>
 <h4><u>SATURDAY</u></h4> 
-<h6>9am-12pm – Futsal </h6>
+<h6>None </h6>
  <h4><u>SUNDAY</u></h4> 
 <h6>CLOSED</h6>
                     <p><small>314 Donnally St, Charleston, WV 25301 | (304)348-6404
