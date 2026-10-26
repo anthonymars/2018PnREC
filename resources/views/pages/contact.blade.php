@@ -46,7 +46,7 @@
                         <br />Charleston, WV 25301
                         <br />(304)348-6484
                         <br />Program Coordinator: <a href="mailto:Tyrone.Scott@cityofcharleston.org">Tyrone Scott</a>
-                        <br />Program Coordinator: <a href="mailto:Kristi.Evans@cityofcharleston.org">Kristi Evans/a>
+                        <br />Program Coordinator: <a href="mailto:Kristi.Evans@cityofcharleston.org">Kristi Evans</a>
                 <br />Assistant Program Coordinator: <a href="mailto:April.Meadows@cityofcharleston.org">April Meadows</a> 
                      
                        
