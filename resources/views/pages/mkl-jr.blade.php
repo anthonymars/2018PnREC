@@ -58,12 +58,12 @@
                             <br />Saturday 9am - 5pm
                             <br />Sunday Closed
                            <!--<br />Tuesday - Sunday 12pm - 6pm -->
-                             <br /><strong>Program Coordinator:</strong>
-                          <!--  <br /><a href="mailto:dax.miller@cityofcharleston.org"><i class="fa fa-envelope"></i> Cookie Miller </a></small> -->
-                            <br /> <a href="mailto:Star.Hogan@cityofcharleston.org"> <i class="fa fa-envelope"></i>Star Hogan</a></small>
+                            <br /><strong>Program Coordinator:</strong>
+                            <br /><a href="mailto:Natalia.Sayles@cityofcharleston.org"><i class="fa fa-envelope"></i> Natalyia Sayles</a></small>
+                            <!--- <br /> <a href="mailto:Star.Hogan@cityofcharleston.org"> <i class="fa fa-envelope"></i>Star Hogan</a></small> --->
                             <br /> <a href="mailto:Cantika.Ratih@cityofcharleston.org"> <i class="fa fa-envelope"> </i> Cantika Ratih </a> </small>
-                          <!--    <br /><strong> Asst Program Coordinator:</strong> </small> -->
-                            <!--<br /><a href="mailto:DeLicia.Minued@cityofcharleston.org"> <i class="fa fa-envelope"></i>De’Licia Minued</a></small> -->
+                            <br /><strong> Asst Program Coordinator:</strong> </small>
+                            <br /><a href="mailto:Maggie.Rice@cityofcharleston.org"> <i class="fa fa-envelope"></i>Maggie Rice</a></small>
                             
                    
                     </p>

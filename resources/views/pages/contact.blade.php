@@ -22,7 +22,7 @@
                     <!--<br />Program Coordinator: <a href="mailto:Corey.Lowery@cityofcharleston.org">Corey Lowery</a>-->
                     <br />Program Coordinator: <a href="mailto:Keenan.farmer@cityofcharleston.org"> Keenan Farmer</a>
                     <br />Program Coordinator: <a href="mailto:Julia.Kinney@cityofcharleston.org"> Julia Kinney</a>
-                    <br />Assistant Program Coordinator: <a href="mailto:pamela.whitestone@cityofcharleston.org">Pamela Whitestone</a>
+                    <br />Assistant Program Coordinator: <a href="mailto:Benita.Calloway@cityofcharleston.org">Benita Calloway</a>
                     <br /><strong>Hours:</strong>
                     <br />Monday - Friday 9am - 9pm
                     <br />Saturday 9am - 5pm
@@ -45,8 +45,8 @@
                     <p><small>3511 Venable Ave
                         <br />Charleston, WV 25301
                         <br />(304)348-6484
-                        <br />Program Coordinator: <a href="mailto:Kelly.Jones@cityofcharleston.org">Kelly Jones</a>
-                        <br />Program Coordinator: <a href="mailto:T'Andre.Boxley@cityofcharleston.org">T’Andre Boxley</a>
+                        <br />Program Coordinator: <a href="mailto:Tyrone.Scott@cityofcharleston.org">Tyrone Scott</a>
+                        <br />Program Coordinator: <a href="mailto:Kristi.Evans@cityofcharleston.org">Kristi Evans/a>
                 <br />Assistant Program Coordinator: <a href="mailto:April.Meadows@cityofcharleston.org">April Meadows</a> 
                      
                        
@@ -72,9 +72,9 @@
                     <p><small>314 Donnally St.
                         <br />Charleston, WV 25301
                         <br />(304)348-6404
-                        <br />Program Coordinator:<a href="mailto:Donnelle.badger@cityofcharleston.org">Donnelle Badger </a>
-                        <br />Program Coordinator:<a href="mailto:Spencer.Dean@cityofcharleston.org">Spencer Dean</a>
-                        <br />Ass.Program Coordinator:<a href="mailto:Benita.Calloway@cityofcharleston.org">Benita Calloway</a>
+                        <br />Program Coordinator:<a href="mailto:Cantika.Ratih@cityofcharleston.org">Cantika Ratih</a>
+                        <br />Program Coordinator:<a href="mailto:Natalyia.Sayles@cityofcharleston.org">Natalyia Sayles</a>
+                        <br />Ass.Program Coordinator:<a href="mailto:Maggie.Rice@cityofcharleston.org">Maggie Rice</a>
                       
                         <br /><strong>Hours:</strong>
                         <br />Monday - Friday 9am - 9pm
